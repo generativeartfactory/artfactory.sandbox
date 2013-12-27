@@ -23,5 +23,33 @@
 
 [kicktipp.de](http://kicktipp.de) - EM, Bundesliga Tippspiel - Kicktipp GmbH, Düsseldorf
 
+Kicktipp GmbH  
+Königstraße 9  
+40212 Düsseldorf  
+Deutschland  
+Geschäftsführung: Janning Vygen
+
+[webtippspiel.de](http://webtippspiel.de) - a viersicht crossmedia product
+
+viersicht crossmedia  
+Bei den Mühren 70  
+20457 Hamburg
+
+
 [sprain.ch/tippspiel](http://sprain.ch/tippspiel) - EM Tippspiel, Manuel Reinhard (Schweiz)
+
+[tippspiel.laola1.at](http://tippspiel.laola1.at)
+- [Example User](http://tippspiel.laola1.at/uefa-champions-league/viewuser/l13438at)
+
+[football-austria.com/nfl_tippspiel](http://football-austria.com/home/nfl_tippspiel.html)
+
+[worldfootball.net/champions-league-2013-2014-tippspiel](http://www.worldfootball.net/group/champions-league-2013-2014-tippspiel/)
+
+
+----
+[tipponline.ch](http://www.tipponline.ch)
+[tippspielarena.de](http://tippspielarena.de)
+[tippspielblog.de](http://www.tippspielblog.de) -  WM 2014 Tippspielportal
+----
+
 
