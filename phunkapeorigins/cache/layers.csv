@@ -1,0 +1,113 @@
+index, dist, name, type, hide
+0/0, 210, Cigar, image/png, false
+0/1, 250, Banana Wrapped Blunt, image/png, false
+0/2, 300, Pipe, image/png, false
+0/3, 300, Twig, image/png, false
+0/4, 380, Canines, image/png, false
+0/5, 390, Blunt, image/png, false
+0/6, 400, Tooth, image/png, false
+0/7, 435, Joint, image/png, false
+0/8, 435, Vape, image/png, false
+0/9, 1900, None, image/png, false
+1/0, 260, Diamond Chain, image/png, false
+1/1, 420, Collar, image/png, false
+1/2, 420, White Lace, image/png, false
+1/3, 570, Gash, image/png, false
+1/4, 610, Gold Chain, image/png, false
+1/5, 640, Tooth Necklace, image/png, false
+1/6, 640, Silver Chain, image/png, false
+1/7, 1440, None, image/png, false
+2/0, 300, Diamond Dangle, image/png, false
+2/1, 400, Diamond Stud, image/png, false
+2/2, 600, Gold Dangle, image/png, false
+2/3, 650, Gold Stud, image/png, false
+2/4, 700, Silver Dangle, image/png, false
+2/5, 750, Tooth Plug, image/png, false
+2/6, 750, Silver Stud, image/png, false
+2/7, 850, None, image/png, false
+3/0, 90, Green Nouns, image/png, false
+3/1, 90, Pink Nouns, image/png, false
+3/2, 90, Blue Nouns, image/png, false
+3/3, 90, VR, image/png, false
+3/4, 90, Snow Visor, image/png, false
+3/5, 100, 3D, image/png, false
+3/6, 110, Blue Visor, image/png, false
+3/7, 110, Visor, image/png, false
+3/8, 180, Undead, image/png, false
+3/9, 200, Gold Aviator, image/png, false
+3/10, 240, Classic Shades, image/png, false
+3/11, 240, Big Shades, image/png, false
+3/12, 240, Matrix Shades, image/png, false
+3/13, 240, Blue Light Blockers, image/png, false
+3/14, 240, Silver Aviator, image/png, false
+3/15, 250, Small Shades, image/png, false
+3/16, 390, Red, image/png, false
+3/17, 390, Focused Red, image/png, false
+3/18, 660, Focused, image/png, false
+3/19, 960, None, image/png, false
+4/0, 20, Royal Crown, image/png, false
+4/1, 30, Gold Hoodie, image/png, false
+4/2, 40, Monkey Skull Band, image/png, false
+4/3, 50, Overgrown Mushroom, image/png, false
+4/4, 60, OG Monkey Hat, image/png, false
+4/5, 60, Beanie, image/png, false
+4/6, 61, Bone Head, image/png, false
+4/7, 61, Arrow, image/png, false
+4/8, 80, Green Bucket Hat, image/png, false
+4/9, 80, Purple Bucket Hat, image/png, false
+4/10, 80, Headband, image/png, false
+4/11, 80, Fedora, image/png, false
+4/12, 80, Top Hat, image/png, false
+4/13, 80, Sun Hat, image/png, false
+4/14, 80, Fast Food Hat, image/png, false
+4/15, 80, Official Monkey Hat, image/png, false
+4/16, 90, Apricot Knitted Cap, image/png, false
+4/17, 90, Peach Knitted Cap, image/png, false
+4/18, 90, Green Ballcap, image/png, false
+4/19, 90, Viking Helmet, image/png, false
+4/20, 90, Clean Hoodie, image/png, false
+4/21, 90, OG Hoodie, image/png, false
+4/22, 90, Mushroom, image/png, false
+4/23, 90, Red Ballcap, image/png, false
+4/24, 160, Dark Durag, image/png, false
+4/25, 160, Grey Cap, image/png, false
+4/26, 160, Wild Monkey Hair, image/png, false
+4/27, 160, Gash, image/png, false
+4/28, 160, Brains, image/png, false
+4/29, 160, Dark Cowboy Hat, image/png, false
+4/30, 160, Light Durag, image/png, false
+4/31, 160, Light Cowboy Hat, image/png, false
+4/32, 160, Bandana, image/png, false
+4/33, 170, Grey Trucker Hat, image/png, false
+4/34, 170, Clean Trucker Hat, image/png, false
+4/35, 170, Crazy Monkey Hair, image/png, false
+4/36, 170, Wise Monkey Hair, image/png, false
+4/37, 286, Stray Hair, image/png, false
+4/38, 286, Coat Shine, image/png, false
+4/39, 566, None, image/png, false
+5/0, 35, Alien, image/png, false
+5/1, 65, Yeti, image/png, false
+5/2, 95, Rainbow, image/png, false
+5/3, 125, Zombie, image/png, false
+5/4, 180, Gold, image/png, false
+5/5, 410, Bonobo, image/png, false
+5/6, 530, Silver Back, image/png, false
+5/7, 550, Orangutan, image/png, false
+5/8, 590, Gibbon, image/png, false
+5/9, 590, Baboon, image/png, false
+5/10, 610, Chimpanzee 2, image/png, false
+5/11, 610, Chimpanzee 1, image/png, false
+5/12, 610, Chimpanzee 3, image/png, false
+6/0, 800, Blue 2, image/png, false
+6/1, 950, Blue 1, image/png, false
+6/2, 950, Blue 3, image/png, false
+6/3, 1100, Blue 4, image/png, false
+6/4, 1200, Blue 5, image/png, false
+7/0, 275, Unknown, image/png, false
+7/1, 675, Sahelanthropus Tchadensis, image/png, false
+7/2, 675, Orrorin Tugenensis, image/png, false
+7/3, 675, Ardipithecus Kadabba, image/png, false
+7/4, 675, Ardipithecus Ramidus, image/png, false
+7/5, 675, Australopithecus Africanus, image/png, false
+7/6, 675, Paranthropus, image/png, false
+7/7, 675, Australopithecus Sediba, image/png, false

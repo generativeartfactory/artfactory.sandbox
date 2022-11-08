@@ -1,0 +1,95 @@
+index, dist, name, type, hide
+0/0, 1, Ghost 1/1, image/png, false
+0/1, 1, Mutant 1/1, image/png, false
+0/2, 1, Hunter 1/1, image/png, false
+0/3, 1, Candy 1/1, image/png, false
+0/4, 1, Waikiki 1/1, image/png, false
+0/5, 1, Chichi Phunk, image/png, false
+0/6, 10, Kalo Leaves, image/png, false
+0/7, 17, Volcano, image/png, false
+0/8, 18, NY, image/png, false
+0/9, 28, Boba Tea, image/png, false
+0/10, 34, Pigtails, image/png, false
+0/11, 38,  Grad Cap, image/png, false
+0/12, 46, Bun, image/png, false
+0/13, 54, Emo, image/png, false
+0/14, 63,  UH Hat, image/png, false
+0/15, 63, Beanie, image/png, false
+0/16, 65, Headphones, image/png, false
+0/17, 69, Fedora, image/png, false
+0/18, 76, Black Mullet, image/png, false
+0/19, 81, Halo, image/png, false
+0/20, 82, Rainbow, image/png, false
+0/21, 89, Mohawk, image/png, false
+0/22, 91, Haku Lei, image/png, false
+0/23, 113, Mullet, image/png, false
+0/24, 132, Pineapple, image/png, false
+0/25, 133, Shave Ice, image/png, false
+0/26, 192, Bald, image/png, false
+1/0, 0, Blank 4, image/png, true
+1/1, 13, Lazer, image/png, false
+1/2, 18, Horn Rim, image/png, false
+1/3, 43, Blaze, image/png, false
+1/4, 62, Athletic, image/png, false
+1/5, 85, Aviators, image/png, false
+1/6, 88, Cobain, image/png, false
+1/7, 110, Sports, image/png, false
+1/8, 111,  xx, image/png, false
+1/9, 121, Fiesty, image/png, false
+1/10, 189, Sleepy, image/png, false
+1/11, 193, Heart Eyes, image/png, false
+1/12, 231, Curious, image/png, false
+1/13, 236, Cute, image/png, false
+2/0, 0, Blank 3, image/png, true
+2/1, 15, Musubi, image/png, false
+2/2, 37, Banana, image/png, false
+2/3, 38, Cbd Cig, image/png, false
+2/4, 55, Teeth Out, image/png, false
+2/5, 169, Bone, image/png, false
+2/6, 190, Rainbow Puke, image/png, false
+2/7, 284, Mustachio, image/png, false
+2/8, 293, Tongue Out, image/png, false
+2/9, 419, Smile, image/png, false
+3/0, 0, Blank 2, image/png, true
+3/1, 3, Backpack, image/png, false
+3/2, 4, Surfboard, image/png, false
+3/3, 9, Spike Collar, image/png, false
+3/4, 99, Diamond Earrings, image/png, false
+3/5, 147, Earrings, image/png, false
+3/6, 187, Lightning Bolt Earrings, image/png, false
+3/7, 254, Gold Chain, image/png, false
+3/8, 318, Lei, image/png, false
+3/9, 479, Simple Day, image/png, false
+4/0, 0, Blank 1, image/png, true
+4/1, 36, Angel Wings, image/png, false
+4/2, 52, Suit, image/png, false
+4/3, 61, Tattoo, image/png, false
+4/4, 71, Faded Black Shirt, image/png, false
+4/5, 108, Jersey, image/png, false
+4/6, 158, Stripes, image/png, false
+4/7, 205, Tank Top, image/png, false
+4/8, 228, Camo Tshirt, image/png, false
+4/9, 253, Aloha Shirt, image/png, false
+4/10, 328, Au Naturel, image/png, false
+5/0, 0, Blank 5, image/png, true
+5/1, 5, Gold, image/png, false
+5/2, 22, Green, image/png, false
+5/3, 27, Deep Teal, image/png, false
+5/4, 64, Dark Brown, image/png, false
+5/5, 147, Magenta, image/png, false
+5/6, 167, Teal, image/png, false
+5/7, 172, Pink, image/png, false
+5/8, 219, Silver, image/png, false
+5/9, 289, Grey, image/png, false
+5/10, 388, Tan, image/png, false
+6/0, 0, Blank 6, image/png, true
+6/1, 7, Vortex, image/png, false
+6/2, 34, Starry Night, image/png, false
+6/3, 90, Cruise Ship, image/png, false
+6/4, 90, Wave, image/png, false
+6/5, 142, Palms, image/png, false
+6/6, 150, Sunset, image/png, false
+6/7, 183, Morning Glow, image/png, false
+6/8, 257, Straw, image/png, false
+6/9, 260, Papaya, image/png, false
+6/10, 287, Wai, image/png, false
