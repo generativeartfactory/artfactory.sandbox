@@ -1,0 +1,12 @@
+
+slug:  dankpunks
+
+
+
+###
+#  https://opensea.io/collection/dank-punks-v2
+opensea: dank-punks-v2
+
+
+token:
+  contract:  "0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9"
