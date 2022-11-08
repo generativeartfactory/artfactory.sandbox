@@ -1,0 +1,70 @@
+index, dist, name, type, hide
+0/0, 1576, Diamond Chain, image/png, false
+0/1, 1593, Gold Chain, image/png, false
+0/2, 1734, Silver Chain, image/png, false
+0/3, 2874, No Chains, image/png, false
+1/0, 1057, Diamond Stud, image/png, false
+1/1, 1177, Gold Stud, image/png, false
+1/2, 1365, Silver Stud, image/png, false
+1/3, 4178, No Earrings, image/png, false
+2/0, 334, Horn Rimmed Glasses, image/png, false
+2/1, 375, Nerd Glasses, image/png, false
+2/2, 385, 3 D Glasses, image/png, false
+2/3, 428, Eye Mask, image/png, false
+2/4, 506, Big Shades, image/png, false
+2/5, 512, Goggles, image/png, false
+2/6, 521, Blue Clown Eyes, image/png, false
+2/7, 534, Laser, image/png, false
+2/8, 575, Regular Shades, image/png, false
+2/9, 623, Eye Patch, image/png, false
+2/10, 664, VR, image/png, false
+2/11, 698, Classic Shades, image/png, false
+2/12, 789, Green Clown Eyes, image/png, false
+2/13, 833, Eyes, image/png, false
+3/0, 764, Pipe, image/png, false
+3/1, 842, Vape, image/png, false
+3/2, 953, Cigar, image/png, false
+3/3, 1111, Cigarette, image/png, false
+3/4, 1254, Smile, image/png, false
+3/5, 2853, Grin, image/png, false
+4/0, 686, Clown Nose, image/png, false
+4/1, 7091, Nose, image/png, false
+5/0, 76, Beanie, image/png, false
+5/1, 98, Mohawk Dark, image/png, false
+5/2, 111, Police Cap, image/png, false
+5/3, 113, Cowboy Hat, image/png, false
+5/4, 123, Clown Top Hat, image/png, false
+5/5, 132, Helmet, image/png, false
+5/6, 142, Fast Food Cap, image/png, false
+5/7, 154, Knitted Cap, image/png, false
+5/8, 164, Stringy Hair, image/png, false
+5/9, 174, Crown, image/png, false
+5/10, 187, Cap, image/png, false
+5/11, 193, Mohawk Thin, image/png, false
+5/12, 199, Spiky Hair, image/png, false
+5/13, 200, Headband, image/png, false
+5/14, 205, Cap Forward, image/png, false
+5/15, 219, Fedora, image/png, false
+5/16, 230, Purple Hair, image/png, false
+5/17, 280, Clown Hair, image/png, false
+5/18, 298, Top Hat, image/png, false
+5/19, 335, Flame, image/png, false
+5/20, 342, Halo, image/png, false
+5/21, 426, Wild Hair, image/png, false
+5/22, 463, Hoodie, image/png, false
+5/23, 520, Crazy Hair, image/png, false
+5/24, 682, Messy Hair, image/png, false
+5/25, 824, Bandana, image/png, false
+5/26, 887, Bald Head, image/png, false
+6/0, 536, Front Beard, image/png, false
+6/1, 787, Chin Strap, image/png, false
+6/2, 1114, Beard, image/png, false
+6/3, 5340, Shaved, image/png, false
+7/0, 410, Iced Out Fuk, image/png, false
+7/1, 432, 1st Edition Fuk, image/png, false
+7/2, 489, Golden Fuk, image/png, false
+7/3, 838, Alien Fuk, image/png, false
+7/4, 998, Robot Fuk, image/png, false
+7/5, 1154, Zombie Fuk, image/png, false
+7/6, 1438, Undead Fuk, image/png, false
+7/7, 2018, Human Fuk, image/png, false

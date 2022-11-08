@@ -1,0 +1,100 @@
+index, dist, name, type, hide
+0/0, 3267, Silver Earring, image/png, false
+0/1, 3333, Gold Earring, image/png, false
+0/2, 3400, No Earring, image/png, false
+1/0, 830, Tiffany Blue Necklace, image/png, false
+1/1, 830, White Gold Chain, image/png, false
+1/2, 830, Diamond Chain, image/png, false
+1/3, 830, Silver Necklace, image/png, false
+1/4, 830, Gold and Diamond Necklace, image/png, false
+1/5, 830, Pink Sapphire Chain, image/png, false
+1/6, 830, Ivory Chain, image/png, false
+1/7, 830, Silver Chain, image/png, false
+1/8, 830, Pink Sapphire Necklace, image/png, false
+1/9, 830, Emerald Chain, image/png, false
+1/10, 850, No Chain, image/png, false
+1/11, 850, Gold Chain, image/png, false
+2/0, 81, Yellow Buckteeth, image/png, false
+2/1, 95, Yellow Medical Mask, image/png, false
+2/2, 165, Buckteeth, image/png, false
+2/3, 399, Pink Medical Mask, image/png, false
+2/4, 607, Blue Medical Mask, image/png, false
+2/5, 843, Black Medical Mask, image/png, false
+2/6, 954, Bubble Gum, image/png, false
+2/7, 1059, Pipe, image/png, false
+2/8, 1111, White Medical Mask, image/png, false
+2/9, 1329, Vape, image/png, false
+2/10, 1576, Cigarette, image/png, false
+2/11, 1781, No Mouth Prop, image/png, false
+3/0, 56, Eyemask, image/png, false
+3/1, 63, Nerd Glasses, image/png, false
+3/2, 126, 3D Glasses, image/png, false
+3/3, 217, Big Shades, image/png, false
+3/4, 253, Clown Eyes Purple, image/png, false
+3/5, 279, Clown Eyes Green, image/png, false
+3/6, 354, Classic Shades Black, image/png, false
+3/7, 453, Clown Eyes Blue, image/png, false
+3/8, 491, Classic Shades, image/png, false
+3/9, 616, Eyepatch, image/png, false
+3/10, 732, Reflective Regular Shades, image/png, false
+3/11, 904, VR, image/png, false
+3/12, 963, Horn-rimmed Glasses, image/png, false
+3/13, 1104, Small Shades, image/png, false
+3/14, 1572, Regular Shades, image/png, false
+3/15, 1817, Eyes, image/png, false
+4/0, 55, Beanie, image/png, false
+4/1, 65, Crown, image/png, false
+4/2, 69, Hoodie, image/png, false
+4/3, 75, Fast Food Cowboy, image/png, false
+4/4, 78, Black and Red Cap Flipped, image/png, false
+4/5, 78, Black Cap Flipped, image/png, false
+4/6, 82, Green Cap Flipped, image/png, false
+4/7, 84, Fast Food Cap Flipped, image/png, false
+4/8, 86, Pink and Blue Cap Flipped, image/png, false
+4/9, 88, Blue and White Cap Flipped, image/png, false
+4/10, 106, Red Qitra, image/png, false
+4/11, 110, Blue Cap, image/png, false
+4/12, 118, Brown Qitra, image/png, false
+4/13, 122, Welding Goggles, image/png, false
+4/14, 124, Black Cap, image/png, false
+4/15, 133, Police Cap, image/png, false
+4/16, 135, Fedora, image/png, false
+4/17, 135, White Qitra, image/png, false
+4/18, 149, Red Cap, image/png, false
+4/19, 155, Shaved Head, image/png, false
+4/20, 165, Red and White Cap Flipped, image/png, false
+4/21, 179, Purple Cap, image/png, false
+4/22, 189, Cowboy Hat, image/png, false
+4/23, 217, Do-rag, image/png, false
+4/24, 244, Top Hat, image/png, false
+4/25, 250, Blue and White Cap, image/png, false
+4/26, 284, Fast Food Cap, image/png, false
+4/27, 296, BK Cap Flipped, image/png, false
+4/28, 339, White Fast Food Cap Flipped, image/png, false
+4/29, 361, BK Cap, image/png, false
+4/30, 371, Red and Black Cap, image/png, false
+4/31, 375, White Cap Flipped, image/png, false
+4/32, 405, Black and Red Cap, image/png, false
+4/33, 422, Green Cap, image/png, false
+4/34, 428, White Fast Food Cap, image/png, false
+4/35, 433, White Cap, image/png, false
+4/36, 471, Head Band, image/png, false
+4/37, 484, Bandana, image/png, false
+4/38, 498, Cap Forward, image/png, false
+4/39, 503, Bald, image/png, false
+4/40, 514, Pink and Blue Cap, image/png, false
+4/41, 525, Knitted Cap, image/png, false
+5/0, 354, Pimples, image/png, false
+5/1, 696, Tears, image/png, false
+5/2, 1150, Spots, image/png, false
+5/3, 1630, Rosy Cheeks, image/png, false
+5/4, 1998, Pimple, image/png, false
+5/5, 2036, Mole, image/png, false
+5/6, 2136, Clear, image/png, false
+6/0, 11, Human III, image/png, false
+6/1, 11, Human II, image/png, false
+6/2, 11, Human I, image/png, false
+6/3, 88, Zombie, image/png, false
+6/4, 3840, Ape, image/png, false
+6/5, 6039, Alien, image/png, false
+7/0, 10000, Inverted V2, image/png, false
