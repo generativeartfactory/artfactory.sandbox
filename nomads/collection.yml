@@ -1,0 +1,26 @@
+
+slug: nomads
+
+
+####
+#   https://opensea.io/collection/no-mad-nomads
+opensea:  no-mad-nomads
+
+
+token:
+  contract:  "0x95123d2f71d88e2afb5351befb4762d2574fba7a"
+  layers:    ## "on-chain" layers
+    names:
+    - Elites
+    - Accessory
+    - Emotion
+    - Eyes
+    - No Mad Type
+    - Background
+    tiers:
+    - [1,1,4998]
+    - [5,10,25,25,25,69,100,125,125,125,150,150,150,200,250,250,250,300,400,400,666,1200]
+    - [50,140,243,344,464,603,623,765,1768]
+    - [98,111,443,461,496,688,832,1871]
+    - [5,25,50,695,745,795,845,895,945]
+    - [35,74,116,121,130,133,151,185,349,450,571,577,759,1349]

@@ -1,0 +1,227 @@
+index, dist, name, type, hide
+0/0, 53, Cowl, image/png, false
+0/1, 129, Horns, image/png, false
+0/2, 182, Diamond Tiara, image/png, false
+0/3, 205, Pink Antennae, image/png, false
+0/4, 210, Orange Tiara, image/png, false
+0/5, 213, Purple Antennae, image/png, false
+0/6, 215, Yellow Antennae, image/png, false
+0/7, 242, Googles, image/png, false
+0/8, 244, Blue Tiara, image/png, false
+0/9, 252, Green Antennae, image/png, false
+0/10, 262, Green Tiara, image/png, false
+0/11, 263, Pink Tiara, image/png, false
+0/12, 280, Orange Antennae, image/png, false
+0/13, 280, Purple Tiara, image/png, false
+0/14, 301, Blue Antennae, image/png, false
+0/15, 6669, None, image/png, false
+1/0, 101, Long Gold, image/png, false
+1/1, 139, Long Purple, image/png, false
+1/2, 150, Long Pink, image/png, false
+1/3, 155, Long Orange, image/png, false
+1/4, 168, Long Green, image/png, false
+1/5, 181, Long Blue, image/png, false
+1/6, 201, Gold Stud, image/png, false
+1/7, 311, Orange Stud, image/png, false
+1/8, 385, Purple Stud, image/png, false
+1/9, 470, Green Stud, image/png, false
+1/10, 499, Pink Stud, image/png, false
+1/11, 582, Blue Stud, image/png, false
+1/12, 6658, None, image/png, false
+2/0, 115, Brown Eye Patch, image/png, false
+2/1, 127, Purple Lazer, image/png, false
+2/2, 130, Purple Makeup, image/png, false
+2/3, 148, Monocle, image/png, false
+2/4, 153, Robot Visor, image/png, false
+2/5, 157, Robot Prosthetic, image/png, false
+2/6, 159, Vaporwave Shades, image/png, false
+2/7, 160, Sunset Shades, image/png, false
+2/8, 167, Indigo Eye Patch, image/png, false
+2/9, 167, Sunrise Shades, image/png, false
+2/10, 171, Red, image/png, false
+2/11, 180, Neon Shades, image/png, false
+2/12, 188, Rainbow Shades, image/png, false
+2/13, 191, Electric Lazer, image/png, false
+2/14, 193, Rainbow Visor, image/png, false
+2/15, 221, 3 D Glasses, image/png, false
+2/16, 223, Green Makeup, image/png, false
+2/17, 224, Black Shades, image/png, false
+2/18, 228, White Shades, image/png, false
+2/19, 243, Pink Makeup, image/png, false
+2/20, 254, Blue Makeup, image/png, false
+2/21, 332, Purple Cyclops, image/png, false
+2/22, 337, Electric, image/png, false
+2/23, 346, Pink Cyclops, image/png, false
+2/24, 358, Orange Cyclops, image/png, false
+2/25, 379, Yellow Cyclops, image/png, false
+2/26, 424, Green Cyclops, image/png, false
+2/27, 566, Blue Cyclops, image/png, false
+2/28, 635, Pink, image/png, false
+2/29, 671, Green, image/png, false
+2/30, 683, Purple, image/png, false
+2/31, 708, Brown, image/png, false
+2/32, 762, Blue, image/png, false
+3/0, 31, Vaporwave Long Bob, image/png, false
+3/1, 31, Rainbow Punk, image/png, false
+3/2, 41, Vaporwave Punk, image/png, false
+3/3, 41, Purple Buzz Cut, image/png, false
+3/4, 43, Pink Widow Peak, image/png, false
+3/5, 46, Purple Widow Peak, image/png, false
+3/6, 47, Purple Shag, image/png, false
+3/7, 50, Vaporwave Topknot, image/png, false
+3/8, 52, Purple Mullet, image/png, false
+3/9, 53, Pink Short, image/png, false
+3/10, 53, Pink Sleek, image/png, false
+3/11, 54, Pink Shag, image/png, false
+3/12, 54, Blue Widow Peak, image/png, false
+3/13, 55, Pink Ponytail, image/png, false
+3/14, 62, Neon Topknot, image/png, false
+3/15, 63, Purple Sleek, image/png, false
+3/16, 65, Purple Short, image/png, false
+3/17, 66, Pink Mullet, image/png, false
+3/18, 67, Pink Long Bob, image/png, false
+3/19, 70, Purple Fringe, image/png, false
+3/20, 71, Brown Buzz Cut, image/png, false
+3/21, 72, Orange Widow Peak, image/png, false
+3/22, 72, Pink Bob, image/png, false
+3/23, 72, Pink Buzz Cut, image/png, false
+3/24, 72, Pink Fringe, image/png, false
+3/25, 73, Orange Topknot, image/png, false
+3/26, 73, Blue Ponytail, image/png, false
+3/27, 74, Orange Spiky, image/png, false
+3/28, 74, Neon Punk, image/png, false
+3/29, 77, Purple Topknot, image/png, false
+3/30, 79, Blue Shag, image/png, false
+3/31, 81, Orange Sleek, image/png, false
+3/32, 82, Orange Short, image/png, false
+3/33, 84, Orange Punk, image/png, false
+3/34, 84, Orange Shag, image/png, false
+3/35, 85, Orange Ponytail, image/png, false
+3/36, 90, Orange Pigtails, image/png, false
+3/37, 98, Orange Long Bob, image/png, false
+3/38, 98, Orange Mullet, image/png, false
+3/39, 98, Orange Fringe, image/png, false
+3/40, 99, Orange Buzz Cut, image/png, false
+3/41, 100, Orange Bob, image/png, false
+3/42, 102, Yellow Widow Peak, image/png, false
+3/43, 102, Yellow Topknot, image/png, false
+3/44, 107, Purple Spiky, image/png, false
+3/45, 107, Yellow Mullet, image/png, false
+3/46, 107, Purple Long Bob, image/png, false
+3/47, 107, Blue Mullet, image/png, false
+3/48, 108, Neon Long Bob, image/png, false
+3/49, 108, Blue Long Bob, image/png, false
+3/50, 109, Green Shag, image/png, false
+3/51, 109, Black Widow Peak, image/png, false
+3/52, 110, Yellow Buzz Cut, image/png, false
+3/53, 110, Blue Fringe, image/png, false
+3/54, 111, Green Spiky, image/png, false
+3/55, 111, Blue Punk, image/png, false
+3/56, 112, Blue Short, image/png, false
+3/57, 115, Green Widow Peak, image/png, false
+3/58, 120, Yellow Bob, image/png, false
+3/59, 120, Blue Bob, image/png, false
+3/60, 121, Blond Punk, image/png, false
+3/61, 124, Green Topknot, image/png, false
+3/62, 124, Blue Spiky, image/png, false
+3/63, 127, Purple Punk, image/png, false
+3/64, 128, Purple Ponytail, image/png, false
+3/65, 130, Purple Pigtails, image/png, false
+3/66, 132, Yellow Sleek, image/png, false
+3/67, 133, Yellow Short, image/png, false
+3/68, 134, Blue Pigtails, image/png, false
+3/69, 136, Green Sleek, image/png, false
+3/70, 137, Yellow Long Bob, image/png, false
+3/71, 139, Green Short, image/png, false
+3/72, 141, Purple Bob, image/png, false
+3/73, 142, Yellow Spiky, image/png, false
+3/74, 143, Yellow Shag, image/png, false
+3/75, 143, Blue Topknot, image/png, false
+3/76, 144, Green Punk, image/png, false
+3/77, 146, Blue Sleek, image/png, false
+3/78, 147, Yellow Pigtails, image/png, false
+3/79, 147, Blue Buzz Cut, image/png, false
+3/80, 149, Green Ponytail, image/png, false
+3/81, 149, Pink Topknot, image/png, false
+3/82, 152, Green Pigtails, image/png, false
+3/83, 152, Pink Spiky, image/png, false
+3/84, 154, Yellow Ponytail, image/png, false
+3/85, 155, Pink Punk, image/png, false
+3/86, 156, Pink Pigtails, image/png, false
+3/87, 157, Green Mullet, image/png, false
+3/88, 157, Green Bob, image/png, false
+3/89, 157, Yellow Fringe, image/png, false
+3/90, 161, Green Long Bob, image/png, false
+3/91, 162, Green Fringe, image/png, false
+3/92, 164, Green Buzz Cut, image/png, false
+3/93, 430, None, image/png, false
+4/0, 194, Electric Scar, image/png, false
+4/1, 527, Scar, image/png, false
+4/2, 628, Blush, image/png, false
+4/3, 1012, Nose Ring, image/png, false
+4/4, 7639, None, image/png, false
+5/0, 160, Upturned Fangs, image/png, false
+5/1, 177, Black Kerchief, image/png, false
+5/2, 181, Toothsome, image/png, false
+5/3, 258, Blue Kerchief, image/png, false
+5/4, 262, Fangs, image/png, false
+5/5, 285, Red Kerchief, image/png, false
+5/6, 313, Smoking, image/png, false
+5/7, 323, Worm, image/png, false
+5/8, 357, Metal Mask, image/png, false
+5/9, 373, Creepy, image/png, false
+5/10, 415, Face Mask, image/png, false
+5/11, 560, Pink, image/png, false
+5/12, 619, Red, image/png, false
+5/13, 672, Green, image/png, false
+5/14, 753, Purple, image/png, false
+5/15, 892, Blue, image/png, false
+5/16, 3400, Neutral, image/png, false
+6/0, 354, Punk, image/png, false
+6/1, 579, Chain, image/png, false
+6/2, 718, Green Collar, image/png, false
+6/3, 883, Purple Collar, image/png, false
+6/4, 886, Orange Collar, image/png, false
+6/5, 968, Pink Collar, image/png, false
+6/6, 974, Blue Collar, image/png, false
+6/7, 4638, None, image/png, false
+7/0, 223, Ape Girl, image/png, false
+7/1, 224, Clown Guy, image/png, false
+7/2, 226, Clown Girl, image/png, false
+7/3, 278, Ape Guy, image/png, false
+7/4, 430, Pink Alien Girl, image/png, false
+7/5, 434, Olive Girl, image/png, false
+7/6, 442, Bronze Guy, image/png, false
+7/7, 449, Pink Alien Guy, image/png, false
+7/8, 471, Bronze Girl, image/png, false
+7/9, 481, Almond Girl, image/png, false
+7/10, 486, Green Alien Guy, image/png, false
+7/11, 494, Blue Alien Guy, image/png, false
+7/12, 496, Almond Guy, image/png, false
+7/13, 503, Pale Guy, image/png, false
+7/14, 515, Green Alien Girl, image/png, false
+7/15, 520, Purple Alien Guy, image/png, false
+7/16, 528, Olive Guy, image/png, false
+7/17, 528, Blue Alien Girl, image/png, false
+7/18, 553, Beige Guy, image/png, false
+7/19, 561, Purple Alien Girl, image/png, false
+7/20, 562, Beige Girl, image/png, false
+7/21, 596, Pale Girl, image/png, false
+8/0, 185, Cloak, image/png, false
+8/1, 510, Yellow, image/png, false
+8/2, 512, White, image/png, false
+8/3, 599, Brown, image/png, false
+8/4, 621, Purple, image/png, false
+8/5, 683, Grey, image/png, false
+8/6, 745, Blue, image/png, false
+8/7, 765, Pink, image/png, false
+8/8, 765, Orange, image/png, false
+8/9, 771, Green, image/png, false
+8/10, 3844, None, image/png, false
+9/0, 679, Cityscape, image/png, false
+9/1, 1005, Gold, image/png, false
+9/2, 1594, Green, image/png, false
+9/3, 1661, Purple, image/png, false
+9/4, 1667, Orange, image/png, false
+9/5, 1685, Blue, image/png, false
+9/6, 1709, Pink, image/png, false

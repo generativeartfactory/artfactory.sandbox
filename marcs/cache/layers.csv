@@ -1,0 +1,172 @@
+index, dist, name, type, hide
+0/0, 1, Zombie, image/png, false
+0/1, 1, Cline, image/png, false
+0/2, 1, Pauly Devil, image/png, false
+0/3, 1, Deal With It Devil, image/png, false
+0/4, 1, Marc , image/png, false
+0/5, 1, Gold, image/png, false
+0/6, 1, Marcdonalds, image/png, false
+0/7, 1, Marc, image/png, false
+0/8, 1, Devil, image/png, false
+0/9, 1, Marc, image/png, false
+0/10, 1, Madlad Marc, image/png, false
+0/11, 1, Chad, image/png, false
+0/12, 1, Ape, image/png, false
+0/13, 1, Claudia Bot, image/png, false
+0/14, 1, Marc , image/png, false
+0/15, 1, Bot, image/png, false
+0/16, 1, Marc , image/png, false
+0/17, 1, Marc, image/png, false
+0/18, 1, Alien, image/png, false
+0/19, 1, Claudia Gold, image/png, false
+0/20, 1, Marc, image/png, false
+0/21, 4979, Original, image/png, false
+1/0, 75, Bubble Gum, image/png, false
+1/1, 115, Medical Mask, image/png, false
+1/2, 120, Hookah, image/png, false
+1/3, 141, Pipe, image/png, false
+1/4, 193, Cigar, image/png, false
+1/5, 272, Vape, image/png, false
+1/6, 439, Cigarette, image/png, false
+1/7, 3645, Marc, image/png, false
+2/0, 20, Tears, image/png, false
+2/1, 48, Monocle, image/png, false
+2/2, 64, Lasers, image/png, false
+2/3, 74, Pink Shades, image/png, false
+2/4, 84, Aviators, image/png, false
+2/5, 88, Polarized White, image/png, false
+2/6, 88, VR Headset, image/png, false
+2/7, 89, Gold Glasses, image/png, false
+2/8, 90, 3D Glasses, image/png, false
+2/9, 102, Clown Eyes Blue, image/png, false
+2/10, 104, Eye Mask, image/png, false
+2/11, 108, Big Shades, image/png, false
+2/12, 111, Nerd Glasses, image/png, false
+2/13, 136, Small Shades, image/png, false
+2/14, 138, Glasses, image/png, false
+2/15, 142, Clown Eyes Green, image/png, false
+2/16, 150, Eye Patch, image/png, false
+2/17, 168, Polarized, image/png, false
+2/18, 176, Classic Shades, image/png, false
+2/19, 188, Deal With It, image/png, false
+2/20, 190, Regular Shades, image/png, false
+2/21, 214, Horned Rim Glasses, image/png, false
+2/22, 2428, Marc, image/png, false
+3/0, 94, Hot Lipstick, image/png, false
+3/1, 188, Purple Lipstick, image/png, false
+3/2, 196, Black Lipstick, image/png, false
+3/3, 330, Buck Teeth, image/png, false
+3/4, 4192, Marc, image/png, false
+4/0, 32, Full Mustache, image/png, false
+4/1, 106, Full Mustache Dark, image/png, false
+4/2, 113, Front Beard Dark, image/png, false
+4/3, 114, Luxurious Beard, image/png, false
+4/4, 114, Soul Patch, image/png, false
+4/5, 116, Big Beard, image/png, false
+4/6, 120, Big Beard White, image/png, false
+4/7, 128, Front Beard, image/png, false
+4/8, 130, Chinstrap, image/png, false
+4/9, 131, Goat, image/png, false
+4/10, 136, Mutton Chop, image/png, false
+4/11, 149, Goat Dark, image/png, false
+4/12, 176, Handlebar, image/png, false
+4/13, 180, Normal Beard, image/png, false
+4/14, 196, Mustache, image/png, false
+4/15, 322, Shadow Beard, image/png, false
+4/16, 505, Normal Beard Black, image/png, false
+4/17, 2232, Marc, image/png, false
+5/0, 16, Uncle Sam, image/png, false
+5/1, 16, Bunny Ears, image/png, false
+5/2, 16, Marc Three, image/png, false
+5/3, 45, Viking, image/png, false
+5/4, 47, Laurels, image/png, false
+5/5, 49, Shemagh, image/png, false
+5/6, 55, Welding Goggles, image/png, false
+5/7, 61, Beanie, image/png, false
+5/8, 63, Top Hat, image/png, false
+5/9, 63, Marcdonalds, image/png, false
+5/10, 66, Cap, image/png, false
+5/11, 68, Roaring Headband, image/png, false
+5/12, 68, Blonde Bob, image/png, false
+5/13, 69, Purple Hoodie, image/png, false
+5/14, 71, Do Rag, image/png, false
+5/15, 73, Fedora, image/png, false
+5/16, 74, Cowboy Hat, image/png, false
+5/17, 80, Police Cap, image/png, false
+5/18, 86, Cap Forward, image/png, false
+5/19, 88, Knitted Cap, image/png, false
+5/20, 94, Tassle Hat, image/png, false
+5/21, 95, Hoodie, image/png, false
+5/22, 99, Fast Food, image/png, false
+5/23, 99, Tiarra, image/png, false
+5/24, 111, Stringy Hair, image/png, false
+5/25, 112, Purple Hair, image/png, false
+5/26, 118, Skull Cap, image/png, false
+5/27, 120, Headband, image/png, false
+5/28, 142, Clown Hair, image/png, false
+5/29, 164, Vampire Hair, image/png, false
+5/30, 169, Chad, image/png, false
+5/31, 190, Bandana, image/png, false
+5/32, 194, Crazy Hair, image/png, false
+5/33, 198, Wild Blonde Hair, image/png, false
+5/34, 222, Crazy White Hair, image/png, false
+5/35, 382, Wild Hair, image/png, false
+5/36, 420, Frumpy Hair, image/png, false
+5/37, 897, Marc, image/png, false
+6/0, 31, Ice, image/png, false
+6/1, 46, Choker, image/png, false
+6/2, 66, Blue Tie, image/png, false
+6/3, 86, Hemp, image/png, false
+6/4, 99, Thick Chain, image/png, false
+6/5, 100, Silver Chain, image/png, false
+6/6, 111, Medallion, image/png, false
+6/7, 115, Double Gold Chain, image/png, false
+6/8, 123, Green Shirt, image/png, false
+6/9, 133, Blue Shirt, image/png, false
+6/10, 138, White T Shirt, image/png, false
+6/11, 163, Jumpsuit, image/png, false
+6/12, 169, Blue T Shirt, image/png, false
+6/13, 180, Black Tie, image/png, false
+6/14, 189, Gold Chain, image/png, false
+6/15, 190, Red Tie, image/png, false
+6/16, 214, Labcoat, image/png, false
+6/17, 244, Purple T Shirt, image/png, false
+6/18, 256, Fast Food, image/png, false
+6/19, 266, Grey Shirt, image/png, false
+6/20, 2081, Marc, image/png, false
+7/0, 190, Clown Nose, image/png, false
+7/1, 322, Gold Ring, image/png, false
+7/2, 4488, Marc, image/png, false
+8/0, 146, Diamond Helix, image/png, false
+8/1, 199, Diamond Earring, image/png, false
+8/2, 421, Gold Helix, image/png, false
+8/3, 1066, Gold Earring, image/png, false
+8/4, 3168, Marc, image/png, false
+9/0, 334, Frown, image/png, false
+9/1, 432, Smile, image/png, false
+9/2, 4234, Marc, image/png, false
+10/0, 44, Purple Eye Shadow, image/png, false
+10/1, 87, Bagner, image/png, false
+10/2, 113, Blue Eye Shadow, image/png, false
+10/3, 125, Horns, image/png, false
+10/4, 127, Green Eye Shadow, image/png, false
+10/5, 148, Green Eyes, image/png, false
+10/6, 162, Blue Eyes, image/png, false
+10/7, 168, Cleft, image/png, false
+10/8, 190, Marc Tyson, image/png, false
+10/9, 225, Spots, image/png, false
+10/10, 230, Rosy Cheeks, image/png, false
+10/11, 253, Mole, image/png, false
+10/12, 1063, Shine, image/png, false
+10/13, 2065, Marc, image/png, false
+11/0, 16, Alien, image/png, false
+11/1, 24, Madlad, image/png, false
+11/2, 64, Ape, image/png, false
+11/3, 99, Devil, image/png, false
+11/4, 99, Gold, image/png, false
+11/5, 99, Bot, image/png, false
+11/6, 128, Zombie, image/png, false
+11/7, 1044, Marc 4, image/png, false
+11/8, 1126, Marc 1, image/png, false
+11/9, 1146, Marc 3, image/png, false
+11/10, 1155, Marc 2, image/png, false
