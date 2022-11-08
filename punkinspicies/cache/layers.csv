@@ -1,0 +1,112 @@
+index, dist, name, type, hide
+0/0, 64, Halo, image/png, false
+0/1, 206, Airpod, image/png, false
+0/2, 1744, Earring, image/png, false
+0/3, 1752, Hoopearring, image/png, false
+0/4, 3203, None, image/png, false
+1/0, 109, Freckles, image/png, false
+1/1, 321, Clownnose, image/png, false
+1/2, 349, Rosy cheeks, image/png, false
+1/3, 1561, Nose piercing, image/png, false
+1/4, 1879, Mole, image/png, false
+1/5, 2750, None, image/png, false
+2/0, 53, Vr, image/png, false
+2/1, 74, Tears, image/png, false
+2/2, 87, Smallshades, image/png, false
+2/3, 100, Regularshades, image/png, false
+2/4, 131, Purpleeyeshadow, image/png, false
+2/5, 136, Nerdglasses, image/png, false
+2/6, 144, Hornedrimglasses, image/png, false
+2/7, 195, Clowneyesgreen, image/png, false
+2/8, 199, Weldinggoggles, image/png, false
+2/9, 208, Clowneyesblue, image/png, false
+2/10, 233, Classicshades, image/png, false
+2/11, 327, Blueeyeshadow, image/png, false
+2/12, 440, Eyemask, image/png, false
+2/13, 441, Greeneyeshadow, image/png, false
+2/14, 500, Nounshalloween, image/png, false
+2/15, 518, Eyepatch, image/png, false
+2/16, 609, Bigshades, image/png, false
+2/17, 711, 3D glasses, image/png, false
+2/18, 749, Bloodtears, image/png, false
+2/19, 1114, None, image/png, false
+3/0, 29, Punkin Spice Latte, image/png, false
+3/1, 65, Crystalball, image/png, false
+3/2, 216, Apple , image/png, false
+3/3, 315, Evil Dr Mask, image/png, false
+3/4, 592, Pipe, image/png, false
+3/5, 786, Nurse Mask, image/png, false
+3/6, 898, Vape, image/png, false
+3/7, 1200, Knife, image/png, false
+3/8, 1302, Cigarette, image/png, false
+3/9, 1566, None, image/png, false
+4/0, 494, Beheaded, image/png, false
+4/1, 1027, Goldchain, image/png, false
+4/2, 1102, Silverchain, image/png, false
+4/3, 1689, Choker, image/png, false
+4/4, 2657, None, image/png, false
+5/0, 9, Medusa, image/png, false
+5/1, 18, Tiara, image/png, false
+5/2, 19, Witchhat, image/png, false
+5/3, 29, Straighthairblonde, image/png, false
+5/4, 41, Wildwhitehair, image/png, false
+5/5, 42, Wildhair, image/png, false
+5/6, 51, Wildblonde, image/png, false
+5/7, 70, Tasslehat, image/png, false
+5/8, 87, Straighthairdark, image/png, false
+5/9, 89, Splitbob, image/png, false
+5/10, 91, Redmohawk, image/png, false
+5/11, 92, Purplehair, image/png, false
+5/12, 104, Policecap, image/png, false
+5/13, 124, Pinkwithhat, image/png, false
+5/14, 135, Pilothelmet, image/png, false
+5/15, 144, Pigtails, image/png, false
+5/16, 150, Orangeside, image/png, false
+5/17, 151, Mohawkthin, image/png, false
+5/18, 172, Mohawkdark, image/png, false
+5/19, 182, Hoodie, image/png, false
+5/20, 182, Knittedcap, image/png, false
+5/21, 193, Clownhairgreen, image/png, false
+5/22, 194, Headband, image/png, false
+5/23, 197, Halfshaved, image/png, false
+5/24, 201, Greenhoodie, image/png, false
+5/25, 217, Frumpyhair, image/png, false
+5/26, 218, Fedora, image/png, false
+5/27, 235, Grimreaper, image/png, false
+5/28, 235, Darkhair, image/png, false
+5/29, 255, Crazyhair, image/png, false
+5/30, 261, None, image/png, false
+5/31, 291, Cowboyhat, image/png, false
+5/32, 312, Cathoodie, image/png, false
+5/33, 384, Bride, image/png, false
+5/34, 409, Blackwithheadband, image/png, false
+5/35, 553, Beanie, image/png, false
+5/36, 832, Blondebob, image/png, false
+6/0, 40, Invisible Woman, image/png, false
+6/1, 80, Zombie, image/png, false
+6/2, 81, Ghost, image/png, false
+6/3, 149, Werewolf, image/png, false
+6/4, 185, Orc, image/png, false
+6/5, 198, Mummy, image/png, false
+6/6, 257, Human Dark, image/png, false
+6/7, 342, Human Medium, image/png, false
+6/8, 383, Skeleton, image/png, false
+6/9, 435, Frankenstein's Monster, image/png, false
+6/10, 674, Demon, image/png, false
+6/11, 679, Ape, image/png, false
+6/12, 869, Jack O Lantern, image/png, false
+6/13, 1237, Alien, image/png, false
+6/14, 1360, Human Fair, image/png, false
+7/0, 107, Taurus, image/png, false
+7/1, 107, Virgo, image/png, false
+7/2, 160, Scorpio, image/png, false
+7/3, 204, Sagittarius, image/png, false
+7/4, 212, Pisces, image/png, false
+7/5, 545, Libra, image/png, false
+7/6, 616, Leo, image/png, false
+7/7, 630, Gemini, image/png, false
+7/8, 803, Capricorn, image/png, false
+7/9, 808, Cancer, image/png, false
+7/10, 1121, Aries, image/png, false
+7/11, 1656, Aquarius, image/png, false
+8/0, 6969, Wine Soaked Sky, image/png, false

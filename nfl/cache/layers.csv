@@ -1,0 +1,135 @@
+index, dist, name, type, hide
+0/0, 6, A.J Brown, image/png, false
+0/1, 6, Matthew Stafford, image/png, false
+0/2, 6, Garrett Wilson, image/png, false
+0/3, 6, Amon-Ra St. Brown, image/png, false
+0/4, 6, Baker Mayfield, image/png, false
+0/5, 6, Diontae Johnson, image/png, false
+0/6, 6, Mac Jones, image/png, false
+0/7, 6, Justin Fields, image/png, false
+0/8, 6, Amari Cooper, image/png, false
+0/9, 6, Lamar Jackson, image/png, false
+0/10, 6, Ryan Tannehill, image/png, false
+0/11, 6, Deebo Samuel, image/png, false
+0/12, 6, Trevor Lawrence, image/png, false
+0/13, 6, Cooper Kupp, image/png, false
+0/14, 6, Tyreek Hill, image/png, false
+0/15, 6, Joe Burrow Alternate, image/png, false
+0/16, 6, Stefon Diggs, image/png, false
+0/17, 6, Justin Herbert, image/png, false
+0/18, 6, Damien Pierce, image/png, false
+0/19, 6, Aaron Rodgers, image/png, false
+0/20, 6, Michael Pittman Jr., image/png, false
+0/21, 6, Carson Wentz, image/png, false
+0/22, 6, DK Metcalf, image/png, false
+0/23, 6, Kyler Murray, image/png, false
+0/24, 6, Joe Burrow, image/png, false
+0/25, 6, Ja'Marr Chase, image/png, false
+0/26, 6, Patrick Mahomes, image/png, false
+0/27, 6, Dalvin Cook, image/png, false
+0/28, 6, Mike Evans, image/png, false
+0/29, 6, Tua Tagovailoa, image/png, false
+0/30, 6, Daniel Jones, image/png, false
+0/31, 6, Dak Prescott, image/png, false
+0/32, 6, Drake London, image/png, false
+0/33, 6, Jalen Hurts, image/png, false
+0/34, 6, Josh Allen, image/png, false
+0/35, 6, Justin Jefferson, image/png, false
+0/36, 6, Tom Brady, image/png, false
+0/37, 6, Davante Adams, image/png, false
+0/38, 6, Michael Thomas, image/png, false
+0/39, 6, Russell Wilson, image/png, false
+0/40, 6, Terry McLaurin, image/png, false
+0/41, 2254, No, image/png, false
+1/0, 75, Laser Eyes, image/png, false
+1/1, 75, Laser Eyes Blue, image/png, false
+1/2, 250, Red Visor, image/png, false
+1/3, 350, Black Visor, image/png, false
+1/4, 350, Blue Visor, image/png, false
+1/5, 375, Clear Visor, image/png, false
+1/6, 1025, None, image/png, false
+2/0, 200, Full Beard Light, image/png, false
+2/1, 250, Full Beard Brown, image/png, false
+2/2, 250, Full Beard Black, image/png, false
+2/3, 300, Light Beard, image/png, false
+2/4, 350, Brown Beard, image/png, false
+2/5, 350, Black Beard, image/png, false
+2/6, 400, None, image/png, false
+2/7, 400, Shadow Beard, image/png, false
+3/0, 86, 71, image/png, false
+3/1, 89, 61, image/png, false
+3/2, 89, 8, image/png, true
+3/3, 89, 9, image/png, true
+3/4, 89, 14, image/png, false
+3/5, 89, 15, image/png, false
+3/6, 89, 17, image/png, false
+3/7, 89, 16, image/png, false
+3/8, 89, 12, image/png, false
+3/9, 89, 13, image/png, false
+3/10, 89, 11, image/png, false
+3/11, 89, 10, image/png, false
+3/12, 89, 21, image/png, false
+3/13, 89, 18, image/png, false
+3/14, 89, 31, image/png, false
+3/15, 89, 19, image/png, false
+3/16, 89, 81, image/png, false
+3/17, 89, 5, image/png, true
+3/18, 89, 41, image/png, false
+3/19, 89, 7, image/png, true
+3/20, 89, 6, image/png, true
+3/21, 89, 3, image/png, true
+3/22, 89, 51, image/png, false
+3/23, 89, 91, image/png, false
+3/24, 90, 2, image/png, true
+3/25, 92, 1, image/png, true
+3/26, 92, 0, image/png, true
+3/27, 93, 4, image/png, true
+4/0, 65, Baltimore, image/png, false
+4/1, 70, Oakland, image/png, false
+4/2, 70, Atlanta, image/png, false
+4/3, 70, New York 2, image/png, false
+4/4, 70, Dallas, image/png, false
+4/5, 75, Cleveland, image/png, false
+4/6, 80, Arizona, image/png, false
+4/7, 80, Green Bay, image/png, false
+4/8, 80, San Francisco, image/png, false
+4/9, 80, Seattle, image/png, false
+4/10, 80, Washington, image/png, false
+4/11, 80, New England, image/png, false
+4/12, 80, Detroit, image/png, false
+4/13, 80, Chicago, image/png, false
+4/14, 80, Los Angeles 2, image/png, false
+4/15, 80, Indianapolis, image/png, false
+4/16, 80, Tampa Bay, image/png, false
+4/17, 80, New York, image/png, false
+4/18, 80, New Orleans, image/png, false
+4/19, 80, Kansas City, image/png, false
+4/20, 80, Philadelphia, image/png, false
+4/21, 80, Tennessee, image/png, false
+4/22, 80, Denver, image/png, false
+4/23, 80, Buffalo, image/png, false
+4/24, 80, Minnesota, image/png, false
+4/25, 80, Carolina, image/png, false
+4/26, 80, Cincinnati, image/png, false
+4/27, 80, Los Angeles, image/png, false
+4/28, 80, Jacksonville, image/png, false
+4/29, 80, Houston, image/png, false
+4/30, 80, Miami, image/png, false
+4/31, 80, Pittsburgh, image/png, false
+5/0, 30, Alien, image/png, false
+5/1, 50, Bot, image/png, false
+5/2, 75, Zombie, image/png, false
+5/3, 75, Gold, image/png, false
+5/4, 375, Base 1, image/png, false
+5/5, 395, Base 5, image/png, false
+5/6, 450, Base 2, image/png, false
+5/7, 500, Base 4, image/png, false
+5/8, 550, Base 3, image/png, false
+6/0, 65, Holographic, image/png, false
+6/1, 250, Sea Foam Green, image/png, false
+6/2, 300, Turf, image/png, false
+6/3, 335, Blue, image/png, false
+6/4, 350, Goal Line, image/png, false
+6/5, 350, Sideline, image/png, false
+6/6, 350, Turf Green, image/png, false
+6/7, 500, Blue Gray, image/png, false
