@@ -1,0 +1,121 @@
+index, dist, name, type, hide
+0/0, 1, Aku-Punku, image/gif, false
+0/1, 1, Devil Punk Ape, image/jpeg, false
+0/2, 1, OnEdgeKevin, image/gif, false
+0/3, 1, Goated Demon, image/png, false
+0/4, 1, Masked Hoodie, image/gif, false
+0/5, 1, Baphomet, image/png, false
+0/6, 1, LaVey Punk, image/png, false
+0/7, 1, Demingo, image/png, false
+0/8, 1, Dark Acolyte of the Northern Wastes, image/png, false
+0/9, 1, Marina Abramovic, image/png, false
+0/10, 1, Slender Punk, image/png, false
+0/11, 1, Illuminati Bill, image/png, false
+0/12, 1, The Eyes, image/png, false
+0/13, 1, The Apprentice, image/png, false
+0/14, 1, Jason Punk, image/png, false
+0/15, 1, Medusa Punk, image/png, false
+0/16, 1, The Darkest Punk, image/png, false
+0/17, 1, Keksune, image/png, false
+0/18, 1, Anatomy Of An Icon, image/png, false
+0/19, 869, None, image/png, true
+1/0, 0, 1/1 Blank, image/png, true
+1/1, 12, Hollow, image/png, false
+1/2, 19, Tentacle Eye, image/png, false
+1/3, 19, Laser Eyes, image/png, false
+1/4, 23, White Glasses, image/png, false
+1/5, 24, Big Glasses, image/png, false
+1/6, 28, Holy Eyes, image/png, false
+1/7, 29, Cyclops, image/png, false
+1/8, 30, Dark Shades, image/png, false
+1/9, 34, Cracked Glasses, image/png, false
+1/10, 37, 3 D Glasses, image/png, false
+1/11, 38, Skull Mask, image/png, false
+1/12, 38, Open Sockets, image/png, false
+1/13, 45, Eye Mask, image/png, false
+1/14, 47, Dark Shades, image/png, false
+1/15, 58, Flame Eyes, image/png, false
+1/16, 58, Clown Eyes, image/png, false
+1/17, 70, Earring, image/png, false
+1/18, 71, Monk, image/png, false
+1/19, 102, Lizard Eyes, image/png, false
+1/20, 106, Eyes, image/png, false
+2/0, 0, 1/1 Blank, image/png, true
+2/1, 8, Dark Hoodie, image/png, false
+2/2, 10, Small Skull, image/png, false
+2/3, 10, Wizard Hat, image/png, false
+2/4, 10, Dark Pyramid, image/png, false
+2/5, 10, Welding Goggles, image/png, false
+2/6, 10, Soulfire Candles, image/png, false
+2/7, 15, Edge Wizard Hat, image/png, false
+2/8, 15, Beanie, image/png, false
+2/9, 15, Red Spiked Hair, image/png, false
+2/10, 16, Red Hair, image/png, false
+2/11, 24, Red Bandana, image/png, false
+2/12, 25, Brain, image/png, false
+2/13, 28, Dark Cowboy, image/png, false
+2/14, 36, Cap, image/png, false
+2/15, 37, Crescent Moon, image/png, false
+2/16, 37, Dark Hair, image/png, false
+2/17, 40, None, image/png, false
+2/18, 50, Vampire Hair, image/png, false
+2/19, 51, Scales, image/png, false
+2/20, 53, Scar, image/png, false
+2/21, 54, Pyramid, image/png, false
+2/22, 59, Big Horns, image/png, false
+2/23, 62, Mohawk, image/png, false
+2/24, 70, Small Horns, image/png, false
+2/25, 71, Bat, image/png, false
+2/26, 72, Messy Hair, image/png, false
+3/0, 0, 1/1 Blank, image/png, true
+3/1, 7, Tentacle Mouth, image/png, false
+3/2, 13, Fire Breath, image/png, false
+3/3, 17, Pipe, image/png, false
+3/4, 19, Toxic Puke, image/png, false
+3/5, 25, Bloody Mouth, image/png, false
+3/6, 35, Cigar, image/png, false
+3/7, 37, Shadow Beard, image/png, false
+3/8, 45, Cracked Teeth, image/png, false
+3/9, 47, Small Fangs, image/png, false
+3/10, 52, Leather Mask, image/png, false
+3/11, 59, Dark Beard, image/png, false
+3/12, 60, Brown Beard, image/png, false
+3/13, 61, Brown Chinstrap, image/png, false
+3/14, 76, Teeth, image/png, false
+3/15, 101, Monster Mouth, image/png, false
+3/16, 107, Smile, image/png, false
+3/17, 127, Regular, image/png, false
+4/0, 0, 1/1 Blank, image/png, true
+4/1, 7, Poison, image/png, false
+4/2, 11, Crystal Ball, image/png, false
+4/3, 15, Enhancement Book, image/png, false
+4/4, 19, Tentacle, image/png, false
+4/5, 35, Trimmed Robe, image/png, false
+4/6, 35, Bloody, image/png, false
+4/7, 35, Dark Fire, image/png, false
+4/8, 61, Angel Wings, image/png, false
+4/9, 63, Dark Suit, image/png, false
+4/10, 80, Purple Robes, image/png, false
+4/11, 92, Dark Wings, image/png, false
+4/12, 100, Fire Robes, image/png, false
+4/13, 109, Moss Robes, image/png, false
+4/14, 110, Dark Robe, image/png, false
+4/15, 116, None, image/png, false
+5/0, 0, 1/1 Blank, image/png, true
+5/1, 4, Alien, image/png, false
+5/2, 8, Ape, image/png, false
+5/3, 16, Red Dragon, image/png, false
+5/4, 20, Green Lizard, image/png, false
+5/5, 22, Cave Lizard, image/png, false
+5/6, 24, Brown Lizard, image/png, false
+5/7, 60, Dark Green Lizard, image/png, false
+5/8, 79, Purple Dragon, image/png, false
+5/9, 104, Dark Dragon, image/png, false
+5/10, 127, Whited Body, image/png, false
+5/11, 131, Purple Body, image/png, false
+5/12, 134, Orange Dragon, image/png, false
+5/13, 159, Grey Body, image/png, false
+6/0, 0, 1/1 Blank, image/png, true
+6/1, 4, Red, image/png, false
+6/2, 8, Purple, image/png, false
+6/3, 876, Pink, image/png, false
