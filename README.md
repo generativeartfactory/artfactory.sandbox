@@ -6,14 +6,14 @@
 ## Spritesheet (Attributes) - What's News?
 
 
-Example - Aiens vs Punks (in 24x24px)
+Example - Aliens vs Punks (in 24x24px)
 
 ![](aliensvspunks/spritesheet-24x24.png)
 
 
 Example - Edge Punks (in 24x24px)
 
-![](edge/spritesheet-24x24.png)
+![](edgepunks/spritesheet-24x24.png)
 
 
 
