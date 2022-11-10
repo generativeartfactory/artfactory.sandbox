@@ -107,7 +107,7 @@ Example - Aliens vs Punks (in 24x24px)  - [226 Attributes (incl. Nones) in 10 Ca
 
 
 
-Example - Edge Punks (in 24x24px) - [120 Attributes (incl. Nones/Blanks) in 6 Categories](edgepunks/spritesheet-24x24.csv)
+Example - Edge Punks (in 24x24px) - [120 Attributes (incl. Nones/Blanks) in 5 Categories (plus 1/1s](edgepunks/spritesheet-24x24.csv)
 
 ![](edgepunks/spritesheet-24x24.png)
 
