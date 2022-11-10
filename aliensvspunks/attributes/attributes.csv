@@ -1,227 +1,227 @@
 path, category, name, more_names
-0_head/0_cowl.png, Head, Cowl,
-0_head/1_horns.png, Head, Horns,
-0_head/2_diamond_tiara.png, Head, Diamond Tiara,
-0_head/3_pink_antennae.png, Head, Pink Antennae,
-0_head/4_orange_tiara.png, Head, Orange Tiara,
-0_head/5_purple_antennae.png, Head, Purple Antennae,
-0_head/6_yellow_antennae.png, Head, Yellow Antennae,
-0_head/7_googles.png, Head, Googles,
-0_head/8_blue_tiara.png, Head, Blue Tiara,
-0_head/9_green_antennae.png, Head, Green Antennae,
-0_head/10_green_tiara.png, Head, Green Tiara,
-0_head/11_pink_tiara.png, Head, Pink Tiara,
-0_head/12_orange_antennae.png, Head, Orange Antennae,
-0_head/13_purple_tiara.png, Head, Purple Tiara,
-0_head/14_blue_antennae.png, Head, Blue Antennae,
-##  0_head/15_none.png, Head, None,
-1_ears/0_long_gold.png, Ears, Long Gold,
-1_ears/1_long_purple.png, Ears, Long Purple,
-1_ears/2_long_pink.png, Ears, Long Pink,
-1_ears/3_long_orange.png, Ears, Long Orange,
-1_ears/4_long_green.png, Ears, Long Green,
-1_ears/5_long_blue.png, Ears, Long Blue,
-1_ears/6_gold_stud.png, Ears, Gold Stud,
-1_ears/7_orange_stud.png, Ears, Orange Stud,
-1_ears/8_purple_stud.png, Ears, Purple Stud,
-1_ears/9_green_stud.png, Ears, Green Stud,
-1_ears/10_pink_stud.png, Ears, Pink Stud,
-1_ears/11_blue_stud.png, Ears, Blue Stud,
-##  1_ears/12_none.png, Ears, None,
-2_eyes/0_brown_eye_patch.png, Eyes, Brown Eye Patch,
-2_eyes/1_purple_lazer.png, Eyes, Purple Lazer,
-2_eyes/2_purple_makeup.png, Eyes, Purple Makeup,
-2_eyes/3_monocle.png, Eyes, Monocle,
-2_eyes/4_robot_visor.png, Eyes, Robot Visor,
-2_eyes/5_robot_prosthetic.png, Eyes, Robot Prosthetic,
-2_eyes/6_vaporwave_shades.png, Eyes, Vaporwave Shades,
-2_eyes/7_sunset_shades.png, Eyes, Sunset Shades,
-2_eyes/8_indigo_eye_patch.png, Eyes, Indigo Eye Patch,
-2_eyes/9_sunrise_shades.png, Eyes, Sunrise Shades,
-2_eyes/10_red.png, Eyes, Red,
-2_eyes/11_neon_shades.png, Eyes, Neon Shades,
-2_eyes/12_rainbow_shades.png, Eyes, Rainbow Shades,
-2_eyes/13_electric_lazer.png, Eyes, Electric Lazer,
-2_eyes/14_rainbow_visor.png, Eyes, Rainbow Visor,
-2_eyes/15_3_d_glasses.png, Eyes, 3 D Glasses,
-2_eyes/16_green_makeup.png, Eyes, Green Makeup,
-2_eyes/17_black_shades.png, Eyes, Black Shades,
-2_eyes/18_white_shades.png, Eyes, White Shades,
-2_eyes/19_pink_makeup.png, Eyes, Pink Makeup,
-2_eyes/20_blue_makeup.png, Eyes, Blue Makeup,
-2_eyes/21_purple_cyclops.png, Eyes, Purple Cyclops,
-2_eyes/22_electric.png, Eyes, Electric,
-2_eyes/23_pink_cyclops.png, Eyes, Pink Cyclops,
-2_eyes/24_orange_cyclops.png, Eyes, Orange Cyclops,
-2_eyes/25_yellow_cyclops.png, Eyes, Yellow Cyclops,
-2_eyes/26_green_cyclops.png, Eyes, Green Cyclops,
-2_eyes/27_blue_cyclops.png, Eyes, Blue Cyclops,
-2_eyes/28_pink.png, Eyes, Pink,
-2_eyes/29_green.png, Eyes, Green,
-2_eyes/30_purple.png, Eyes, Purple,
-2_eyes/31_brown.png, Eyes, Brown,
-2_eyes/32_blue.png, Eyes, Blue,
-3_hair/0_vaporwave_long_bob.png, Hair, Vaporwave Long Bob,
-3_hair/1_rainbow_punk.png, Hair, Rainbow Punk,
-3_hair/2_vaporwave_punk.png, Hair, Vaporwave Punk,
-3_hair/3_purple_buzz_cut.png, Hair, Purple Buzz Cut,
-3_hair/4_pink_widow_peak.png, Hair, Pink Widow Peak,
-3_hair/5_purple_widow_peak.png, Hair, Purple Widow Peak,
-3_hair/6_purple_shag.png, Hair, Purple Shag,
-3_hair/7_vaporwave_topknot.png, Hair, Vaporwave Topknot,
-3_hair/8_purple_mullet.png, Hair, Purple Mullet,
-3_hair/9_pink_short.png, Hair, Pink Short,
-3_hair/10_pink_sleek.png, Hair, Pink Sleek,
-3_hair/11_pink_shag.png, Hair, Pink Shag,
-3_hair/12_blue_widow_peak.png, Hair, Blue Widow Peak,
-3_hair/13_pink_ponytail.png, Hair, Pink Ponytail,
-3_hair/14_neon_topknot.png, Hair, Neon Topknot,
-3_hair/15_purple_sleek.png, Hair, Purple Sleek,
-3_hair/16_purple_short.png, Hair, Purple Short,
-3_hair/17_pink_mullet.png, Hair, Pink Mullet,
-3_hair/18_pink_long_bob.png, Hair, Pink Long Bob,
-3_hair/19_purple_fringe.png, Hair, Purple Fringe,
-3_hair/20_brown_buzz_cut.png, Hair, Brown Buzz Cut,
-3_hair/21_orange_widow_peak.png, Hair, Orange Widow Peak,
-3_hair/22_pink_bob.png, Hair, Pink Bob,
-3_hair/23_pink_buzz_cut.png, Hair, Pink Buzz Cut,
-3_hair/24_pink_fringe.png, Hair, Pink Fringe,
-3_hair/25_orange_topknot.png, Hair, Orange Topknot,
-3_hair/26_blue_ponytail.png, Hair, Blue Ponytail,
-3_hair/27_orange_spiky.png, Hair, Orange Spiky,
-3_hair/28_neon_punk.png, Hair, Neon Punk,
-3_hair/29_purple_topknot.png, Hair, Purple Topknot,
-3_hair/30_blue_shag.png, Hair, Blue Shag,
-3_hair/31_orange_sleek.png, Hair, Orange Sleek,
-3_hair/32_orange_short.png, Hair, Orange Short,
-3_hair/33_orange_punk.png, Hair, Orange Punk,
-3_hair/34_orange_shag.png, Hair, Orange Shag,
-3_hair/35_orange_ponytail.png, Hair, Orange Ponytail,
-3_hair/36_orange_pigtails.png, Hair, Orange Pigtails,
-3_hair/37_orange_long_bob.png, Hair, Orange Long Bob,
-3_hair/38_orange_mullet.png, Hair, Orange Mullet,
-3_hair/39_orange_fringe.png, Hair, Orange Fringe,
-3_hair/40_orange_buzz_cut.png, Hair, Orange Buzz Cut,
-3_hair/41_orange_bob.png, Hair, Orange Bob,
-3_hair/42_yellow_widow_peak.png, Hair, Yellow Widow Peak,
-3_hair/43_yellow_topknot.png, Hair, Yellow Topknot,
-3_hair/44_purple_spiky.png, Hair, Purple Spiky,
-3_hair/45_yellow_mullet.png, Hair, Yellow Mullet,
-3_hair/46_purple_long_bob.png, Hair, Purple Long Bob,
-3_hair/47_blue_mullet.png, Hair, Blue Mullet,
-3_hair/48_neon_long_bob.png, Hair, Neon Long Bob,
-3_hair/49_blue_long_bob.png, Hair, Blue Long Bob,
-3_hair/50_green_shag.png, Hair, Green Shag,
-3_hair/51_black_widow_peak.png, Hair, Black Widow Peak,
-3_hair/52_yellow_buzz_cut.png, Hair, Yellow Buzz Cut,
-3_hair/53_blue_fringe.png, Hair, Blue Fringe,
-3_hair/54_green_spiky.png, Hair, Green Spiky,
-3_hair/55_blue_punk.png, Hair, Blue Punk,
-3_hair/56_blue_short.png, Hair, Blue Short,
-3_hair/57_green_widow_peak.png, Hair, Green Widow Peak,
-3_hair/58_yellow_bob.png, Hair, Yellow Bob,
-3_hair/59_blue_bob.png, Hair, Blue Bob,
-3_hair/60_blond_punk.png, Hair, Blond Punk,
-3_hair/61_green_topknot.png, Hair, Green Topknot,
-3_hair/62_blue_spiky.png, Hair, Blue Spiky,
-3_hair/63_purple_punk.png, Hair, Purple Punk,
-3_hair/64_purple_ponytail.png, Hair, Purple Ponytail,
-3_hair/65_purple_pigtails.png, Hair, Purple Pigtails,
-3_hair/66_yellow_sleek.png, Hair, Yellow Sleek,
-3_hair/67_yellow_short.png, Hair, Yellow Short,
-3_hair/68_blue_pigtails.png, Hair, Blue Pigtails,
-3_hair/69_green_sleek.png, Hair, Green Sleek,
-3_hair/70_yellow_long_bob.png, Hair, Yellow Long Bob,
-3_hair/71_green_short.png, Hair, Green Short,
-3_hair/72_purple_bob.png, Hair, Purple Bob,
-3_hair/73_yellow_spiky.png, Hair, Yellow Spiky,
-3_hair/74_yellow_shag.png, Hair, Yellow Shag,
-3_hair/75_blue_topknot.png, Hair, Blue Topknot,
-3_hair/76_green_punk.png, Hair, Green Punk,
-3_hair/77_blue_sleek.png, Hair, Blue Sleek,
-3_hair/78_yellow_pigtails.png, Hair, Yellow Pigtails,
-3_hair/79_blue_buzz_cut.png, Hair, Blue Buzz Cut,
-3_hair/80_green_ponytail.png, Hair, Green Ponytail,
-3_hair/81_pink_topknot.png, Hair, Pink Topknot,
-3_hair/82_green_pigtails.png, Hair, Green Pigtails,
-3_hair/83_pink_spiky.png, Hair, Pink Spiky,
-3_hair/84_yellow_ponytail.png, Hair, Yellow Ponytail,
-3_hair/85_pink_punk.png, Hair, Pink Punk,
-3_hair/86_pink_pigtails.png, Hair, Pink Pigtails,
-3_hair/87_green_mullet.png, Hair, Green Mullet,
-3_hair/88_green_bob.png, Hair, Green Bob,
-3_hair/89_yellow_fringe.png, Hair, Yellow Fringe,
-3_hair/90_green_long_bob.png, Hair, Green Long Bob,
-3_hair/91_green_fringe.png, Hair, Green Fringe,
-3_hair/92_green_buzz_cut.png, Hair, Green Buzz Cut,
-##  3_hair/93_none.png, Hair, None,
-4_face/0_electric_scar.png, Face, Electric Scar,
-4_face/1_scar.png, Face, Scar,
-4_face/2_blush.png, Face, Blush,
-4_face/3_nose_ring.png, Face, Nose Ring,
-##  4_face/4_none.png, Face, None,
-5_mouth/0_upturned_fangs.png, Mouth, Upturned Fangs,
-5_mouth/1_black_kerchief.png, Mouth, Black Kerchief,
-5_mouth/2_toothsome.png, Mouth, Toothsome,
-5_mouth/3_blue_kerchief.png, Mouth, Blue Kerchief,
-5_mouth/4_fangs.png, Mouth, Fangs,
-5_mouth/5_red_kerchief.png, Mouth, Red Kerchief,
-5_mouth/6_smoking.png, Mouth, Smoking,
-5_mouth/7_worm.png, Mouth, Worm,
-5_mouth/8_metal_mask.png, Mouth, Metal Mask,
-5_mouth/9_creepy.png, Mouth, Creepy,
-5_mouth/10_face_mask.png, Mouth, Face Mask,
-5_mouth/11_pink.png, Mouth, Mouth Pink, Pink Mouth
-5_mouth/12_red.png, Mouth, Mouth Red, Red Mouth
-5_mouth/13_green.png, Mouth, Mouth Green, Green Mouth,
-5_mouth/14_purple.png, Mouth, Mouth Purple  Purple Mouth
-5_mouth/15_blue.png, Mouth, Mouth Blue,  Blue Mouth
-5_mouth/16_neutral.png, Mouth, Neutral,
-6_neck/0_punk.png, Neck, Punk,
-6_neck/1_chain.png, Neck, Chain,
-6_neck/2_green_collar.png, Neck, Green Collar,
-6_neck/3_purple_collar.png, Neck, Purple Collar,
-6_neck/4_orange_collar.png, Neck, Orange Collar,
-6_neck/5_pink_collar.png, Neck, Pink Collar,
-6_neck/6_blue_collar.png, Neck, Blue Collar,
-##  6_neck/7_none.png, Neck, None,
-7_body/0_ape_girl.png, Body, Ape Girl,
-7_body/1_clown_guy.png, Body, Clown Guy,
-7_body/2_clown_girl.png, Body, Clown Girl,
-7_body/3_ape_guy.png, Body, Ape Guy,
-7_body/4_pink_alien_girl.png, Body, Pink Alien Girl,
-7_body/5_olive_girl.png, Body, Olive Girl,
-7_body/6_bronze_guy.png, Body, Bronze Guy,
-7_body/7_pink_alien_guy.png, Body, Pink Alien Guy,
-7_body/8_bronze_girl.png, Body, Bronze Girl,
-7_body/9_almond_girl.png, Body, Almond Girl,
-7_body/10_green_alien_guy.png, Body, Green Alien Guy,
-7_body/11_blue_alien_guy.png, Body, Blue Alien Guy,
-7_body/12_almond_guy.png, Body, Almond Guy,
-7_body/13_pale_guy.png, Body, Pale Guy,
-7_body/14_green_alien_girl.png, Body, Green Alien Girl,
-7_body/15_purple_alien_guy.png, Body, Purple Alien Guy,
-7_body/16_olive_guy.png, Body, Olive Guy,
-7_body/17_blue_alien_girl.png, Body, Blue Alien Girl,
-7_body/18_beige_guy.png, Body, Beige Guy,
-7_body/19_purple_alien_girl.png, Body, Purple Alien Girl,
-7_body/20_beige_girl.png, Body, Beige Girl,
-7_body/21_pale_girl.png, Body, Pale Girl,
-8_jacket/0_cloak.png, Jacket, Cloak,
-8_jacket/1_yellow.png, Jacket, Jacket Yellow, Yellow
-8_jacket/2_white.png, Jacket,  Jacket White, White
-8_jacket/3_brown.png, Jacket, Jacket Brown,
-8_jacket/4_purple.png, Jacket, Jacket Purple,
-8_jacket/5_grey.png, Jacket, Grey,
-8_jacket/6_blue.png, Jacket, Jacket Blue,
-8_jacket/7_pink.png, Jacket, Jacket Pink,
-8_jacket/8_orange.png, Jacket, Orange,
-8_jacket/9_green.png, Jacket, Jacket Green,
-##  8_jacket/10_none.png, Jacket, None,
-9_background/0_cityscape.png, Background, Cityscape,
-9_background/1_gold.png, Background, Background Gold, Solid Gold
-9_background/2_green.png, Background, Background Green, Solid Green
-9_background/3_purple.png, Background, Background Purple, Solid Purple
-9_background/4_orange.png, Background, Background Orange, Solid Orange
-9_background/5_blue.png, Background, Background Blue, Solid Blue
-9_background/6_pink.png, Background, Background Pink, Solid Pink
+0_head/0_cowl.png, Head, Head : Cowl, Cowl
+0_head/1_horns.png, Head, Head : Horns, Horns
+0_head/2_diamond_tiara.png, Head, Head : Diamond Tiara, Diamond Tiara
+0_head/3_pink_antennae.png, Head, Head : Pink Antennae, Pink Antennae
+0_head/4_orange_tiara.png, Head, Head : Orange Tiara, Orange Tiara
+0_head/5_purple_antennae.png, Head, Head : Purple Antennae, Purple Antennae
+0_head/6_yellow_antennae.png, Head, Head : Yellow Antennae, Yellow Antennae
+0_head/7_googles.png, Head, Head : Googles, Googles
+0_head/8_blue_tiara.png, Head, Head : Blue Tiara, Blue Tiara
+0_head/9_green_antennae.png, Head, Head : Green Antennae, Green Antennae
+0_head/10_green_tiara.png, Head, Head : Green Tiara, Green Tiara
+0_head/11_pink_tiara.png, Head, Head : Pink Tiara, Pink Tiara
+0_head/12_orange_antennae.png, Head, Head : Orange Antennae, Orange Antennae
+0_head/13_purple_tiara.png, Head, Head : Purple Tiara, Purple Tiara
+0_head/14_blue_antennae.png, Head, Head : Blue Antennae, Blue Antennae
+0_head/15_none.png, Head, Head : None,
+1_ears/0_long_gold.png, Ears, Ears : Long Gold, Long Gold
+1_ears/1_long_purple.png, Ears, Ears : Long Purple, Long Purple
+1_ears/2_long_pink.png, Ears, Ears : Long Pink, Long Pink
+1_ears/3_long_orange.png, Ears, Ears : Long Orange, Long Orange
+1_ears/4_long_green.png, Ears, Ears : Long Green, Long Green
+1_ears/5_long_blue.png, Ears, Ears : Long Blue, Long Blue
+1_ears/6_gold_stud.png, Ears, Ears : Gold Stud, Gold Stud
+1_ears/7_orange_stud.png, Ears, Ears : Orange Stud, Orange Stud
+1_ears/8_purple_stud.png, Ears, Ears : Purple Stud, Purple Stud
+1_ears/9_green_stud.png, Ears, Ears : Green Stud, Green Stud
+1_ears/10_pink_stud.png, Ears, Ears : Pink Stud, Pink Stud
+1_ears/11_blue_stud.png, Ears, Ears : Blue Stud, Blue Stud
+1_ears/12_none.png, Ears, Ears : None,
+2_eyes/0_brown_eye_patch.png, Eyes, Eyes : Brown Eye Patch, Brown Eye Patch
+2_eyes/1_purple_lazer.png, Eyes, Eyes : Purple Lazer, Purple Lazer
+2_eyes/2_purple_makeup.png, Eyes, Eyes : Purple Makeup, Purple Makeup
+2_eyes/3_monocle.png, Eyes, Eyes : Monocle, Monocle
+2_eyes/4_robot_visor.png, Eyes, Eyes : Robot Visor, Robot Visor
+2_eyes/5_robot_prosthetic.png, Eyes, Eyes : Robot Prosthetic, Robot Prosthetic
+2_eyes/6_vaporwave_shades.png, Eyes, Eyes : Vaporwave Shades, Vaporwave Shades
+2_eyes/7_sunset_shades.png, Eyes, Eyes : Sunset Shades, Sunset Shades
+2_eyes/8_indigo_eye_patch.png, Eyes, Eyes : Indigo Eye Patch, Indigo Eye Patch
+2_eyes/9_sunrise_shades.png, Eyes, Eyes : Sunrise Shades, Sunrise Shades
+2_eyes/10_red.png, Eyes, Eyes : Red, Red
+2_eyes/11_neon_shades.png, Eyes, Eyes : Neon Shades, Neon Shades
+2_eyes/12_rainbow_shades.png, Eyes, Eyes : Rainbow Shades, Rainbow Shades
+2_eyes/13_electric_lazer.png, Eyes, Eyes : Electric Lazer, Electric Lazer
+2_eyes/14_rainbow_visor.png, Eyes, Eyes : Rainbow Visor, Rainbow Visor
+2_eyes/15_3_d_glasses.png, Eyes, Eyes : 3 D Glasses, 3 D Glasses
+2_eyes/16_green_makeup.png, Eyes, Eyes : Green Makeup, Green Makeup
+2_eyes/17_black_shades.png, Eyes, Eyes : Black Shades, Black Shades
+2_eyes/18_white_shades.png, Eyes, Eyes : White Shades, White Shades
+2_eyes/19_pink_makeup.png, Eyes, Eyes : Pink Makeup, Pink Makeup
+2_eyes/20_blue_makeup.png, Eyes, Eyes : Blue Makeup, Blue Makeup
+2_eyes/21_purple_cyclops.png, Eyes, Eyes : Purple Cyclops, Purple Cyclops
+2_eyes/22_electric.png, Eyes, Eyes : Electric, Electric
+2_eyes/23_pink_cyclops.png, Eyes, Eyes : Pink Cyclops, Pink Cyclops
+2_eyes/24_orange_cyclops.png, Eyes, Eyes : Orange Cyclops, Orange Cyclops
+2_eyes/25_yellow_cyclops.png, Eyes, Eyes : Yellow Cyclops, Yellow Cyclops
+2_eyes/26_green_cyclops.png, Eyes, Eyes : Green Cyclops, Green Cyclops
+2_eyes/27_blue_cyclops.png, Eyes, Eyes : Blue Cyclops, Blue Cyclops
+2_eyes/28_pink.png, Eyes, Eyes : Pink, Pink
+2_eyes/29_green.png, Eyes, Eyes : Green, Green
+2_eyes/30_purple.png, Eyes, Eyes : Purple, Purple
+2_eyes/31_brown.png, Eyes, Eyes : Brown, Brown
+2_eyes/32_blue.png, Eyes, Eyes : Blue, Blue
+3_hair/0_vaporwave_long_bob.png, Hair, Hair : Vaporwave Long Bob, Vaporwave Long Bob
+3_hair/1_rainbow_punk.png, Hair, Hair : Rainbow Punk, Rainbow Punk
+3_hair/2_vaporwave_punk.png, Hair, Hair : Vaporwave Punk, Vaporwave Punk
+3_hair/3_purple_buzz_cut.png, Hair, Hair : Purple Buzz Cut, Purple Buzz Cut
+3_hair/4_pink_widow_peak.png, Hair, Hair : Pink Widow Peak, Pink Widow Peak
+3_hair/5_purple_widow_peak.png, Hair, Hair : Purple Widow Peak, Purple Widow Peak
+3_hair/6_purple_shag.png, Hair, Hair : Purple Shag, Purple Shag
+3_hair/7_vaporwave_topknot.png, Hair, Hair : Vaporwave Topknot, Vaporwave Topknot
+3_hair/8_purple_mullet.png, Hair, Hair : Purple Mullet, Purple Mullet
+3_hair/9_pink_short.png, Hair, Hair : Pink Short, Pink Short
+3_hair/10_pink_sleek.png, Hair, Hair : Pink Sleek, Pink Sleek
+3_hair/11_pink_shag.png, Hair, Hair : Pink Shag, Pink Shag
+3_hair/12_blue_widow_peak.png, Hair, Hair : Blue Widow Peak, Blue Widow Peak
+3_hair/13_pink_ponytail.png, Hair, Hair : Pink Ponytail, Pink Ponytail
+3_hair/14_neon_topknot.png, Hair, Hair : Neon Topknot, Neon Topknot
+3_hair/15_purple_sleek.png, Hair, Hair : Purple Sleek, Purple Sleek
+3_hair/16_purple_short.png, Hair, Hair : Purple Short, Purple Short
+3_hair/17_pink_mullet.png, Hair, Hair : Pink Mullet, Pink Mullet
+3_hair/18_pink_long_bob.png, Hair, Hair : Pink Long Bob, Pink Long Bob
+3_hair/19_purple_fringe.png, Hair, Hair : Purple Fringe, Purple Fringe
+3_hair/20_brown_buzz_cut.png, Hair, Hair : Brown Buzz Cut, Brown Buzz Cut
+3_hair/21_orange_widow_peak.png, Hair, Hair : Orange Widow Peak, Orange Widow Peak
+3_hair/22_pink_bob.png, Hair, Hair : Pink Bob, Pink Bob
+3_hair/23_pink_buzz_cut.png, Hair, Hair : Pink Buzz Cut, Pink Buzz Cut
+3_hair/24_pink_fringe.png, Hair, Hair : Pink Fringe, Pink Fringe
+3_hair/25_orange_topknot.png, Hair, Hair : Orange Topknot, Orange Topknot
+3_hair/26_blue_ponytail.png, Hair, Hair : Blue Ponytail, Blue Ponytail
+3_hair/27_orange_spiky.png, Hair, Hair : Orange Spiky, Orange Spiky
+3_hair/28_neon_punk.png, Hair, Hair : Neon Punk, Neon Punk
+3_hair/29_purple_topknot.png, Hair, Hair : Purple Topknot, Purple Topknot
+3_hair/30_blue_shag.png, Hair, Hair : Blue Shag, Blue Shag
+3_hair/31_orange_sleek.png, Hair, Hair : Orange Sleek, Orange Sleek
+3_hair/32_orange_short.png, Hair, Hair : Orange Short, Orange Short
+3_hair/33_orange_punk.png, Hair, Hair : Orange Punk, Orange Punk
+3_hair/34_orange_shag.png, Hair, Hair : Orange Shag, Orange Shag
+3_hair/35_orange_ponytail.png, Hair, Hair : Orange Ponytail, Orange Ponytail
+3_hair/36_orange_pigtails.png, Hair, Hair : Orange Pigtails, Orange Pigtails
+3_hair/37_orange_long_bob.png, Hair, Hair : Orange Long Bob, Orange Long Bob
+3_hair/38_orange_mullet.png, Hair, Hair : Orange Mullet, Orange Mullet
+3_hair/39_orange_fringe.png, Hair, Hair : Orange Fringe, Orange Fringe
+3_hair/40_orange_buzz_cut.png, Hair, Hair : Orange Buzz Cut, Orange Buzz Cut
+3_hair/41_orange_bob.png, Hair, Hair : Orange Bob, Orange Bob
+3_hair/42_yellow_widow_peak.png, Hair, Hair : Yellow Widow Peak, Yellow Widow Peak
+3_hair/43_yellow_topknot.png, Hair, Hair : Yellow Topknot, Yellow Topknot
+3_hair/44_purple_spiky.png, Hair, Hair : Purple Spiky, Purple Spiky
+3_hair/45_yellow_mullet.png, Hair, Hair : Yellow Mullet, Yellow Mullet
+3_hair/46_purple_long_bob.png, Hair, Hair : Purple Long Bob, Purple Long Bob
+3_hair/47_blue_mullet.png, Hair, Hair : Blue Mullet, Blue Mullet
+3_hair/48_neon_long_bob.png, Hair, Hair : Neon Long Bob, Neon Long Bob
+3_hair/49_blue_long_bob.png, Hair, Hair : Blue Long Bob, Blue Long Bob
+3_hair/50_green_shag.png, Hair, Hair : Green Shag, Green Shag
+3_hair/51_black_widow_peak.png, Hair, Hair : Black Widow Peak, Black Widow Peak
+3_hair/52_yellow_buzz_cut.png, Hair, Hair : Yellow Buzz Cut, Yellow Buzz Cut
+3_hair/53_blue_fringe.png, Hair, Hair : Blue Fringe, Blue Fringe
+3_hair/54_green_spiky.png, Hair, Hair : Green Spiky, Green Spiky
+3_hair/55_blue_punk.png, Hair, Hair : Blue Punk, Blue Punk
+3_hair/56_blue_short.png, Hair, Hair : Blue Short, Blue Short
+3_hair/57_green_widow_peak.png, Hair, Hair : Green Widow Peak, Green Widow Peak
+3_hair/58_yellow_bob.png, Hair, Hair : Yellow Bob, Yellow Bob
+3_hair/59_blue_bob.png, Hair, Hair : Blue Bob, Blue Bob
+3_hair/60_blond_punk.png, Hair, Hair : Blond Punk, Blond Punk
+3_hair/61_green_topknot.png, Hair, Hair : Green Topknot, Green Topknot
+3_hair/62_blue_spiky.png, Hair, Hair : Blue Spiky, Blue Spiky
+3_hair/63_purple_punk.png, Hair, Hair : Purple Punk, Purple Punk
+3_hair/64_purple_ponytail.png, Hair, Hair : Purple Ponytail, Purple Ponytail
+3_hair/65_purple_pigtails.png, Hair, Hair : Purple Pigtails, Purple Pigtails
+3_hair/66_yellow_sleek.png, Hair, Hair : Yellow Sleek, Yellow Sleek
+3_hair/67_yellow_short.png, Hair, Hair : Yellow Short, Yellow Short
+3_hair/68_blue_pigtails.png, Hair, Hair : Blue Pigtails, Blue Pigtails
+3_hair/69_green_sleek.png, Hair, Hair : Green Sleek, Green Sleek
+3_hair/70_yellow_long_bob.png, Hair, Hair : Yellow Long Bob, Yellow Long Bob
+3_hair/71_green_short.png, Hair, Hair : Green Short, Green Short
+3_hair/72_purple_bob.png, Hair, Hair : Purple Bob, Purple Bob
+3_hair/73_yellow_spiky.png, Hair, Hair : Yellow Spiky, Yellow Spiky
+3_hair/74_yellow_shag.png, Hair, Hair : Yellow Shag, Yellow Shag
+3_hair/75_blue_topknot.png, Hair, Hair : Blue Topknot, Blue Topknot
+3_hair/76_green_punk.png, Hair, Hair : Green Punk, Green Punk
+3_hair/77_blue_sleek.png, Hair, Hair : Blue Sleek, Blue Sleek
+3_hair/78_yellow_pigtails.png, Hair, Hair : Yellow Pigtails, Yellow Pigtails
+3_hair/79_blue_buzz_cut.png, Hair, Hair : Blue Buzz Cut, Blue Buzz Cut
+3_hair/80_green_ponytail.png, Hair, Hair : Green Ponytail, Green Ponytail
+3_hair/81_pink_topknot.png, Hair, Hair : Pink Topknot, Pink Topknot
+3_hair/82_green_pigtails.png, Hair, Hair : Green Pigtails, Green Pigtails
+3_hair/83_pink_spiky.png, Hair, Hair : Pink Spiky, Pink Spiky
+3_hair/84_yellow_ponytail.png, Hair, Hair : Yellow Ponytail, Yellow Ponytail
+3_hair/85_pink_punk.png, Hair, Hair : Pink Punk, Pink Punk
+3_hair/86_pink_pigtails.png, Hair, Hair : Pink Pigtails, Pink Pigtails
+3_hair/87_green_mullet.png, Hair, Hair : Green Mullet, Green Mullet
+3_hair/88_green_bob.png, Hair, Hair : Green Bob, Green Bob
+3_hair/89_yellow_fringe.png, Hair, Hair : Yellow Fringe, Yellow Fringe
+3_hair/90_green_long_bob.png, Hair, Hair : Green Long Bob, Green Long Bob
+3_hair/91_green_fringe.png, Hair, Hair : Green Fringe, Green Fringe
+3_hair/92_green_buzz_cut.png, Hair, Hair : Green Buzz Cut, Green Buzz Cut
+3_hair/93_none.png, Hair, Hair : None,
+4_face/0_electric_scar.png, Face, Face : Electric Scar, Electric Scar
+4_face/1_scar.png, Face, Face : Scar, Scar
+4_face/2_blush.png, Face, Face : Blush, Blush
+4_face/3_nose_ring.png, Face, Face : Nose Ring, Nose Ring
+4_face/4_none.png, Face, Face : None,
+5_mouth/0_upturned_fangs.png, Mouth, Mouth : Upturned Fangs, Upturned Fangs
+5_mouth/1_black_kerchief.png, Mouth, Mouth : Black Kerchief, Black Kerchief
+5_mouth/2_toothsome.png, Mouth, Mouth : Toothsome, Toothsome
+5_mouth/3_blue_kerchief.png, Mouth, Mouth : Blue Kerchief, Blue Kerchief
+5_mouth/4_fangs.png, Mouth, Mouth : Fangs, Fangs
+5_mouth/5_red_kerchief.png, Mouth, Mouth : Red Kerchief, Red Kerchief
+5_mouth/6_smoking.png, Mouth, Mouth : Smoking, Smoking
+5_mouth/7_worm.png, Mouth, Mouth : Worm, Worm
+5_mouth/8_metal_mask.png, Mouth, Mouth : Metal Mask, Metal Mask
+5_mouth/9_creepy.png, Mouth, Mouth : Creepy, Creepy
+5_mouth/10_face_mask.png, Mouth, Mouth : Face Mask, Face Mask
+5_mouth/11_pink.png, Mouth, Mouth : Pink,
+5_mouth/12_red.png, Mouth, Mouth : Red,
+5_mouth/13_green.png, Mouth, Mouth : Green,
+5_mouth/14_purple.png, Mouth, Mouth : Purple,
+5_mouth/15_blue.png, Mouth, Mouth : Blue,
+5_mouth/16_neutral.png, Mouth, Mouth : Neutral, Neutral
+6_neck/0_punk.png, Neck, Neck : Punk, Punk
+6_neck/1_chain.png, Neck, Neck : Chain, Chain
+6_neck/2_green_collar.png, Neck, Neck : Green Collar, Green Collar
+6_neck/3_purple_collar.png, Neck, Neck : Purple Collar, Purple Collar
+6_neck/4_orange_collar.png, Neck, Neck : Orange Collar, Orange Collar
+6_neck/5_pink_collar.png, Neck, Neck : Pink Collar, Pink Collar
+6_neck/6_blue_collar.png, Neck, Neck : Blue Collar, Blue Collar
+6_neck/7_none.png, Neck, Neck : None,
+7_body/0_ape_girl.png, Body, Body : Ape Girl, Ape Girl
+7_body/1_clown_guy.png, Body, Body : Clown Guy, Clown Guy
+7_body/2_clown_girl.png, Body, Body : Clown Girl, Clown Girl
+7_body/3_ape_guy.png, Body, Body : Ape Guy, Ape Guy
+7_body/4_pink_alien_girl.png, Body, Body : Pink Alien Girl, Pink Alien Girl
+7_body/5_olive_girl.png, Body, Body : Olive Girl, Olive Girl
+7_body/6_bronze_guy.png, Body, Body : Bronze Guy, Bronze Guy
+7_body/7_pink_alien_guy.png, Body, Body : Pink Alien Guy, Pink Alien Guy
+7_body/8_bronze_girl.png, Body, Body : Bronze Girl, Bronze Girl
+7_body/9_almond_girl.png, Body, Body : Almond Girl, Almond Girl
+7_body/10_green_alien_guy.png, Body, Body : Green Alien Guy, Green Alien Guy
+7_body/11_blue_alien_guy.png, Body, Body : Blue Alien Guy, Blue Alien Guy
+7_body/12_almond_guy.png, Body, Body : Almond Guy, Almond Guy
+7_body/13_pale_guy.png, Body, Body : Pale Guy, Pale Guy
+7_body/14_green_alien_girl.png, Body, Body : Green Alien Girl, Green Alien Girl
+7_body/15_purple_alien_guy.png, Body, Body : Purple Alien Guy, Purple Alien Guy
+7_body/16_olive_guy.png, Body, Body : Olive Guy, Olive Guy
+7_body/17_blue_alien_girl.png, Body, Body : Blue Alien Girl, Blue Alien Girl
+7_body/18_beige_guy.png, Body, Body : Beige Guy, Beige Guy
+7_body/19_purple_alien_girl.png, Body, Body : Purple Alien Girl, Purple Alien Girl
+7_body/20_beige_girl.png, Body, Body : Beige Girl, Beige Girl
+7_body/21_pale_girl.png, Body, Body : Pale Girl, Pale Girl
+8_jacket/0_cloak.png, Jacket, Jacket : Cloak, Cloak
+8_jacket/1_yellow.png, Jacket, Jacket : Yellow,
+8_jacket/2_white.png, Jacket, Jacket : White,
+8_jacket/3_brown.png, Jacket, Jacket : Brown,
+8_jacket/4_purple.png, Jacket, Jacket : Purple,
+8_jacket/5_grey.png, Jacket, Jacket : Grey,
+8_jacket/6_blue.png, Jacket, Jacket : Blue,
+8_jacket/7_pink.png, Jacket, Jacket : Pink,
+8_jacket/8_orange.png, Jacket, Jacket : Orange,
+8_jacket/9_green.png, Jacket, Jacket : Green,
+8_jacket/10_none.png, Jacket, Jacket : None,
+9_background/0_cityscape.png, Background, Background : Cityscape, Cityscape
+9_background/1_gold.png, Background, Background : Gold, Solid Gold
+9_background/2_green.png, Background, Background : Green, Solid Green
+9_background/3_purple.png, Background, Background : Purple, Solid Purple
+9_background/4_orange.png, Background, Background : Orange, Solid Orange
+9_background/5_blue.png, Background, Background : Blue, Solid Blue
+9_background/6_pink.png, Background, Background : Pink, Solid Pink

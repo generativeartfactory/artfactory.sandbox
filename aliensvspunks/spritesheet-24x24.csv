@@ -1,221 +1,227 @@
 id, category, name, more_names
-0, Head, Cowl, 
-1, Head, Horns, 
-2, Head, Diamond Tiara, 
-3, Head, Pink Antennae, 
-4, Head, Orange Tiara, 
-5, Head, Purple Antennae, 
-6, Head, Yellow Antennae, 
-7, Head, Googles, 
-8, Head, Blue Tiara, 
-9, Head, Green Antennae, 
-10, Head, Green Tiara, 
-11, Head, Pink Tiara, 
-12, Head, Orange Antennae, 
-13, Head, Purple Tiara, 
-14, Head, Blue Antennae, 
-15, Ears, Long Gold, 
-16, Ears, Long Purple, 
-17, Ears, Long Pink, 
-18, Ears, Long Orange, 
-19, Ears, Long Green, 
-20, Ears, Long Blue, 
-21, Ears, Gold Stud, 
-22, Ears, Orange Stud, 
-23, Ears, Purple Stud, 
-24, Ears, Green Stud, 
-25, Ears, Pink Stud, 
-26, Ears, Blue Stud, 
-27, Eyes, Brown Eye Patch, 
-28, Eyes, Purple Lazer, 
-29, Eyes, Purple Makeup, 
-30, Eyes, Monocle, 
-31, Eyes, Robot Visor, 
-32, Eyes, Robot Prosthetic, 
-33, Eyes, Vaporwave Shades, 
-34, Eyes, Sunset Shades, 
-35, Eyes, Indigo Eye Patch, 
-36, Eyes, Sunrise Shades, 
-37, Eyes, Red, 
-38, Eyes, Neon Shades, 
-39, Eyes, Rainbow Shades, 
-40, Eyes, Electric Lazer, 
-41, Eyes, Rainbow Visor, 
-42, Eyes, 3 D Glasses, 
-43, Eyes, Green Makeup, 
-44, Eyes, Black Shades, 
-45, Eyes, White Shades, 
-46, Eyes, Pink Makeup, 
-47, Eyes, Blue Makeup, 
-48, Eyes, Purple Cyclops, 
-49, Eyes, Electric, 
-50, Eyes, Pink Cyclops, 
-51, Eyes, Orange Cyclops, 
-52, Eyes, Yellow Cyclops, 
-53, Eyes, Green Cyclops, 
-54, Eyes, Blue Cyclops, 
-55, Eyes, Pink, 
-56, Eyes, Green, 
-57, Eyes, Purple, 
-58, Eyes, Brown, 
-59, Eyes, Blue, 
-60, Hair, Vaporwave Long Bob, 
-61, Hair, Rainbow Punk, 
-62, Hair, Vaporwave Punk, 
-63, Hair, Purple Buzz Cut, 
-64, Hair, Pink Widow Peak, 
-65, Hair, Purple Widow Peak, 
-66, Hair, Purple Shag, 
-67, Hair, Vaporwave Topknot, 
-68, Hair, Purple Mullet, 
-69, Hair, Pink Short, 
-70, Hair, Pink Sleek, 
-71, Hair, Pink Shag, 
-72, Hair, Blue Widow Peak, 
-73, Hair, Pink Ponytail, 
-74, Hair, Neon Topknot, 
-75, Hair, Purple Sleek, 
-76, Hair, Purple Short, 
-77, Hair, Pink Mullet, 
-78, Hair, Pink Long Bob, 
-79, Hair, Purple Fringe, 
-80, Hair, Brown Buzz Cut, 
-81, Hair, Orange Widow Peak, 
-82, Hair, Pink Bob, 
-83, Hair, Pink Buzz Cut, 
-84, Hair, Pink Fringe, 
-85, Hair, Orange Topknot, 
-86, Hair, Blue Ponytail, 
-87, Hair, Orange Spiky, 
-88, Hair, Neon Punk, 
-89, Hair, Purple Topknot, 
-90, Hair, Blue Shag, 
-91, Hair, Orange Sleek, 
-92, Hair, Orange Short, 
-93, Hair, Orange Punk, 
-94, Hair, Orange Shag, 
-95, Hair, Orange Ponytail, 
-96, Hair, Orange Pigtails, 
-97, Hair, Orange Long Bob, 
-98, Hair, Orange Mullet, 
-99, Hair, Orange Fringe, 
-100, Hair, Orange Buzz Cut, 
-101, Hair, Orange Bob, 
-102, Hair, Yellow Widow Peak, 
-103, Hair, Yellow Topknot, 
-104, Hair, Purple Spiky, 
-105, Hair, Yellow Mullet, 
-106, Hair, Purple Long Bob, 
-107, Hair, Blue Mullet, 
-108, Hair, Neon Long Bob, 
-109, Hair, Blue Long Bob, 
-110, Hair, Green Shag, 
-111, Hair, Black Widow Peak, 
-112, Hair, Yellow Buzz Cut, 
-113, Hair, Blue Fringe, 
-114, Hair, Green Spiky, 
-115, Hair, Blue Punk, 
-116, Hair, Blue Short, 
-117, Hair, Green Widow Peak, 
-118, Hair, Yellow Bob, 
-119, Hair, Blue Bob, 
-120, Hair, Blond Punk, 
-121, Hair, Green Topknot, 
-122, Hair, Blue Spiky, 
-123, Hair, Purple Punk, 
-124, Hair, Purple Ponytail, 
-125, Hair, Purple Pigtails, 
-126, Hair, Yellow Sleek, 
-127, Hair, Yellow Short, 
-128, Hair, Blue Pigtails, 
-129, Hair, Green Sleek, 
-130, Hair, Yellow Long Bob, 
-131, Hair, Green Short, 
-132, Hair, Purple Bob, 
-133, Hair, Yellow Spiky, 
-134, Hair, Yellow Shag, 
-135, Hair, Blue Topknot, 
-136, Hair, Green Punk, 
-137, Hair, Blue Sleek, 
-138, Hair, Yellow Pigtails, 
-139, Hair, Blue Buzz Cut, 
-140, Hair, Green Ponytail, 
-141, Hair, Pink Topknot, 
-142, Hair, Green Pigtails, 
-143, Hair, Pink Spiky, 
-144, Hair, Yellow Ponytail, 
-145, Hair, Pink Punk, 
-146, Hair, Pink Pigtails, 
-147, Hair, Green Mullet, 
-148, Hair, Green Bob, 
-149, Hair, Yellow Fringe, 
-150, Hair, Green Long Bob, 
-151, Hair, Green Fringe, 
-152, Hair, Green Buzz Cut, 
-153, Face, Electric Scar, 
-154, Face, Scar, 
-155, Face, Blush, 
-156, Face, Nose Ring, 
-157, Mouth, Upturned Fangs, 
-158, Mouth, Black Kerchief, 
-159, Mouth, Toothsome, 
-160, Mouth, Blue Kerchief, 
-161, Mouth, Fangs, 
-162, Mouth, Red Kerchief, 
-163, Mouth, Smoking, 
-164, Mouth, Worm, 
-165, Mouth, Metal Mask, 
-166, Mouth, Creepy, 
-167, Mouth, Face Mask, 
-168, Mouth, Mouth Pink, Pink Mouth
-169, Mouth, Mouth Red, Red Mouth
-170, Mouth, Mouth Green, Green Mouth
-171, Mouth, Mouth Purple Purple Mouth, 
-172, Mouth, Mouth Blue, Blue Mouth
-173, Mouth, Neutral, 
-174, Neck, Punk, 
-175, Neck, Chain, 
-176, Neck, Green Collar, 
-177, Neck, Purple Collar, 
-178, Neck, Orange Collar, 
-179, Neck, Pink Collar, 
-180, Neck, Blue Collar, 
-181, Body, Ape Girl, 
-182, Body, Clown Guy, 
-183, Body, Clown Girl, 
-184, Body, Ape Guy, 
-185, Body, Pink Alien Girl, 
-186, Body, Olive Girl, 
-187, Body, Bronze Guy, 
-188, Body, Pink Alien Guy, 
-189, Body, Bronze Girl, 
-190, Body, Almond Girl, 
-191, Body, Green Alien Guy, 
-192, Body, Blue Alien Guy, 
-193, Body, Almond Guy, 
-194, Body, Pale Guy, 
-195, Body, Green Alien Girl, 
-196, Body, Purple Alien Guy, 
-197, Body, Olive Guy, 
-198, Body, Blue Alien Girl, 
-199, Body, Beige Guy, 
-200, Body, Purple Alien Girl, 
-201, Body, Beige Girl, 
-202, Body, Pale Girl, 
-203, Jacket, Cloak, 
-204, Jacket, Jacket Yellow, Yellow
-205, Jacket, Jacket White, White
-206, Jacket, Jacket Brown, 
-207, Jacket, Jacket Purple, 
-208, Jacket, Grey, 
-209, Jacket, Jacket Blue, 
-210, Jacket, Jacket Pink, 
-211, Jacket, Orange, 
-212, Jacket, Jacket Green, 
-213, Background, Cityscape, 
-214, Background, Background Gold, Solid Gold
-215, Background, Background Green, Solid Green
-216, Background, Background Purple, Solid Purple
-217, Background, Background Orange, Solid Orange
-218, Background, Background Blue, Solid Blue
-219, Background, Background Pink, Solid Pink
+0, Head, Head : Cowl, Cowl
+1, Head, Head : Horns, Horns
+2, Head, Head : Diamond Tiara, Diamond Tiara
+3, Head, Head : Pink Antennae, Pink Antennae
+4, Head, Head : Orange Tiara, Orange Tiara
+5, Head, Head : Purple Antennae, Purple Antennae
+6, Head, Head : Yellow Antennae, Yellow Antennae
+7, Head, Head : Googles, Googles
+8, Head, Head : Blue Tiara, Blue Tiara
+9, Head, Head : Green Antennae, Green Antennae
+10, Head, Head : Green Tiara, Green Tiara
+11, Head, Head : Pink Tiara, Pink Tiara
+12, Head, Head : Orange Antennae, Orange Antennae
+13, Head, Head : Purple Tiara, Purple Tiara
+14, Head, Head : Blue Antennae, Blue Antennae
+15, Head, Head : None, 
+16, Ears, Ears : Long Gold, Long Gold
+17, Ears, Ears : Long Purple, Long Purple
+18, Ears, Ears : Long Pink, Long Pink
+19, Ears, Ears : Long Orange, Long Orange
+20, Ears, Ears : Long Green, Long Green
+21, Ears, Ears : Long Blue, Long Blue
+22, Ears, Ears : Gold Stud, Gold Stud
+23, Ears, Ears : Orange Stud, Orange Stud
+24, Ears, Ears : Purple Stud, Purple Stud
+25, Ears, Ears : Green Stud, Green Stud
+26, Ears, Ears : Pink Stud, Pink Stud
+27, Ears, Ears : Blue Stud, Blue Stud
+28, Ears, Ears : None, 
+29, Eyes, Eyes : Brown Eye Patch, Brown Eye Patch
+30, Eyes, Eyes : Purple Lazer, Purple Lazer
+31, Eyes, Eyes : Purple Makeup, Purple Makeup
+32, Eyes, Eyes : Monocle, Monocle
+33, Eyes, Eyes : Robot Visor, Robot Visor
+34, Eyes, Eyes : Robot Prosthetic, Robot Prosthetic
+35, Eyes, Eyes : Vaporwave Shades, Vaporwave Shades
+36, Eyes, Eyes : Sunset Shades, Sunset Shades
+37, Eyes, Eyes : Indigo Eye Patch, Indigo Eye Patch
+38, Eyes, Eyes : Sunrise Shades, Sunrise Shades
+39, Eyes, Eyes : Red, Red
+40, Eyes, Eyes : Neon Shades, Neon Shades
+41, Eyes, Eyes : Rainbow Shades, Rainbow Shades
+42, Eyes, Eyes : Electric Lazer, Electric Lazer
+43, Eyes, Eyes : Rainbow Visor, Rainbow Visor
+44, Eyes, Eyes : 3 D Glasses, 3 D Glasses
+45, Eyes, Eyes : Green Makeup, Green Makeup
+46, Eyes, Eyes : Black Shades, Black Shades
+47, Eyes, Eyes : White Shades, White Shades
+48, Eyes, Eyes : Pink Makeup, Pink Makeup
+49, Eyes, Eyes : Blue Makeup, Blue Makeup
+50, Eyes, Eyes : Purple Cyclops, Purple Cyclops
+51, Eyes, Eyes : Electric, Electric
+52, Eyes, Eyes : Pink Cyclops, Pink Cyclops
+53, Eyes, Eyes : Orange Cyclops, Orange Cyclops
+54, Eyes, Eyes : Yellow Cyclops, Yellow Cyclops
+55, Eyes, Eyes : Green Cyclops, Green Cyclops
+56, Eyes, Eyes : Blue Cyclops, Blue Cyclops
+57, Eyes, Eyes : Pink, Pink
+58, Eyes, Eyes : Green, Green
+59, Eyes, Eyes : Purple, Purple
+60, Eyes, Eyes : Brown, Brown
+61, Eyes, Eyes : Blue, Blue
+62, Hair, Hair : Vaporwave Long Bob, Vaporwave Long Bob
+63, Hair, Hair : Rainbow Punk, Rainbow Punk
+64, Hair, Hair : Vaporwave Punk, Vaporwave Punk
+65, Hair, Hair : Purple Buzz Cut, Purple Buzz Cut
+66, Hair, Hair : Pink Widow Peak, Pink Widow Peak
+67, Hair, Hair : Purple Widow Peak, Purple Widow Peak
+68, Hair, Hair : Purple Shag, Purple Shag
+69, Hair, Hair : Vaporwave Topknot, Vaporwave Topknot
+70, Hair, Hair : Purple Mullet, Purple Mullet
+71, Hair, Hair : Pink Short, Pink Short
+72, Hair, Hair : Pink Sleek, Pink Sleek
+73, Hair, Hair : Pink Shag, Pink Shag
+74, Hair, Hair : Blue Widow Peak, Blue Widow Peak
+75, Hair, Hair : Pink Ponytail, Pink Ponytail
+76, Hair, Hair : Neon Topknot, Neon Topknot
+77, Hair, Hair : Purple Sleek, Purple Sleek
+78, Hair, Hair : Purple Short, Purple Short
+79, Hair, Hair : Pink Mullet, Pink Mullet
+80, Hair, Hair : Pink Long Bob, Pink Long Bob
+81, Hair, Hair : Purple Fringe, Purple Fringe
+82, Hair, Hair : Brown Buzz Cut, Brown Buzz Cut
+83, Hair, Hair : Orange Widow Peak, Orange Widow Peak
+84, Hair, Hair : Pink Bob, Pink Bob
+85, Hair, Hair : Pink Buzz Cut, Pink Buzz Cut
+86, Hair, Hair : Pink Fringe, Pink Fringe
+87, Hair, Hair : Orange Topknot, Orange Topknot
+88, Hair, Hair : Blue Ponytail, Blue Ponytail
+89, Hair, Hair : Orange Spiky, Orange Spiky
+90, Hair, Hair : Neon Punk, Neon Punk
+91, Hair, Hair : Purple Topknot, Purple Topknot
+92, Hair, Hair : Blue Shag, Blue Shag
+93, Hair, Hair : Orange Sleek, Orange Sleek
+94, Hair, Hair : Orange Short, Orange Short
+95, Hair, Hair : Orange Punk, Orange Punk
+96, Hair, Hair : Orange Shag, Orange Shag
+97, Hair, Hair : Orange Ponytail, Orange Ponytail
+98, Hair, Hair : Orange Pigtails, Orange Pigtails
+99, Hair, Hair : Orange Long Bob, Orange Long Bob
+100, Hair, Hair : Orange Mullet, Orange Mullet
+101, Hair, Hair : Orange Fringe, Orange Fringe
+102, Hair, Hair : Orange Buzz Cut, Orange Buzz Cut
+103, Hair, Hair : Orange Bob, Orange Bob
+104, Hair, Hair : Yellow Widow Peak, Yellow Widow Peak
+105, Hair, Hair : Yellow Topknot, Yellow Topknot
+106, Hair, Hair : Purple Spiky, Purple Spiky
+107, Hair, Hair : Yellow Mullet, Yellow Mullet
+108, Hair, Hair : Purple Long Bob, Purple Long Bob
+109, Hair, Hair : Blue Mullet, Blue Mullet
+110, Hair, Hair : Neon Long Bob, Neon Long Bob
+111, Hair, Hair : Blue Long Bob, Blue Long Bob
+112, Hair, Hair : Green Shag, Green Shag
+113, Hair, Hair : Black Widow Peak, Black Widow Peak
+114, Hair, Hair : Yellow Buzz Cut, Yellow Buzz Cut
+115, Hair, Hair : Blue Fringe, Blue Fringe
+116, Hair, Hair : Green Spiky, Green Spiky
+117, Hair, Hair : Blue Punk, Blue Punk
+118, Hair, Hair : Blue Short, Blue Short
+119, Hair, Hair : Green Widow Peak, Green Widow Peak
+120, Hair, Hair : Yellow Bob, Yellow Bob
+121, Hair, Hair : Blue Bob, Blue Bob
+122, Hair, Hair : Blond Punk, Blond Punk
+123, Hair, Hair : Green Topknot, Green Topknot
+124, Hair, Hair : Blue Spiky, Blue Spiky
+125, Hair, Hair : Purple Punk, Purple Punk
+126, Hair, Hair : Purple Ponytail, Purple Ponytail
+127, Hair, Hair : Purple Pigtails, Purple Pigtails
+128, Hair, Hair : Yellow Sleek, Yellow Sleek
+129, Hair, Hair : Yellow Short, Yellow Short
+130, Hair, Hair : Blue Pigtails, Blue Pigtails
+131, Hair, Hair : Green Sleek, Green Sleek
+132, Hair, Hair : Yellow Long Bob, Yellow Long Bob
+133, Hair, Hair : Green Short, Green Short
+134, Hair, Hair : Purple Bob, Purple Bob
+135, Hair, Hair : Yellow Spiky, Yellow Spiky
+136, Hair, Hair : Yellow Shag, Yellow Shag
+137, Hair, Hair : Blue Topknot, Blue Topknot
+138, Hair, Hair : Green Punk, Green Punk
+139, Hair, Hair : Blue Sleek, Blue Sleek
+140, Hair, Hair : Yellow Pigtails, Yellow Pigtails
+141, Hair, Hair : Blue Buzz Cut, Blue Buzz Cut
+142, Hair, Hair : Green Ponytail, Green Ponytail
+143, Hair, Hair : Pink Topknot, Pink Topknot
+144, Hair, Hair : Green Pigtails, Green Pigtails
+145, Hair, Hair : Pink Spiky, Pink Spiky
+146, Hair, Hair : Yellow Ponytail, Yellow Ponytail
+147, Hair, Hair : Pink Punk, Pink Punk
+148, Hair, Hair : Pink Pigtails, Pink Pigtails
+149, Hair, Hair : Green Mullet, Green Mullet
+150, Hair, Hair : Green Bob, Green Bob
+151, Hair, Hair : Yellow Fringe, Yellow Fringe
+152, Hair, Hair : Green Long Bob, Green Long Bob
+153, Hair, Hair : Green Fringe, Green Fringe
+154, Hair, Hair : Green Buzz Cut, Green Buzz Cut
+155, Hair, Hair : None, 
+156, Face, Face : Electric Scar, Electric Scar
+157, Face, Face : Scar, Scar
+158, Face, Face : Blush, Blush
+159, Face, Face : Nose Ring, Nose Ring
+160, Face, Face : None, 
+161, Mouth, Mouth : Upturned Fangs, Upturned Fangs
+162, Mouth, Mouth : Black Kerchief, Black Kerchief
+163, Mouth, Mouth : Toothsome, Toothsome
+164, Mouth, Mouth : Blue Kerchief, Blue Kerchief
+165, Mouth, Mouth : Fangs, Fangs
+166, Mouth, Mouth : Red Kerchief, Red Kerchief
+167, Mouth, Mouth : Smoking, Smoking
+168, Mouth, Mouth : Worm, Worm
+169, Mouth, Mouth : Metal Mask, Metal Mask
+170, Mouth, Mouth : Creepy, Creepy
+171, Mouth, Mouth : Face Mask, Face Mask
+172, Mouth, Mouth : Pink, 
+173, Mouth, Mouth : Red, 
+174, Mouth, Mouth : Green, 
+175, Mouth, Mouth : Purple, 
+176, Mouth, Mouth : Blue, 
+177, Mouth, Mouth : Neutral, Neutral
+178, Neck, Neck : Punk, Punk
+179, Neck, Neck : Chain, Chain
+180, Neck, Neck : Green Collar, Green Collar
+181, Neck, Neck : Purple Collar, Purple Collar
+182, Neck, Neck : Orange Collar, Orange Collar
+183, Neck, Neck : Pink Collar, Pink Collar
+184, Neck, Neck : Blue Collar, Blue Collar
+185, Neck, Neck : None, 
+186, Body, Body : Ape Girl, Ape Girl
+187, Body, Body : Clown Guy, Clown Guy
+188, Body, Body : Clown Girl, Clown Girl
+189, Body, Body : Ape Guy, Ape Guy
+190, Body, Body : Pink Alien Girl, Pink Alien Girl
+191, Body, Body : Olive Girl, Olive Girl
+192, Body, Body : Bronze Guy, Bronze Guy
+193, Body, Body : Pink Alien Guy, Pink Alien Guy
+194, Body, Body : Bronze Girl, Bronze Girl
+195, Body, Body : Almond Girl, Almond Girl
+196, Body, Body : Green Alien Guy, Green Alien Guy
+197, Body, Body : Blue Alien Guy, Blue Alien Guy
+198, Body, Body : Almond Guy, Almond Guy
+199, Body, Body : Pale Guy, Pale Guy
+200, Body, Body : Green Alien Girl, Green Alien Girl
+201, Body, Body : Purple Alien Guy, Purple Alien Guy
+202, Body, Body : Olive Guy, Olive Guy
+203, Body, Body : Blue Alien Girl, Blue Alien Girl
+204, Body, Body : Beige Guy, Beige Guy
+205, Body, Body : Purple Alien Girl, Purple Alien Girl
+206, Body, Body : Beige Girl, Beige Girl
+207, Body, Body : Pale Girl, Pale Girl
+208, Jacket, Jacket : Cloak, Cloak
+209, Jacket, Jacket : Yellow, 
+210, Jacket, Jacket : White, 
+211, Jacket, Jacket : Brown, 
+212, Jacket, Jacket : Purple, 
+213, Jacket, Jacket : Grey, 
+214, Jacket, Jacket : Blue, 
+215, Jacket, Jacket : Pink, 
+216, Jacket, Jacket : Orange, 
+217, Jacket, Jacket : Green, 
+218, Jacket, Jacket : None, 
+219, Background, Background : Cityscape, Cityscape
+220, Background, Background : Gold, Solid Gold
+221, Background, Background : Green, Solid Green
+222, Background, Background : Purple, Solid Purple
+223, Background, Background : Orange, Solid Orange
+224, Background, Background : Blue, Solid Blue
+225, Background, Background : Pink, Solid Pink

@@ -67,41 +67,52 @@ recs.each_with_index do |rec,i|
 
   path = "#{basedir}/cache/#{n}_#{m}.png"
 
-  if type != 'image/png'
-    puts "!! WARN - non-png image; make sure there's a png conversion"
-    pp rec
-  end
+  category = layer_names[ n ]
+
+  category_slug = slugify( category )
+  name_slug     = slugify( name )
+
+  outpath = "#{basedir}/attributes/#{n}_#{category_slug}/#{m}_#{name_slug}.png"
 
 
-  img = Image.read( path )
 
-  if [img.width,img.height] != [width,height]
-    if img.width  > width &&  img.height > height
-      ## try to downscale
-      puts "==>  #{path} - try to downscale from #{img.width}x#{img.height} to #{width}x#{height}...."
-      steps_x = Image.calc_sample_steps( img.width, width )
-      steps_y = Image.calc_sample_steps( img.height, height )
-      img = img.pixelate( steps_x, steps_y )
-    else
-      puts "!! ERROR - expected image in #{width}x#{height}px; got #{img.width}x#{img.height}"
+  ## note: for now only save if exits not already
+  if !File.exist?( outpath )
+
+    if type != 'image/png'
+      puts "!! WARN - non-png image; make sure there's a png conversion"
       pp rec
-      exit 1
     end
-  end
 
-   category = layer_names[ n ]
+    img = Image.read( path )
 
-   category_slug = slugify( category )
-   name_slug     = slugify( name )
+    if [img.width,img.height] != [width,height]
+      if img.width  > width &&  img.height > height
+        ## try to downscale
+        puts "==>  #{path} - try to downscale from #{img.width}x#{img.height} to #{width}x#{height}...."
+        steps_x = Image.calc_sample_steps( img.width, width )
+        steps_y = Image.calc_sample_steps( img.height, height )
+        img = img.pixelate( steps_x, steps_y )
+      else
+        puts "!! ERROR - expected image in #{width}x#{height}px; got #{img.width}x#{img.height}"
+        pp rec
+        exit 1
+      end
+    end
 
-   outpath = "#{basedir}/attributes/#{n}_#{category_slug}/#{m}_#{name_slug}.png"
-   puts "saving #{outpath}..."
-   img.save( outpath )
+    puts "saving #{outpath}..."
+    img.save( outpath )
+   end
+
+   ##
+   # note:   for name now use always catetory+name (!!)
+   #             to assure unique name and only
+   #              use name only as an alternate (more) name
 
    meta << ["#{n}_#{category_slug}/#{m}_#{name_slug}.png",
             category,
-            name,
-            ''
+            "#{category} : #{name}",
+            name
            ]
 end
 
