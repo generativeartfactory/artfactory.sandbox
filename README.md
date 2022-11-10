@@ -126,9 +126,9 @@ Voila!
 
 4x:
 
-![](i/chichis@4x.png)
-![](i/chichis@4x.png)
-![](i/chichis@4x.png)
+![](i/chichis0@4x.png)
+![](i/chichis1@4x.png)
+![](i/chichis2@4x.png)
 
 
 
