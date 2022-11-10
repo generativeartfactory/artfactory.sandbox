@@ -1,111 +1,121 @@
 id, category, name, more_names
-0, 1/1, Aku-Punku, 
-1, 1/1, Devil Punk Ape, 
-2, 1/1, OnEdgeKevin, 
-3, 1/1, Goated Demon, 
-4, 1/1, Masked Hoodie, 
-5, 1/1, Baphomet, 
-6, 1/1, LaVey Punk, 
-7, 1/1, Demingo, 
-8, 1/1, Dark Acolyte of the Northern Wastes, 
-9, 1/1, Marina Abramovic, 
-10, 1/1, Slender Punk, 
-11, 1/1, Illuminati Bill, 
-12, 1/1, The Eyes, 
-13, 1/1, The Apprentice, 
-14, 1/1, Jason Punk, 
-15, 1/1, Medusa Punk, 
-16, 1/1, The Darkest Punk, 
-17, 1/1, Keksune, 
-18, 1/1, Anatomy Of An Icon, 
-19, Eyes, Hollow, 
-20, Eyes, Tentacle Eye, 
-21, Eyes, Laser Eyes, 
-22, Eyes, White Glasses, 
-23, Eyes, Big Glasses, 
-24, Eyes, Holy Eyes, 
-25, Eyes, Cyclops, 
-26, Eyes, Dark Shades, 
-27, Eyes, Cracked Glasses, 
-28, Eyes, 3 D Glasses, 
-29, Eyes, Skull Mask, 
-30, Eyes, Open Sockets, 
-31, Eyes, Eye Mask, 
-32, Eyes, Flame Eyes, 
-33, Eyes, Clown Eyes, 
-34, Eyes, Earring, 
-35, Eyes, Monk, 
-36, Eyes, Lizard Eyes, 
-37, Eyes, Eyes, 
-38, Hat, Dark Hoodie, 
-39, Hat, Small Skull, 
-40, Hat, Wizard Hat, 
-41, Hat, Dark Pyramid, 
-42, Hat, Welding Goggles, 
-43, Hat, Soulfire Candles, 
-44, Hat, Edge Wizard Hat, 
-45, Hat, Beanie, 
-46, Hat, Red Spiked Hair, 
-47, Hat, Red Hair, 
-48, Hat, Red Bandana, 
-49, Hat, Brain, 
-50, Hat, Dark Cowboy, 
-51, Hat, Cap, 
-52, Hat, Crescent Moon, 
-53, Hat, Dark Hair, 
-54, Hat, Vampire Hair, 
-55, Hat, Scales, 
-56, Hat, Scar, 
-57, Hat, Pyramid, 
-58, Hat, Big Horns, 
-59, Hat, Mohawk, 
-60, Hat, Small Horns, 
-61, Hat, Bat, 
-62, Hat, Messy Hair, 
-63, Mouth, Tentacle Mouth, 
-64, Mouth, Fire Breath, 
-65, Mouth, Pipe, 
-66, Mouth, Toxic Puke, 
-67, Mouth, Bloody Mouth, 
-68, Mouth, Cigar, 
-69, Mouth, Shadow Beard, 
-70, Mouth, Cracked Teeth, 
-71, Mouth, Small Fangs, 
-72, Mouth, Leather Mask, 
-73, Mouth, Dark Beard, 
-74, Mouth, Brown Beard, 
-75, Mouth, Brown Chinstrap, 
-76, Mouth, Teeth, 
-77, Mouth, Monster Mouth, 
-78, Mouth, Smile, 
-79, Mouth, Regular, 
-80, Clothes, Poison, 
-81, Clothes, Crystal Ball, 
-82, Clothes, Enhancement Book, 
-83, Clothes, Tentacle, 
-84, Clothes, Trimmed Robe, 
-85, Clothes, Bloody, 
-86, Clothes, Dark Fire, 
-87, Clothes, Angel Wings, 
-88, Clothes, Dark Suit, 
-89, Clothes, Purple Robes, 
-90, Clothes, Dark Wings, 
-91, Clothes, Fire Robes, 
-92, Clothes, Moss Robes, 
-93, Clothes, Dark Robe, 
-94, Body, Alien, 
-95, Body, Ape, 
-96, Body, Red Dragon, 
-97, Body, Green Lizard, 
-98, Body, Cave Lizard, 
-99, Body, Brown Lizard, 
-100, Body, Dark Green Lizard, 
-101, Body, Purple Dragon, 
-102, Body, Dark Dragon, 
-103, Body, Whited Body, 
-104, Body, Purple Body, 
-105, Body, Orange Dragon, 
-106, Body, Grey Body, 
-107, Background, Red, 
-108, Background, Purple, 
-109, Background, Pink, 
+0, 1/1, 1/1 : Aku-Punku, Aku-Punku
+1, 1/1, 1/1 : Devil Punk Ape, Devil Punk Ape
+2, 1/1, 1/1 : OnEdgeKevin, OnEdgeKevin
+3, 1/1, 1/1 : Goated Demon, Goated Demon
+4, 1/1, 1/1 : Masked Hoodie, Masked Hoodie
+5, 1/1, 1/1 : Baphomet, Baphomet
+6, 1/1, 1/1 : LaVey Punk, LaVey Punk
+7, 1/1, 1/1 : Demingo, Demingo
+8, 1/1, 1/1 : Dark Acolyte of the Northern Wastes, Dark Acolyte of the Northern Wastes
+9, 1/1, 1/1 : Marina Abramovic, Marina Abramovic
+10, 1/1, 1/1 : Slender Punk, Slender Punk
+11, 1/1, 1/1 : Illuminati Bill, Illuminati Bill
+12, 1/1, 1/1 : The Eyes, The Eyes
+13, 1/1, 1/1 : The Apprentice, The Apprentice
+14, 1/1, 1/1 : Jason Punk, Jason Punk
+15, 1/1, 1/1 : Medusa Punk, Medusa Punk
+16, 1/1, 1/1 : The Darkest Punk, The Darkest Punk
+17, 1/1, 1/1 : Keksune, Keksune
+18, 1/1, 1/1 : Anatomy Of An Icon, Anatomy Of An Icon
+19, 1/1, 1/1 : None, 
+20, Eyes, Eyes : 1/1 Blank, 
+21, Eyes, Eyes : Hollow, Hollow
+22, Eyes, Eyes : Tentacle Eye, Tentacle Eye
+23, Eyes, Eyes : Laser Eyes, Laser Eyes
+24, Eyes, Eyes : White Glasses, White Glasses
+25, Eyes, Eyes : Big Glasses, Big Glasses
+26, Eyes, Eyes : Holy Eyes, Holy Eyes
+27, Eyes, Eyes : Cyclops, Cyclops
+28, Eyes, Eyes : Dark Shades, Dark Shades
+29, Eyes, Eyes : Cracked Glasses, Cracked Glasses
+30, Eyes, Eyes : 3 D Glasses, 3 D Glasses
+31, Eyes, Eyes : Skull Mask, Skull Mask
+32, Eyes, Eyes : Open Sockets, Open Sockets
+33, Eyes, Eyes : Eye Mask, Eye Mask
+34, Eyes, Eyes : Dark Shades (2), Dark Shades (2)
+35, Eyes, Eyes : Flame Eyes, Flame Eyes
+36, Eyes, Eyes : Clown Eyes, Clown Eyes
+37, Eyes, Eyes : Earring, Earring
+38, Eyes, Eyes : Monk, Monk
+39, Eyes, Eyes : Lizard Eyes, Lizard Eyes
+40, Eyes, Eyes : Eyes, Eyes
+41, Hat, Hat : 1/1 Blank, 
+42, Hat, Hat : Dark Hoodie, Dark Hoodie
+43, Hat, Hat : Small Skull, Small Skull
+44, Hat, Hat : Wizard Hat, Wizard Hat
+45, Hat, Hat : Dark Pyramid, Dark Pyramid
+46, Hat, Hat : Welding Goggles, Welding Goggles
+47, Hat, Hat : Soulfire Candles, Soulfire Candles
+48, Hat, Hat : Edge Wizard Hat, Edge Wizard Hat
+49, Hat, Hat : Beanie, Beanie
+50, Hat, Hat : Red Spiked Hair, Red Spiked Hair
+51, Hat, Hat : Red Hair, Red Hair
+52, Hat, Hat : Red Bandana, Red Bandana
+53, Hat, Hat : Brain, Brain
+54, Hat, Hat : Dark Cowboy, Dark Cowboy
+55, Hat, Hat : Cap, Cap
+56, Hat, Hat : Crescent Moon, Crescent Moon
+57, Hat, Hat : Dark Hair, Dark Hair
+58, Hat, Hat : None, 
+59, Hat, Hat : Vampire Hair, Vampire Hair
+60, Hat, Hat : Scales, Scales
+61, Hat, Hat : Scar, Scar
+62, Hat, Hat : Pyramid, Pyramid
+63, Hat, Hat : Big Horns, Big Horns
+64, Hat, Hat : Mohawk, Mohawk
+65, Hat, Hat : Small Horns, Small Horns
+66, Hat, Hat : Bat, Bat
+67, Hat, Hat : Messy Hair, Messy Hair
+68, Mouth, Mouth : 1/1 Blank, 
+69, Mouth, Mouth : Tentacle Mouth, Tentacle Mouth
+70, Mouth, Mouth : Fire Breath, Fire Breath
+71, Mouth, Mouth : Pipe, Pipe
+72, Mouth, Mouth : Toxic Puke, Toxic Puke
+73, Mouth, Mouth : Bloody Mouth, Bloody Mouth
+74, Mouth, Mouth : Cigar, Cigar
+75, Mouth, Mouth : Shadow Beard, Shadow Beard
+76, Mouth, Mouth : Cracked Teeth, Cracked Teeth
+77, Mouth, Mouth : Small Fangs, Small Fangs
+78, Mouth, Mouth : Leather Mask, Leather Mask
+79, Mouth, Mouth : Dark Beard, Dark Beard
+80, Mouth, Mouth : Brown Beard, Brown Beard
+81, Mouth, Mouth : Brown Chinstrap, Brown Chinstrap
+82, Mouth, Mouth : Teeth, Teeth
+83, Mouth, Mouth : Monster Mouth, Monster Mouth
+84, Mouth, Mouth : Smile, Smile
+85, Mouth, Mouth : Regular, Regular
+86, Clothes, Clothes : 1/1 Blank, 
+87, Clothes, Clothes : Poison, Poison
+88, Clothes, Clothes : Crystal Ball, Crystal Ball
+89, Clothes, Clothes : Enhancement Book, Enhancement Book
+90, Clothes, Clothes : Tentacle, Tentacle
+91, Clothes, Clothes : Trimmed Robe, Trimmed Robe
+92, Clothes, Clothes : Bloody, Bloody
+93, Clothes, Clothes : Dark Fire, Dark Fire
+94, Clothes, Clothes : Angel Wings, Angel Wings
+95, Clothes, Clothes : Dark Suit, Dark Suit
+96, Clothes, Clothes : Purple Robes, Purple Robes
+97, Clothes, Clothes : Dark Wings, Dark Wings
+98, Clothes, Clothes : Fire Robes, Fire Robes
+99, Clothes, Clothes : Moss Robes, Moss Robes
+100, Clothes, Clothes : Dark Robe, Dark Robe
+101, Clothes, Clothes : None, 
+102, Body, Body : 1/1 Blank, 
+103, Body, Body : Alien, Alien
+104, Body, Body : Ape, Ape
+105, Body, Body : Red Dragon, Red Dragon
+106, Body, Body : Green Lizard, Green Lizard
+107, Body, Body : Cave Lizard, Cave Lizard
+108, Body, Body : Brown Lizard, Brown Lizard
+109, Body, Body : Dark Green Lizard, Dark Green Lizard
+110, Body, Body : Purple Dragon, Purple Dragon
+111, Body, Body : Dark Dragon, Dark Dragon
+112, Body, Body : Whited Body, Whited Body
+113, Body, Body : Purple Body, Purple Body
+114, Body, Body : Orange Dragon, Orange Dragon
+115, Body, Body : Grey Body, Grey Body
+116, Background, Background : 1/1 Blank, 
+117, Background, Background : Red, Red
+118, Background, Background : Purple, Purple
+119, Background, Background : Pink, Pink

@@ -5,7 +5,7 @@ Yes, you can!  (Re)use the "off-blockchain" (pixel) artwork
 spritesheets to generate any combination using text-to-image prompts.
 
 
-Example - Using the [**Art Factory machinery »**](https://github.com/learnpixelart/pixelart/tree/master/artfactory)
+Example - Let's try the Aliens vs Punks using the [**Art Factory machinery »**](https://github.com/learnpixelart/pixelart/tree/master/artfactory)
 
 ``` ruby
 require 'artfactory'
@@ -14,8 +14,8 @@ require 'artfactory'
 #    pass-in the spritesheet image & (meta) dataset and
 #    the format (e.g. 24x24px)
 
-aliensvsspunks = Artfactory.read( './aliensvspunks/spritesheet-24x24.png',
-                                  './aliensvspunks/spritesheet-24x24.csv',
+aliensvsspunks = Artfactory.read( 'aliensvspunks/spritesheet-24x24.png',
+                                  'aliensvspunks/spritesheet-24x24.csv',
                                   width: 24,
                                   height: 24)
 
@@ -24,21 +24,21 @@ aliensvsspunks = Artfactory.read( './aliensvspunks/spritesheet-24x24.png',
 
 specs = [
   ## no.37
-  ["Solid Pink", "Jacket : Grey", "Blue Alien Girl", "Red Kerchief",
-   "Blue Buzz Cut", "Brown", "Pink Tiara"],
+  ['Solid Pink', 'Jacket : Grey', 'Blue Alien Girl', 'Red Kerchief',
+   'Blue Buzz Cut', 'Brown', 'Pink Tiara'],
   ## no.28
-  ["Solid Blue", "Olive Guy", "Orange Collar", "Face Mask",
-   "Yellow Ponytail", "Green", "Long Green"],
+  ['Solid Blue', 'Olive Guy', 'Orange Collar', 'Face Mask',
+   'Yellow Ponytail', 'Green', 'Long Green'],
   ## no.21
-  ["Solid Green", "Jacket : White", "Purple Alien Girl", "Pink Collar", "Neutral",
-   "Pink Bob", "Sunset Shades"],
+  ['Solid Green', 'Jacket : White', 'Purple Alien Girl', 'Pink Collar', 'Neutral',
+   'Pink Bob', 'Sunset Shades'],
 ]
 
 
 specs.each_with_index do |attributes, i|
    img = aliensvsspunks.generate( *attributes )
-   img.save( "./tmp/aliensvspunks#{i}.png" )
-   img.zoom(4).save( "./tmp/aliensvspunks#{i}@4x.png" )
+   img.save( "aliensvspunks#{i}.png" )
+   img.zoom(4).save( "aliensvspunks#{i}@4x.png" )
 end
 ```
 
@@ -55,22 +55,59 @@ Voila!
 ![](i/aliensvspunks2@4x.png)
 
 
+Let's try the Edge Punks:
+
+``` ruby
+edgepunks = Artfactory.read( 'edgepunks/spritesheet-24x24.png',
+                             'edgepunks/spritesheet-24x24.csv',
+                             width: 24,
+                             height: 24)
+
+specs = [
+# no.282
+  ['Pink', 'Dark Green Lizard', 'Dark Robe', 'Monster Mouth', 'Bat', 'Laser Eyes'],
+# no.468
+  ['Pink', 'Purple Body', 'Dark Suit', 'Smile', 'Dark Hair', 'Dark Shades'],
+# no.678 (1/1)
+  ['Anatomy Of An Icon'],
+]
+
+
+specs.each_with_index do |attributes, i|
+   img = edgepunks.generate( *attributes )
+   img.save( "edgepunks#{i}.png" )
+   img.zoom(4).save( "edgepunks#{i}@4x.png" )
+end
+```
+
+Voila!
+
+![](i/edgepunks0.png)
+![](i/edgepunks1.png)
+![](i/edgepunks2.png)
+
+4x:
+
+![](i/edgepunks0@4x.png)
+![](i/edgepunks1@4x.png)
+![](i/edgepunks2@4x.png)
 
 
 
-## Spritesheet (Attributes) - What's News?
 
 
-Example - Aliens vs Punks (in 24x24px)  - 226 Attributes (incl. Nones) in 10 Categories  ([aliensvspunks/spritesheet-24x24.csv](aliensvspunks/spritesheet-24x24.csv))
 
+## Spritesheets  - What's News?
+
+
+Example - Aliens vs Punks (in 24x24px)  - [226 Attributes (incl. Nones) in 10 Categories](aliensvspunks/spritesheet-24x24.csv)
 
 ![](aliensvspunks/spritesheet-24x24.png)
 
 
 
 
-Example - Edge Punks (in 24x24px) - ([edgepunks/spritesheet-24x24.csv](edgepunks/spritesheet-24x24.csv))
-
+Example - Edge Punks (in 24x24px) - [120 Attributes (incl. Nones/Blanks) in 6 Categories](edgepunks/spritesheet-24x24.csv)
 
 ![](edgepunks/spritesheet-24x24.png)
 

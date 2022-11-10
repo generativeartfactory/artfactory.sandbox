@@ -28,8 +28,8 @@ end
 
 
 
-basedir = './aliensvspunks'
-# basedir = './edgepunks'
+# basedir = './aliensvspunks'
+basedir = './edgepunks'
 
 
 
