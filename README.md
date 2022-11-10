@@ -93,7 +93,42 @@ Voila!
 ![](i/edgepunks2@4x.png)
 
 
+Let's try the Chi Chis:
 
+``` ruby
+chichis = Artfactory.read( 'chichis/spritesheet-32x32.png',
+                           'chichis/spritesheet-32x32.csv',
+                             width: 32,
+                             height: 32)
+
+specs = [
+  ## no.15
+  ['Wave', 'Magenta', 'Jersey',  'Lightning Bolt Earrings',
+    'Cbd Cig', 'Aviators', 'Beanie'],
+  ## no.8
+  ['Palms', 'Silver', 'Suit', 'Simple Day', 'Smile', 'Xx', 'Rainbow'],
+  ## 1/1
+  ['Chichi Phunk'],
+]
+
+specs.each_with_index do |attributes, i|
+   img = chichis.generate( *attributes )
+   img.save( "chichis#{i}.png" )
+   img.zoom(4).save( "chichis#{i}@4x.png" )
+end
+```
+
+Voila!
+
+![](i/chichis0.png)
+![](i/chichis1.png)
+![](i/chichis2.png)
+
+4x:
+
+![](i/chichis@4x.png)
+![](i/chichis@4x.png)
+![](i/chichis@4x.png)
 
 
 
@@ -109,7 +144,7 @@ Voila!
 
 ### Chi Chis (in 32×32px)
 
-[94 Attributes (incl. Nones/Blanks) in 7 Categories (incl. 1/1s)](chichis/spritesheet-32x32.csv):
+[94 Attributes (incl. Blanks) in 7 Categories (incl. 1/1s)](chichis/spritesheet-32x32.csv):
 
 ![](chichis/spritesheet-32x32.png)
 

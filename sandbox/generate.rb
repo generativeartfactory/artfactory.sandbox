@@ -1,6 +1,29 @@
 require 'artfactory'
 
 
+chichis = Artfactory.read( './chichis/spritesheet-32x32.png',
+                           './chichis/spritesheet-32x32.csv',
+                             width: 32,
+                             height: 32)
+
+specs = [
+  ## no.15
+  ['Wave', 'Magenta', 'Jersey',  'Lightning Bolt Earrings',
+    'Cbd Cig', 'Aviators', 'Beanie'],
+  ## no.8
+  ['Palms', 'Silver', 'Suit', 'Simple Day', 'Smile', 'Xx', 'Rainbow'],
+  ['Chichi Phunk'],
+]
+
+specs.each_with_index do |attributes, i|
+   img = chichis.generate( *attributes )
+   img.save( "./tmp/chichis#{i}.png" )
+   img.zoom(4).save( "./tmp/chichis#{i}@4x.png" )
+end
+
+
+__END__
+
 # step 1 - setup the art factory;
 #    pass-in the spritesheet image & (meta) dataset and
 #    the format (e.g. 24x24px)
