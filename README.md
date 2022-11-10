@@ -97,7 +97,7 @@ Voila!
 
 
 
-## Spritesheets  - What's News?
+## "Right-Click & Save This" Spritesheets  - What's News?
 
 
 Example - Aliens vs Punks (in 24x24px)  - [226 Attributes (incl. Nones) in 10 Categories](aliensvspunks/spritesheet-24x24.csv)
