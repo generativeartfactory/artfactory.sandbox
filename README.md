@@ -100,11 +100,18 @@ Voila!
 ## "Right-Click & Save This" Spritesheets  - What's News?
 
 
-### Aliens vs Punks (in 24×24px) 
+### Aliens vs Punks (in 24×24px)
 
 [226 Attributes (incl. Nones) in 10 Categories](aliensvspunks/spritesheet-24x24.csv):
 
 ![](aliensvspunks/spritesheet-24x24.png)
+
+
+### Chi Chis (in 32×32px)
+
+[94 Attributes (incl. Nones/Blanks) in 7 Categories (incl. 1/1s)](chichis/spritesheet-32x32.csv):
+
+![](chichis/spritesheet-32x32.png)
 
 
 ### Edge Punks (in 24×24px)

@@ -6,18 +6,19 @@ slug:  chichis
 ###############
 #  https://opensea.io/collection/aloha-chi-chi-onchain
 opensea: aloha-chi-chi-onchain
+format:  32x32
 
 token:
   contract: "0x2204a94f96d39df3b6bc0298cf068c8c82dc8d61"
   layers:   ## "on-chain" layers
     names:
-     - headwear & 1/1s
-     - eyes
-     - mouth
-     - accessories
-     - wearables
-     - fur
-     - background
+     - Headwear & 1/1s
+     - Eyes
+     - Mouth
+     - Accessories
+     - Wearables
+     - Fur
+     - Background
     tiers:
     - [1,1,1,1,1,1,10,17,18,28,34,38,46,54,63,63,65,69,76,81,82,89,91,113,132,133,192]
     - [0,13,18,43,62,85,88,110,111,121,189,193,231,236]
