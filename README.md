@@ -100,16 +100,19 @@ Voila!
 ## "Right-Click & Save This" Spritesheets  - What's News?
 
 
-Example - Aliens vs Punks (in 24x24px)  - [226 Attributes (incl. Nones) in 10 Categories](aliensvspunks/spritesheet-24x24.csv)
+### Aliens vs Punks (in 24x24px) 
+
+[226 Attributes (incl. Nones) in 10 Categories](aliensvspunks/spritesheet-24x24.csv):
 
 ![](aliensvspunks/spritesheet-24x24.png)
 
 
+### Edge Punks (in 24x24px)
 
-
-Example - Edge Punks (in 24x24px) - [120 Attributes (incl. Nones/Blanks) in 5 Categories (plus 1/1s)](edgepunks/spritesheet-24x24.csv)
+[120 Attributes (incl. Nones/Blanks) in 5 Categories (plus 1/1s)](edgepunks/spritesheet-24x24.csv):
 
 ![](edgepunks/spritesheet-24x24.png)
+
 
 
 
