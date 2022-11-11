@@ -1,0 +1,135 @@
+path, category, name, more_names
+0_star_player/0_aj_brown.png, Star Player, Star Player : A.J Brown, A.J Brown
+0_star_player/1_matthew_stafford.png, Star Player, Star Player : Matthew Stafford, Matthew Stafford
+0_star_player/2_garrett_wilson.png, Star Player, Star Player : Garrett Wilson, Garrett Wilson
+0_star_player/3_amon-ra_st_brown.png, Star Player, Star Player : Amon-Ra St. Brown, Amon-Ra St. Brown
+0_star_player/4_baker_mayfield.png, Star Player, Star Player : Baker Mayfield, Baker Mayfield
+0_star_player/5_diontae_johnson.png, Star Player, Star Player : Diontae Johnson, Diontae Johnson
+0_star_player/6_mac_jones.png, Star Player, Star Player : Mac Jones, Mac Jones
+0_star_player/7_justin_fields.png, Star Player, Star Player : Justin Fields, Justin Fields
+0_star_player/8_amari_cooper.png, Star Player, Star Player : Amari Cooper, Amari Cooper
+0_star_player/9_lamar_jackson.png, Star Player, Star Player : Lamar Jackson, Lamar Jackson
+0_star_player/10_ryan_tannehill.png, Star Player, Star Player : Ryan Tannehill, Ryan Tannehill
+0_star_player/11_deebo_samuel.png, Star Player, Star Player : Deebo Samuel, Deebo Samuel
+0_star_player/12_trevor_lawrence.png, Star Player, Star Player : Trevor Lawrence, Trevor Lawrence
+0_star_player/13_cooper_kupp.png, Star Player, Star Player : Cooper Kupp, Cooper Kupp
+0_star_player/14_tyreek_hill.png, Star Player, Star Player : Tyreek Hill, Tyreek Hill
+0_star_player/15_joe_burrow_alternate.png, Star Player, Star Player : Joe Burrow Alternate, Joe Burrow Alternate
+0_star_player/16_stefon_diggs.png, Star Player, Star Player : Stefon Diggs, Stefon Diggs
+0_star_player/17_justin_herbert.png, Star Player, Star Player : Justin Herbert, Justin Herbert
+0_star_player/18_damien_pierce.png, Star Player, Star Player : Damien Pierce, Damien Pierce
+0_star_player/19_aaron_rodgers.png, Star Player, Star Player : Aaron Rodgers, Aaron Rodgers
+0_star_player/20_michael_pittman_jr.png, Star Player, Star Player : Michael Pittman Jr., Michael Pittman Jr.
+0_star_player/21_carson_wentz.png, Star Player, Star Player : Carson Wentz, Carson Wentz
+0_star_player/22_dk_metcalf.png, Star Player, Star Player : DK Metcalf, DK Metcalf
+0_star_player/23_kyler_murray.png, Star Player, Star Player : Kyler Murray, Kyler Murray
+0_star_player/24_joe_burrow.png, Star Player, Star Player : Joe Burrow, Joe Burrow
+0_star_player/25_jamarr_chase.png, Star Player, Star Player : Ja'Marr Chase, Ja'Marr Chase
+0_star_player/26_patrick_mahomes.png, Star Player, Star Player : Patrick Mahomes, Patrick Mahomes
+0_star_player/27_dalvin_cook.png, Star Player, Star Player : Dalvin Cook, Dalvin Cook
+0_star_player/28_mike_evans.png, Star Player, Star Player : Mike Evans, Mike Evans
+0_star_player/29_tua_tagovailoa.png, Star Player, Star Player : Tua Tagovailoa, Tua Tagovailoa
+0_star_player/30_daniel_jones.png, Star Player, Star Player : Daniel Jones, Daniel Jones
+0_star_player/31_dak_prescott.png, Star Player, Star Player : Dak Prescott, Dak Prescott
+0_star_player/32_drake_london.png, Star Player, Star Player : Drake London, Drake London
+0_star_player/33_jalen_hurts.png, Star Player, Star Player : Jalen Hurts, Jalen Hurts
+0_star_player/34_josh_allen.png, Star Player, Star Player : Josh Allen, Josh Allen
+0_star_player/35_justin_jefferson.png, Star Player, Star Player : Justin Jefferson, Justin Jefferson
+0_star_player/36_tom_brady.png, Star Player, Star Player : Tom Brady, Tom Brady
+0_star_player/37_davante_adams.png, Star Player, Star Player : Davante Adams, Davante Adams
+0_star_player/38_michael_thomas.png, Star Player, Star Player : Michael Thomas, Michael Thomas
+0_star_player/39_russell_wilson.png, Star Player, Star Player : Russell Wilson, Russell Wilson
+0_star_player/40_terry_mclaurin.png, Star Player, Star Player : Terry McLaurin, Terry McLaurin
+0_star_player/41_no.png, Star Player, Star Player : No, No
+1_helmet_accessory/0_laser_eyes.png, Helmet Accessory, Helmet Accessory : Laser Eyes, Laser Eyes
+1_helmet_accessory/1_laser_eyes_blue.png, Helmet Accessory, Helmet Accessory : Laser Eyes Blue, Laser Eyes Blue
+1_helmet_accessory/2_red_visor.png, Helmet Accessory, Helmet Accessory : Red Visor, Red Visor
+1_helmet_accessory/3_black_visor.png, Helmet Accessory, Helmet Accessory : Black Visor, Black Visor
+1_helmet_accessory/4_blue_visor.png, Helmet Accessory, Helmet Accessory : Blue Visor, Blue Visor
+1_helmet_accessory/5_clear_visor.png, Helmet Accessory, Helmet Accessory : Clear Visor, Clear Visor
+1_helmet_accessory/6_none.png, Helmet Accessory, Helmet Accessory : None,
+2_facial_hair/0_full_beard_light.png, Facial Hair, Facial Hair : Full Beard Light, Full Beard Light
+2_facial_hair/1_full_beard_brown.png, Facial Hair, Facial Hair : Full Beard Brown, Full Beard Brown
+2_facial_hair/2_full_beard_black.png, Facial Hair, Facial Hair : Full Beard Black, Full Beard Black
+2_facial_hair/3_light_beard.png, Facial Hair, Facial Hair : Light Beard, Light Beard
+2_facial_hair/4_brown_beard.png, Facial Hair, Facial Hair : Brown Beard, Brown Beard
+2_facial_hair/5_black_beard.png, Facial Hair, Facial Hair : Black Beard, Black Beard
+2_facial_hair/6_none.png, Facial Hair, Facial Hair : None,
+2_facial_hair/7_shadow_beard.png, Facial Hair, Facial Hair : Shadow Beard, Shadow Beard
+3_jersey_number/0_71.png, Jersey Number, Jersey Number : 71, 71
+3_jersey_number/1_61.png, Jersey Number, Jersey Number : 61, 61
+3_jersey_number/2_8.png, Jersey Number, Jersey Number : 8, 8
+3_jersey_number/3_9.png, Jersey Number, Jersey Number : 9, 9
+3_jersey_number/4_14.png, Jersey Number, Jersey Number : 14, 14
+3_jersey_number/5_15.png, Jersey Number, Jersey Number : 15, 15
+3_jersey_number/6_17.png, Jersey Number, Jersey Number : 17, 17
+3_jersey_number/7_16.png, Jersey Number, Jersey Number : 16, 16
+3_jersey_number/8_12.png, Jersey Number, Jersey Number : 12, 12
+3_jersey_number/9_13.png, Jersey Number, Jersey Number : 13, 13
+3_jersey_number/10_11.png, Jersey Number, Jersey Number : 11, 11
+3_jersey_number/11_10.png, Jersey Number, Jersey Number : 10, 10
+3_jersey_number/12_21.png, Jersey Number, Jersey Number : 21, 21
+3_jersey_number/13_18.png, Jersey Number, Jersey Number : 18, 18
+3_jersey_number/14_31.png, Jersey Number, Jersey Number : 31, 31
+3_jersey_number/15_19.png, Jersey Number, Jersey Number : 19, 19
+3_jersey_number/16_81.png, Jersey Number, Jersey Number : 81, 81
+3_jersey_number/17_5.png, Jersey Number, Jersey Number : 5, 5
+3_jersey_number/18_41.png, Jersey Number, Jersey Number : 41, 41
+3_jersey_number/19_7.png, Jersey Number, Jersey Number : 7, 7
+3_jersey_number/20_6.png, Jersey Number, Jersey Number : 6, 6
+3_jersey_number/21_3.png, Jersey Number, Jersey Number : 3, 3
+3_jersey_number/22_51.png, Jersey Number, Jersey Number : 51, 51
+3_jersey_number/23_91.png, Jersey Number, Jersey Number : 91, 91
+3_jersey_number/24_2.png, Jersey Number, Jersey Number : 2, 2
+3_jersey_number/25_1.png, Jersey Number, Jersey Number : 1, 1
+3_jersey_number/26_0.png, Jersey Number, Jersey Number : 0, 0
+3_jersey_number/27_4.png, Jersey Number, Jersey Number : 4, 4
+4_team/0_baltimore.png, Team, Team : Baltimore, Baltimore
+4_team/1_oakland.png, Team, Team : Oakland, Oakland
+4_team/2_atlanta.png, Team, Team : Atlanta, Atlanta
+4_team/3_new_york_2.png, Team, Team : New York 2, New York 2
+4_team/4_dallas.png, Team, Team : Dallas, Dallas
+4_team/5_cleveland.png, Team, Team : Cleveland, Cleveland
+4_team/6_arizona.png, Team, Team : Arizona, Arizona
+4_team/7_green_bay.png, Team, Team : Green Bay, Green Bay
+4_team/8_san_francisco.png, Team, Team : San Francisco, San Francisco
+4_team/9_seattle.png, Team, Team : Seattle, Seattle
+4_team/10_washington.png, Team, Team : Washington, Washington
+4_team/11_new_england.png, Team, Team : New England, New England
+4_team/12_detroit.png, Team, Team : Detroit, Detroit
+4_team/13_chicago.png, Team, Team : Chicago, Chicago
+4_team/14_los_angeles_2.png, Team, Team : Los Angeles 2, Los Angeles 2
+4_team/15_indianapolis.png, Team, Team : Indianapolis, Indianapolis
+4_team/16_tampa_bay.png, Team, Team : Tampa Bay, Tampa Bay
+4_team/17_new_york.png, Team, Team : New York, New York
+4_team/18_new_orleans.png, Team, Team : New Orleans, New Orleans
+4_team/19_kansas_city.png, Team, Team : Kansas City, Kansas City
+4_team/20_philadelphia.png, Team, Team : Philadelphia, Philadelphia
+4_team/21_tennessee.png, Team, Team : Tennessee, Tennessee
+4_team/22_denver.png, Team, Team : Denver, Denver
+4_team/23_buffalo.png, Team, Team : Buffalo, Buffalo
+4_team/24_minnesota.png, Team, Team : Minnesota, Minnesota
+4_team/25_carolina.png, Team, Team : Carolina, Carolina
+4_team/26_cincinnati.png, Team, Team : Cincinnati, Cincinnati
+4_team/27_los_angeles.png, Team, Team : Los Angeles, Los Angeles
+4_team/28_jacksonville.png, Team, Team : Jacksonville, Jacksonville
+4_team/29_houston.png, Team, Team : Houston, Houston
+4_team/30_miami.png, Team, Team : Miami, Miami
+4_team/31_pittsburgh.png, Team, Team : Pittsburgh, Pittsburgh
+5_base/0_alien.png, Base, Base : Alien, Alien
+5_base/1_bot.png, Base, Base : Bot, Bot
+5_base/2_zombie.png, Base, Base : Zombie, Zombie
+5_base/3_gold.png, Base, Base : Gold, Gold
+5_base/4_base_1.png, Base, Base : Base 1, Base 1
+5_base/5_base_5.png, Base, Base : Base 5, Base 5
+5_base/6_base_2.png, Base, Base : Base 2, Base 2
+5_base/7_base_4.png, Base, Base : Base 4, Base 4
+5_base/8_base_3.png, Base, Base : Base 3, Base 3
+6_background/0_holographic.png, Background, Background : Holographic, Holographic
+6_background/1_sea_foam_green.png, Background, Background : Sea Foam Green, Sea Foam Green
+6_background/2_turf.png, Background, Background : Turf, Turf
+6_background/3_blue.png, Background, Background : Blue, Blue
+6_background/4_goal_line.png, Background, Background : Goal Line, Goal Line
+6_background/5_sideline.png, Background, Background : Sideline, Sideline
+6_background/6_turf_green.png, Background, Background : Turf Green, Turf Green
+6_background/7_blue_gray.png, Background, Background : Blue Gray, Blue Gray

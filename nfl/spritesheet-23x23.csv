@@ -1,0 +1,135 @@
+id, category, name, more_names
+0, Star Player, Star Player : A.J Brown, A.J Brown
+1, Star Player, Star Player : Matthew Stafford, Matthew Stafford
+2, Star Player, Star Player : Garrett Wilson, Garrett Wilson
+3, Star Player, Star Player : Amon-Ra St. Brown, Amon-Ra St. Brown
+4, Star Player, Star Player : Baker Mayfield, Baker Mayfield
+5, Star Player, Star Player : Diontae Johnson, Diontae Johnson
+6, Star Player, Star Player : Mac Jones, Mac Jones
+7, Star Player, Star Player : Justin Fields, Justin Fields
+8, Star Player, Star Player : Amari Cooper, Amari Cooper
+9, Star Player, Star Player : Lamar Jackson, Lamar Jackson
+10, Star Player, Star Player : Ryan Tannehill, Ryan Tannehill
+11, Star Player, Star Player : Deebo Samuel, Deebo Samuel
+12, Star Player, Star Player : Trevor Lawrence, Trevor Lawrence
+13, Star Player, Star Player : Cooper Kupp, Cooper Kupp
+14, Star Player, Star Player : Tyreek Hill, Tyreek Hill
+15, Star Player, Star Player : Joe Burrow Alternate, Joe Burrow Alternate
+16, Star Player, Star Player : Stefon Diggs, Stefon Diggs
+17, Star Player, Star Player : Justin Herbert, Justin Herbert
+18, Star Player, Star Player : Damien Pierce, Damien Pierce
+19, Star Player, Star Player : Aaron Rodgers, Aaron Rodgers
+20, Star Player, Star Player : Michael Pittman Jr., Michael Pittman Jr.
+21, Star Player, Star Player : Carson Wentz, Carson Wentz
+22, Star Player, Star Player : DK Metcalf, DK Metcalf
+23, Star Player, Star Player : Kyler Murray, Kyler Murray
+24, Star Player, Star Player : Joe Burrow, Joe Burrow
+25, Star Player, Star Player : Ja'Marr Chase, Ja'Marr Chase
+26, Star Player, Star Player : Patrick Mahomes, Patrick Mahomes
+27, Star Player, Star Player : Dalvin Cook, Dalvin Cook
+28, Star Player, Star Player : Mike Evans, Mike Evans
+29, Star Player, Star Player : Tua Tagovailoa, Tua Tagovailoa
+30, Star Player, Star Player : Daniel Jones, Daniel Jones
+31, Star Player, Star Player : Dak Prescott, Dak Prescott
+32, Star Player, Star Player : Drake London, Drake London
+33, Star Player, Star Player : Jalen Hurts, Jalen Hurts
+34, Star Player, Star Player : Josh Allen, Josh Allen
+35, Star Player, Star Player : Justin Jefferson, Justin Jefferson
+36, Star Player, Star Player : Tom Brady, Tom Brady
+37, Star Player, Star Player : Davante Adams, Davante Adams
+38, Star Player, Star Player : Michael Thomas, Michael Thomas
+39, Star Player, Star Player : Russell Wilson, Russell Wilson
+40, Star Player, Star Player : Terry McLaurin, Terry McLaurin
+41, Star Player, Star Player : No, No
+42, Helmet Accessory, Helmet Accessory : Laser Eyes, Laser Eyes
+43, Helmet Accessory, Helmet Accessory : Laser Eyes Blue, Laser Eyes Blue
+44, Helmet Accessory, Helmet Accessory : Red Visor, Red Visor
+45, Helmet Accessory, Helmet Accessory : Black Visor, Black Visor
+46, Helmet Accessory, Helmet Accessory : Blue Visor, Blue Visor
+47, Helmet Accessory, Helmet Accessory : Clear Visor, Clear Visor
+48, Helmet Accessory, Helmet Accessory : None, 
+49, Facial Hair, Facial Hair : Full Beard Light, Full Beard Light
+50, Facial Hair, Facial Hair : Full Beard Brown, Full Beard Brown
+51, Facial Hair, Facial Hair : Full Beard Black, Full Beard Black
+52, Facial Hair, Facial Hair : Light Beard, Light Beard
+53, Facial Hair, Facial Hair : Brown Beard, Brown Beard
+54, Facial Hair, Facial Hair : Black Beard, Black Beard
+55, Facial Hair, Facial Hair : None, 
+56, Facial Hair, Facial Hair : Shadow Beard, Shadow Beard
+57, Jersey Number, Jersey Number : 71, 71
+58, Jersey Number, Jersey Number : 61, 61
+59, Jersey Number, Jersey Number : 8, 8
+60, Jersey Number, Jersey Number : 9, 9
+61, Jersey Number, Jersey Number : 14, 14
+62, Jersey Number, Jersey Number : 15, 15
+63, Jersey Number, Jersey Number : 17, 17
+64, Jersey Number, Jersey Number : 16, 16
+65, Jersey Number, Jersey Number : 12, 12
+66, Jersey Number, Jersey Number : 13, 13
+67, Jersey Number, Jersey Number : 11, 11
+68, Jersey Number, Jersey Number : 10, 10
+69, Jersey Number, Jersey Number : 21, 21
+70, Jersey Number, Jersey Number : 18, 18
+71, Jersey Number, Jersey Number : 31, 31
+72, Jersey Number, Jersey Number : 19, 19
+73, Jersey Number, Jersey Number : 81, 81
+74, Jersey Number, Jersey Number : 5, 5
+75, Jersey Number, Jersey Number : 41, 41
+76, Jersey Number, Jersey Number : 7, 7
+77, Jersey Number, Jersey Number : 6, 6
+78, Jersey Number, Jersey Number : 3, 3
+79, Jersey Number, Jersey Number : 51, 51
+80, Jersey Number, Jersey Number : 91, 91
+81, Jersey Number, Jersey Number : 2, 2
+82, Jersey Number, Jersey Number : 1, 1
+83, Jersey Number, Jersey Number : 0, 0
+84, Jersey Number, Jersey Number : 4, 4
+85, Team, Team : Baltimore, Baltimore
+86, Team, Team : Oakland, Oakland
+87, Team, Team : Atlanta, Atlanta
+88, Team, Team : New York 2, New York 2
+89, Team, Team : Dallas, Dallas
+90, Team, Team : Cleveland, Cleveland
+91, Team, Team : Arizona, Arizona
+92, Team, Team : Green Bay, Green Bay
+93, Team, Team : San Francisco, San Francisco
+94, Team, Team : Seattle, Seattle
+95, Team, Team : Washington, Washington
+96, Team, Team : New England, New England
+97, Team, Team : Detroit, Detroit
+98, Team, Team : Chicago, Chicago
+99, Team, Team : Los Angeles 2, Los Angeles 2
+100, Team, Team : Indianapolis, Indianapolis
+101, Team, Team : Tampa Bay, Tampa Bay
+102, Team, Team : New York, New York
+103, Team, Team : New Orleans, New Orleans
+104, Team, Team : Kansas City, Kansas City
+105, Team, Team : Philadelphia, Philadelphia
+106, Team, Team : Tennessee, Tennessee
+107, Team, Team : Denver, Denver
+108, Team, Team : Buffalo, Buffalo
+109, Team, Team : Minnesota, Minnesota
+110, Team, Team : Carolina, Carolina
+111, Team, Team : Cincinnati, Cincinnati
+112, Team, Team : Los Angeles, Los Angeles
+113, Team, Team : Jacksonville, Jacksonville
+114, Team, Team : Houston, Houston
+115, Team, Team : Miami, Miami
+116, Team, Team : Pittsburgh, Pittsburgh
+117, Base, Base : Alien, Alien
+118, Base, Base : Bot, Bot
+119, Base, Base : Zombie, Zombie
+120, Base, Base : Gold, Gold
+121, Base, Base : Base 1, Base 1
+122, Base, Base : Base 5, Base 5
+123, Base, Base : Base 2, Base 2
+124, Base, Base : Base 4, Base 4
+125, Base, Base : Base 3, Base 3
+126, Background, Background : Holographic, Holographic
+127, Background, Background : Sea Foam Green, Sea Foam Green
+128, Background, Background : Turf, Turf
+129, Background, Background : Blue, Blue
+130, Background, Background : Goal Line, Goal Line
+131, Background, Background : Sideline, Sideline
+132, Background, Background : Turf Green, Turf Green
+133, Background, Background : Blue Gray, Blue Gray

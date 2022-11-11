@@ -156,12 +156,17 @@ Voila!
 ![](chopper/spritesheet-24x24.png)
 
 
+
 ### Dank Punks (in 24×24px)
 
 [77 Attributes (incl. Nones) in 7 Categories (plus 1/1s)](dankpunks/spritesheet-24x24.csv):
 
 ![](dankpunks/spritesheet-24x24.png)
 
+Note:  Some attributes are animations in gifs
+in the "on-blockchain" version  - this "off-blockchain" remake uses
+the first animation frame in gifs
+to convert to a "static" attribute in the .png format.
 
 
 
@@ -199,6 +204,21 @@ Voila!
 
 ![](marcs/spritesheet-24x24.png)
 
+### NFL (in 23×23px)
+
+[136 Attributes (incl. Nones) in 6 Categories (plus 1/1s)](nfl/spritesheet-23x23.csv):
+
+![](nfl/spritesheet-23x23.png)
+
+
+### Nomads (in 24×24px)
+
+[65 Attributes (incl. Nones) in 5 Categories (plus 1/1s)](nomads/spritesheet-24x24.csv):
+
+![](nomads/spritesheet-24x24.png)
+
+Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
+ "downsampled" loss-free to 24×24px  - that's a "classic faux-pixel art" bug.
 
 
 

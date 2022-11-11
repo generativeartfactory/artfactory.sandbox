@@ -20,7 +20,9 @@ end
 # basedir = './fuks'
 # basedir = './inversepunks'
 # basedir = './madcamels'
-basedir = './marcs'
+# basedir = './marcs'
+# basedir = './nfl'
+basedir = './nomads'
 
 
 config = read_yaml( "#{basedir}/collection.yml" )

@@ -1,5 +1,8 @@
 
 slug: nomads
+format: 24x24
+## note: fix - some background are in 32x32 (not really possible to downscale!!!)
+
 
 
 ####
