@@ -1,0 +1,78 @@
+path, category, name, more_names
+0_honorary/0_sceleton.png, Honorary, Honorary : Sceleton, Sceleton
+0_honorary/1_marcs_sceleton.png, Honorary, Honorary : Marcs Sceleton, Marcs Sceleton
+0_honorary/2_ock_sceleton_laser.png, Honorary, Honorary : OCK Sceleton Laser, OCK Sceleton Laser
+0_honorary/3_golden_phunk.png, Honorary, Honorary : Golden Phunk, Golden Phunk
+0_honorary/4_golden_marcs_sceleton.png, Honorary, Honorary : Golden Marcs Sceleton, Golden Marcs Sceleton
+0_honorary/5_golden_phunk_cowboy.png, Honorary, Honorary : Golden Phunk Cowboy, Golden Phunk Cowboy
+0_honorary/6_none.png, Honorary, Honorary : None,
+1_accessories/0_earpiece.png, Accessories, Accessories : Earpiece, Earpiece
+1_accessories/1_pipe_animated.png, Accessories, Accessories : Pipe Animated, Pipe Animated
+1_accessories/2_cigarette.png, Accessories, Accessories : Cigarette, Cigarette
+1_accessories/3_clown_nose.png, Accessories, Accessories : Clown Nose, Clown Nose (2)
+1_accessories/4_vape_animated.png, Accessories, Accessories : Vape Animated, Vape Animated
+1_accessories/5_jay_z.png, Accessories, Accessories : Jay Z, Jay Z
+1_accessories/6_earring.png, Accessories, Accessories : Earring, Earring
+1_accessories/7_black_scarf.png, Accessories, Accessories : Black Scarf, Black Scarf
+1_accessories/8_black_chain.png, Accessories, Accessories : Black Chain, Black Chain
+1_accessories/9_none.png, Accessories, Accessories : None,
+2_mouth/0_disco_beard.png, Mouth, Mouth : Disco Beard, Disco Beard
+2_mouth/1_joker.png, Mouth, Mouth : Joker, Joker
+2_mouth/2_shout.png, Mouth, Mouth : Shout, Shout
+2_mouth/3_talk.png, Mouth, Mouth : Talk, Talk
+2_mouth/4_low_beard.png, Mouth, Mouth : Low Beard, Low Beard
+2_mouth/5_dark_beard.png, Mouth, Mouth : Dark Beard, Dark Beard
+2_mouth/6_buck_teeth.png, Mouth, Mouth : Buck Teeth, Buck Teeth
+2_mouth/7_mustache.png, Mouth, Mouth : Mustache, Mustache
+2_mouth/8_black_beard.png, Mouth, Mouth : Black Beard, Black Beard
+2_mouth/9_handlebar.png, Mouth, Mouth : Handlebar, Handlebar
+2_mouth/10_smirk.png, Mouth, Mouth : Smirk, Smirk
+2_mouth/11_none.png, Mouth, Mouth : None,
+2_mouth/12_sad.png, Mouth, Mouth : Sad, Sad
+2_mouth/13_red.png, Mouth, Mouth : Red, Red
+2_mouth/14_ok.png, Mouth, Mouth : Ok, Ok
+3_eyes/0_vr.png, Eyes, Eyes : VR, VR
+3_eyes/1_eyemask_red_eyes.png, Eyes, Eyes : Eyemask Red Eyes, Eyemask Red Eyes
+3_eyes/2_3_d_glasses.png, Eyes, Eyes : 3 D Glasses, 3 D Glasses
+3_eyes/3_big_shades.png, Eyes, Eyes : Big Shades, Big Shades
+3_eyes/4_golden_glasses.png, Eyes, Eyes : Golden Glasses, Golden Glasses
+3_eyes/5_green_glasses.png, Eyes, Eyes : Green Glasses, Green Glasses
+3_eyes/6_pirate.png, Eyes, Eyes : Pirate, Pirate
+3_eyes/7_matrix_shades.png, Eyes, Eyes : Matrix Shades, Matrix Shades
+3_eyes/8_dark_clown.png, Eyes, Eyes : Dark Clown, Dark Clown
+3_eyes/9_green_clown.png, Eyes, Eyes : Green Clown, Green Clown
+3_eyes/10_none.png, Eyes, Eyes : None,
+4_hats_and_hair/0_hoodie.png, Hats and Hair, Hats and Hair : Hoodie, Hoodie
+4_hats_and_hair/1_black_top_hat.png, Hats and Hair, Hats and Hair : Black Top Hat, Black Top Hat
+4_hats_and_hair/2_black_cowboy.png, Hats and Hair, Hats and Hair : Black Cowboy, Black Cowboy
+4_hats_and_hair/3_bandana.png, Hats and Hair, Hats and Hair : Bandana, Bandana
+4_hats_and_hair/4_beanie_animated.png, Hats and Hair, Hats and Hair : Beanie Animated, Beanie Animated
+4_hats_and_hair/5_fancy_headband.png, Hats and Hair, Hats and Hair : Fancy Headband, Fancy Headband
+4_hats_and_hair/6_pink_bandana.png, Hats and Hair, Hats and Hair : Pink Bandana, Pink Bandana
+4_hats_and_hair/7_black_wicked.png, Hats and Hair, Hats and Hair : Black Wicked, Black Wicked
+4_hats_and_hair/8_red_punk.png, Hats and Hair, Hats and Hair : Red Punk, Red Punk
+4_hats_and_hair/9_punk_black.png, Hats and Hair, Hats and Hair : Punk Black, Punk Black
+4_hats_and_hair/10_black_fedora.png, Hats and Hair, Hats and Hair : Black Fedora, Black Fedora
+4_hats_and_hair/11_black_mohawk.png, Hats and Hair, Hats and Hair : Black Mohawk, Black Mohawk
+4_hats_and_hair/12_black_hair.png, Hats and Hair, Hats and Hair : Black Hair, Black Hair
+4_hats_and_hair/13_headband.png, Hats and Hair, Hats and Hair : Headband, Headband
+4_hats_and_hair/14_black_knitted_hat.png, Hats and Hair, Hats and Hair : Black Knitted Hat, Black Knitted Hat
+4_hats_and_hair/15_black_stringy.png, Hats and Hair, Hats and Hair : Black Stringy, Black Stringy
+4_hats_and_hair/16_clown_orange.png, Hats and Hair, Hats and Hair : Clown Orange, Clown Orange
+4_hats_and_hair/17_red_clown_hair.png, Hats and Hair, Hats and Hair : Red Clown Hair, Red Clown Hair
+4_hats_and_hair/18_none.png, Hats and Hair, Hats and Hair : None,
+5_nose/0_clown_nose.png, Nose, Nose : Clown Nose, Clown Nose
+5_nose/1_none.png, Nose, Nose : None,
+6_body/0_alien.png, Body, Body : Alien, Alien
+6_body/1_ape.png, Body, Body : Ape, Ape
+6_body/2_zombie.png, Body, Body : Zombie, Zombie
+6_body/3_undead.png, Body, Body : Undead, Undead
+6_body/4_skin.png, Body, Body : Skin, Skin
+6_body/5_tan.png, Body, Body : Tan, Tan
+6_body/6_pale.png, Body, Body : Pale, Pale
+7_background/0_zen_garden.png, Background, Background : Zen Garden, Zen Garden
+7_background/1_night_vibe.png, Background, Background : Night Vibe, Night Vibe
+7_background/2_contrast.png, Background, Background : Contrast, Contrast
+7_background/3_copacabana.png, Background, Background : Copacabana, Copacabana
+7_background/4_dystopia.png, Background, Background : Dystopia, Dystopia
+7_background/5_red_light_district.png, Background, Background : Red Light District, Red Light District

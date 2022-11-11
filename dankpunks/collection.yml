@@ -1,6 +1,6 @@
 
-slug:  dankpunks
-
+slug:    dankpunks
+format:  24x24
 
 
 ###
@@ -10,3 +10,23 @@ opensea: dank-punks-v2
 
 token:
   contract:  "0x5e8edf0ab7b3e13394846fe0fbb306aea47588e9"
+  layers:    ## "on-chain" layers
+    names:
+    - Honorary
+    - Accessories
+    - Mouth
+    - Eyes
+    - Hats and Hair
+    - Nose
+    - Body
+    - Background
+    tiers:
+    - [2,2,2,2,2,2,987]
+    - [36,39,52,78,88,91,93,97,190,235]
+    - [20,22,25,27,32,39,44,45,57,58,82,97,102,162,187]
+    - [22,30,43,47,58,65,96,97,142,184,215]
+    - [18,20,21,24,26,31,31,48,52,54,54,57,57,69,83,84,84,90,96]
+    - [308,691]
+    - [14,30,40,160,192,232,331]
+    - [100,108,125,200,217,249]
+

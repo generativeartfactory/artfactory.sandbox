@@ -149,11 +149,19 @@ Voila!
 ![](chichis/spritesheet-32x32.png)
 
 
-### Choppers (in 24×24px)
+### Chopper (in 24×24px)
 
-[62 Attributes in 6 Categories](choppers/spritesheet-24x24.csv):
+[62 Attributes in 6 Categories](chopper/spritesheet-24x24.csv):
 
-![](choppers/spritesheet-24x24.png)
+![](chopper/spritesheet-24x24.png)
+
+
+### Dank Punks (in 24×24px)
+
+[77 Attributes (incl. Nones) in 7 Categories (plus 1/1s)](dankpunks/spritesheet-24x24.csv):
+
+![](dankpunks/spritesheet-24x24.png)
+
 
 
 
