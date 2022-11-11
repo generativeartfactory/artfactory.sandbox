@@ -1,0 +1,100 @@
+path, category, name, more_names
+0_ear/0_silver_earring.png, Ear, Ear : Silver Earring, Silver Earring
+0_ear/1_gold_earring.png, Ear, Ear : Gold Earring, Gold Earring
+0_ear/2_no_earring.png, Ear, Ear : No Earring, No Earring
+1_neck/0_tiffany_blue_necklace.png, Neck, Neck : Tiffany Blue Necklace, Tiffany Blue Necklace
+1_neck/1_white_gold_chain.png, Neck, Neck : White Gold Chain, White Gold Chain
+1_neck/2_diamond_chain.png, Neck, Neck : Diamond Chain, Diamond Chain
+1_neck/3_silver_necklace.png, Neck, Neck : Silver Necklace, Silver Necklace
+1_neck/4_gold_and_diamond_necklace.png, Neck, Neck : Gold and Diamond Necklace, Gold and Diamond Necklace
+1_neck/5_pink_sapphire_chain.png, Neck, Neck : Pink Sapphire Chain, Pink Sapphire Chain
+1_neck/6_ivory_chain.png, Neck, Neck : Ivory Chain, Ivory Chain
+1_neck/7_silver_chain.png, Neck, Neck : Silver Chain, Silver Chain
+1_neck/8_pink_sapphire_necklace.png, Neck, Neck : Pink Sapphire Necklace, Pink Sapphire Necklace
+1_neck/9_emerald_chain.png, Neck, Neck : Emerald Chain, Emerald Chain
+1_neck/10_no_chain.png, Neck, Neck : No Chain, No Chain
+1_neck/11_gold_chain.png, Neck, Neck : Gold Chain, Gold Chain
+2_mouth/0_yellow_buckteeth.png, Mouth, Mouth : Yellow Buckteeth, Yellow Buckteeth
+2_mouth/1_yellow_medical_mask.png, Mouth, Mouth : Yellow Medical Mask, Yellow Medical Mask
+2_mouth/2_buckteeth.png, Mouth, Mouth : Buckteeth, Buckteeth
+2_mouth/3_pink_medical_mask.png, Mouth, Mouth : Pink Medical Mask, Pink Medical Mask
+2_mouth/4_blue_medical_mask.png, Mouth, Mouth : Blue Medical Mask, Blue Medical Mask
+2_mouth/5_black_medical_mask.png, Mouth, Mouth : Black Medical Mask, Black Medical Mask
+2_mouth/6_bubble_gum.png, Mouth, Mouth : Bubble Gum, Bubble Gum
+2_mouth/7_pipe.png, Mouth, Mouth : Pipe, Pipe
+2_mouth/8_white_medical_mask.png, Mouth, Mouth : White Medical Mask, White Medical Mask
+2_mouth/9_vape.png, Mouth, Mouth : Vape, Vape
+2_mouth/10_cigarette.png, Mouth, Mouth : Cigarette, Cigarette
+2_mouth/11_no_mouth_prop.png, Mouth, Mouth : No Mouth Prop, No Mouth Prop
+3_eyes/0_eyemask.png, Eyes, Eyes : Eyemask, Eyemask
+3_eyes/1_nerd_glasses.png, Eyes, Eyes : Nerd Glasses, Nerd Glasses
+3_eyes/2_3d_glasses.png, Eyes, Eyes : 3D Glasses, 3D Glasses
+3_eyes/3_big_shades.png, Eyes, Eyes : Big Shades, Big Shades
+3_eyes/4_clown_eyes_purple.png, Eyes, Eyes : Clown Eyes Purple, Clown Eyes Purple
+3_eyes/5_clown_eyes_green.png, Eyes, Eyes : Clown Eyes Green, Clown Eyes Green
+3_eyes/6_classic_shades_black.png, Eyes, Eyes : Classic Shades Black, Classic Shades Black
+3_eyes/7_clown_eyes_blue.png, Eyes, Eyes : Clown Eyes Blue, Clown Eyes Blue
+3_eyes/8_classic_shades.png, Eyes, Eyes : Classic Shades, Classic Shades
+3_eyes/9_eyepatch.png, Eyes, Eyes : Eyepatch, Eyepatch
+3_eyes/10_reflective_regular_shades.png, Eyes, Eyes : Reflective Regular Shades, Reflective Regular Shades
+3_eyes/11_vr.png, Eyes, Eyes : VR, VR
+3_eyes/12_horn-rimmed_glasses.png, Eyes, Eyes : Horn-rimmed Glasses, Horn-rimmed Glasses
+3_eyes/13_small_shades.png, Eyes, Eyes : Small Shades, Small Shades
+3_eyes/14_regular_shades.png, Eyes, Eyes : Regular Shades, Regular Shades
+3_eyes/15_eyes.png, Eyes, Eyes : Eyes, Eyes
+4_head/0_beanie.png, Head, Head : Beanie, Beanie
+4_head/1_crown.png, Head, Head : Crown, Crown
+4_head/2_hoodie.png, Head, Head : Hoodie, Hoodie
+4_head/3_fast_food_cowboy.png, Head, Head : Fast Food Cowboy, Fast Food Cowboy
+4_head/4_black_and_red_cap_flipped.png, Head, Head : Black and Red Cap Flipped, Black and Red Cap Flipped
+4_head/5_black_cap_flipped.png, Head, Head : Black Cap Flipped, Black Cap Flipped
+4_head/6_green_cap_flipped.png, Head, Head : Green Cap Flipped, Green Cap Flipped
+4_head/7_fast_food_cap_flipped.png, Head, Head : Fast Food Cap Flipped, Fast Food Cap Flipped
+4_head/8_pink_and_blue_cap_flipped.png, Head, Head : Pink and Blue Cap Flipped, Pink and Blue Cap Flipped
+4_head/9_blue_and_white_cap_flipped.png, Head, Head : Blue and White Cap Flipped, Blue and White Cap Flipped
+4_head/10_red_qitra.png, Head, Head : Red Qitra, Red Qitra
+4_head/11_blue_cap.png, Head, Head : Blue Cap, Blue Cap
+4_head/12_brown_qitra.png, Head, Head : Brown Qitra, Brown Qitra
+4_head/13_welding_goggles.png, Head, Head : Welding Goggles, Welding Goggles
+4_head/14_black_cap.png, Head, Head : Black Cap, Black Cap
+4_head/15_police_cap.png, Head, Head : Police Cap, Police Cap
+4_head/16_fedora.png, Head, Head : Fedora, Fedora
+4_head/17_white_qitra.png, Head, Head : White Qitra, White Qitra
+4_head/18_red_cap.png, Head, Head : Red Cap, Red Cap
+4_head/19_shaved_head.png, Head, Head : Shaved Head, Shaved Head
+4_head/20_red_and_white_cap_flipped.png, Head, Head : Red and White Cap Flipped, Red and White Cap Flipped
+4_head/21_purple_cap.png, Head, Head : Purple Cap, Purple Cap
+4_head/22_cowboy_hat.png, Head, Head : Cowboy Hat, Cowboy Hat
+4_head/23_do-rag.png, Head, Head : Do-rag, Do-rag
+4_head/24_top_hat.png, Head, Head : Top Hat, Top Hat
+4_head/25_blue_and_white_cap.png, Head, Head : Blue and White Cap, Blue and White Cap
+4_head/26_fast_food_cap.png, Head, Head : Fast Food Cap, Fast Food Cap
+4_head/27_bk_cap_flipped.png, Head, Head : BK Cap Flipped, BK Cap Flipped
+4_head/28_white_fast_food_cap_flipped.png, Head, Head : White Fast Food Cap Flipped, White Fast Food Cap Flipped
+4_head/29_bk_cap.png, Head, Head : BK Cap, BK Cap
+4_head/30_red_and_black_cap.png, Head, Head : Red and Black Cap, Red and Black Cap
+4_head/31_white_cap_flipped.png, Head, Head : White Cap Flipped, White Cap Flipped
+4_head/32_black_and_red_cap.png, Head, Head : Black and Red Cap, Black and Red Cap
+4_head/33_green_cap.png, Head, Head : Green Cap, Green Cap
+4_head/34_white_fast_food_cap.png, Head, Head : White Fast Food Cap, White Fast Food Cap
+4_head/35_white_cap.png, Head, Head : White Cap, White Cap
+4_head/36_head_band.png, Head, Head : Head Band, Head Band
+4_head/37_bandana.png, Head, Head : Bandana, Bandana
+4_head/38_cap_forward.png, Head, Head : Cap Forward, Cap Forward
+4_head/39_bald.png, Head, Head : Bald, Bald
+4_head/40_pink_and_blue_cap.png, Head, Head : Pink and Blue Cap, Pink and Blue Cap
+4_head/41_knitted_cap.png, Head, Head : Knitted Cap, Knitted Cap
+5_facial_features/0_pimples.png, Facial Features, Facial Features : Pimples, Pimples
+5_facial_features/1_tears.png, Facial Features, Facial Features : Tears, Tears
+5_facial_features/2_spots.png, Facial Features, Facial Features : Spots, Spots
+5_facial_features/3_rosy_cheeks.png, Facial Features, Facial Features : Rosy Cheeks, Rosy Cheeks
+5_facial_features/4_pimple.png, Facial Features, Facial Features : Pimple, Pimple
+5_facial_features/5_mole.png, Facial Features, Facial Features : Mole, Mole
+5_facial_features/6_clear.png, Facial Features, Facial Features : Clear, Clear
+6_type/0_human_iii.png, Type, Type : Human III, Human III
+6_type/1_human_ii.png, Type, Type : Human II, Human II
+6_type/2_human_i.png, Type, Type : Human I, Human I
+6_type/3_zombie.png, Type, Type : Zombie, Zombie
+6_type/4_ape.png, Type, Type : Ape, Ape
+6_type/5_alien.png, Type, Type : Alien, Alien
+7_background/0_inverted_v2.png, Background, Background : Inverted V2, Inverted V2

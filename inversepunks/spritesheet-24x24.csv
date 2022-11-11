@@ -1,0 +1,100 @@
+id, category, name, more_names
+0, Ear, Ear : Silver Earring, Silver Earring
+1, Ear, Ear : Gold Earring, Gold Earring
+2, Ear, Ear : No Earring, No Earring
+3, Neck, Neck : Tiffany Blue Necklace, Tiffany Blue Necklace
+4, Neck, Neck : White Gold Chain, White Gold Chain
+5, Neck, Neck : Diamond Chain, Diamond Chain
+6, Neck, Neck : Silver Necklace, Silver Necklace
+7, Neck, Neck : Gold and Diamond Necklace, Gold and Diamond Necklace
+8, Neck, Neck : Pink Sapphire Chain, Pink Sapphire Chain
+9, Neck, Neck : Ivory Chain, Ivory Chain
+10, Neck, Neck : Silver Chain, Silver Chain
+11, Neck, Neck : Pink Sapphire Necklace, Pink Sapphire Necklace
+12, Neck, Neck : Emerald Chain, Emerald Chain
+13, Neck, Neck : No Chain, No Chain
+14, Neck, Neck : Gold Chain, Gold Chain
+15, Mouth, Mouth : Yellow Buckteeth, Yellow Buckteeth
+16, Mouth, Mouth : Yellow Medical Mask, Yellow Medical Mask
+17, Mouth, Mouth : Buckteeth, Buckteeth
+18, Mouth, Mouth : Pink Medical Mask, Pink Medical Mask
+19, Mouth, Mouth : Blue Medical Mask, Blue Medical Mask
+20, Mouth, Mouth : Black Medical Mask, Black Medical Mask
+21, Mouth, Mouth : Bubble Gum, Bubble Gum
+22, Mouth, Mouth : Pipe, Pipe
+23, Mouth, Mouth : White Medical Mask, White Medical Mask
+24, Mouth, Mouth : Vape, Vape
+25, Mouth, Mouth : Cigarette, Cigarette
+26, Mouth, Mouth : No Mouth Prop, No Mouth Prop
+27, Eyes, Eyes : Eyemask, Eyemask
+28, Eyes, Eyes : Nerd Glasses, Nerd Glasses
+29, Eyes, Eyes : 3D Glasses, 3D Glasses
+30, Eyes, Eyes : Big Shades, Big Shades
+31, Eyes, Eyes : Clown Eyes Purple, Clown Eyes Purple
+32, Eyes, Eyes : Clown Eyes Green, Clown Eyes Green
+33, Eyes, Eyes : Classic Shades Black, Classic Shades Black
+34, Eyes, Eyes : Clown Eyes Blue, Clown Eyes Blue
+35, Eyes, Eyes : Classic Shades, Classic Shades
+36, Eyes, Eyes : Eyepatch, Eyepatch
+37, Eyes, Eyes : Reflective Regular Shades, Reflective Regular Shades
+38, Eyes, Eyes : VR, VR
+39, Eyes, Eyes : Horn-rimmed Glasses, Horn-rimmed Glasses
+40, Eyes, Eyes : Small Shades, Small Shades
+41, Eyes, Eyes : Regular Shades, Regular Shades
+42, Eyes, Eyes : Eyes, Eyes
+43, Head, Head : Beanie, Beanie
+44, Head, Head : Crown, Crown
+45, Head, Head : Hoodie, Hoodie
+46, Head, Head : Fast Food Cowboy, Fast Food Cowboy
+47, Head, Head : Black and Red Cap Flipped, Black and Red Cap Flipped
+48, Head, Head : Black Cap Flipped, Black Cap Flipped
+49, Head, Head : Green Cap Flipped, Green Cap Flipped
+50, Head, Head : Fast Food Cap Flipped, Fast Food Cap Flipped
+51, Head, Head : Pink and Blue Cap Flipped, Pink and Blue Cap Flipped
+52, Head, Head : Blue and White Cap Flipped, Blue and White Cap Flipped
+53, Head, Head : Red Qitra, Red Qitra
+54, Head, Head : Blue Cap, Blue Cap
+55, Head, Head : Brown Qitra, Brown Qitra
+56, Head, Head : Welding Goggles, Welding Goggles
+57, Head, Head : Black Cap, Black Cap
+58, Head, Head : Police Cap, Police Cap
+59, Head, Head : Fedora, Fedora
+60, Head, Head : White Qitra, White Qitra
+61, Head, Head : Red Cap, Red Cap
+62, Head, Head : Shaved Head, Shaved Head
+63, Head, Head : Red and White Cap Flipped, Red and White Cap Flipped
+64, Head, Head : Purple Cap, Purple Cap
+65, Head, Head : Cowboy Hat, Cowboy Hat
+66, Head, Head : Do-rag, Do-rag
+67, Head, Head : Top Hat, Top Hat
+68, Head, Head : Blue and White Cap, Blue and White Cap
+69, Head, Head : Fast Food Cap, Fast Food Cap
+70, Head, Head : BK Cap Flipped, BK Cap Flipped
+71, Head, Head : White Fast Food Cap Flipped, White Fast Food Cap Flipped
+72, Head, Head : BK Cap, BK Cap
+73, Head, Head : Red and Black Cap, Red and Black Cap
+74, Head, Head : White Cap Flipped, White Cap Flipped
+75, Head, Head : Black and Red Cap, Black and Red Cap
+76, Head, Head : Green Cap, Green Cap
+77, Head, Head : White Fast Food Cap, White Fast Food Cap
+78, Head, Head : White Cap, White Cap
+79, Head, Head : Head Band, Head Band
+80, Head, Head : Bandana, Bandana
+81, Head, Head : Cap Forward, Cap Forward
+82, Head, Head : Bald, Bald
+83, Head, Head : Pink and Blue Cap, Pink and Blue Cap
+84, Head, Head : Knitted Cap, Knitted Cap
+85, Facial Features, Facial Features : Pimples, Pimples
+86, Facial Features, Facial Features : Tears, Tears
+87, Facial Features, Facial Features : Spots, Spots
+88, Facial Features, Facial Features : Rosy Cheeks, Rosy Cheeks
+89, Facial Features, Facial Features : Pimple, Pimple
+90, Facial Features, Facial Features : Mole, Mole
+91, Facial Features, Facial Features : Clear, Clear
+92, Type, Type : Human III, Human III
+93, Type, Type : Human II, Human II
+94, Type, Type : Human I, Human I
+95, Type, Type : Zombie, Zombie
+96, Type, Type : Ape, Ape
+97, Type, Type : Alien, Alien
+98, Background, Background : Inverted V2, Inverted V2

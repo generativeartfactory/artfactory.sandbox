@@ -8,7 +8,10 @@ require_relative 'helper'
 # basedir = './chichis'
 # basedir = './chopper'
 # basedir = './dankpunks'
-basedir = './fuks'
+# basedir = './fuks'
+# basedir = './inversepunks'
+# basedir = './madcamels'
+basedir = './marcs'
 
 
 layers = Layers.new( basedir )

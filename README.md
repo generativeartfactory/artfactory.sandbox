@@ -179,6 +179,26 @@ Voila!
 ![](fuks/spritesheet-24x24.png)
 
 
+### Inverse Punks (in 24×24px)
+
+[99 Attributes in 8 Categories](inversepunks/spritesheet-24x24.csv):
+
+![](inversepunks/spritesheet-24x24.png)
+
+
+### Mad Camels (in 32×32px)
+
+[78 Attributes (incl. Nones) in 8 Categories](madcamels/spritesheet-32x32.csv):
+
+![](madcamels/spritesheet-32x32.png)
+
+
+### Marcs (in 24×24px)
+
+[171 Attributes (incl. Nones) in 11 Categories (plus 1/1s)](marcs/spritesheet-24x24.csv):
+
+![](marcs/spritesheet-24x24.png)
+
 
 
 
