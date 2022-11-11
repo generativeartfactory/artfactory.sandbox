@@ -1,0 +1,70 @@
+path, category, name, more_names
+0_neck/0_diamond_chain.png, Neck, Neck : Diamond Chain, Diamond Chain
+0_neck/1_gold_chain.png, Neck, Neck : Gold Chain, Gold Chain
+0_neck/2_silver_chain.png, Neck, Neck : Silver Chain, Silver Chain
+0_neck/3_no_chains.png, Neck, Neck : No Chains, No Chains
+1_ear/0_diamond_stud.png, Ear, Ear : Diamond Stud, Diamond Stud
+1_ear/1_gold_stud.png, Ear, Ear : Gold Stud, Gold Stud
+1_ear/2_silver_stud.png, Ear, Ear : Silver Stud, Silver Stud
+1_ear/3_no_earrings.png, Ear, Ear : No Earrings, No Earrings
+2_eyes/0_horn_rimmed_glasses.png, Eyes, Eyes : Horn Rimmed Glasses, Horn Rimmed Glasses
+2_eyes/1_nerd_glasses.png, Eyes, Eyes : Nerd Glasses, Nerd Glasses
+2_eyes/2_3_d_glasses.png, Eyes, Eyes : 3 D Glasses, 3 D Glasses
+2_eyes/3_eye_mask.png, Eyes, Eyes : Eye Mask, Eye Mask
+2_eyes/4_big_shades.png, Eyes, Eyes : Big Shades, Big Shades
+2_eyes/5_goggles.png, Eyes, Eyes : Goggles, Goggles
+2_eyes/6_blue_clown_eyes.png, Eyes, Eyes : Blue Clown Eyes, Blue Clown Eyes
+2_eyes/7_laser.png, Eyes, Eyes : Laser, Laser
+2_eyes/8_regular_shades.png, Eyes, Eyes : Regular Shades, Regular Shades
+2_eyes/9_eye_patch.png, Eyes, Eyes : Eye Patch, Eye Patch
+2_eyes/10_vr.png, Eyes, Eyes : VR, VR
+2_eyes/11_classic_shades.png, Eyes, Eyes : Classic Shades, Classic Shades
+2_eyes/12_green_clown_eyes.png, Eyes, Eyes : Green Clown Eyes, Green Clown Eyes
+2_eyes/13_eyes.png, Eyes, Eyes : Eyes, Eyes
+3_mouth/0_pipe.png, Mouth, Mouth : Pipe, Pipe
+3_mouth/1_vape.png, Mouth, Mouth : Vape, Vape
+3_mouth/2_cigar.png, Mouth, Mouth : Cigar, Cigar
+3_mouth/3_cigarette.png, Mouth, Mouth : Cigarette, Cigarette
+3_mouth/4_smile.png, Mouth, Mouth : Smile, Smile
+3_mouth/5_grin.png, Mouth, Mouth : Grin, Grin
+4_nose/0_clown_nose.png, Nose, Nose : Clown Nose, Clown Nose
+4_nose/1_nose.png, Nose, Nose : Nose, Nose
+5_head/0_beanie.png, Head, Head : Beanie, Beanie
+5_head/1_mohawk_dark.png, Head, Head : Mohawk Dark, Mohawk Dark
+5_head/2_police_cap.png, Head, Head : Police Cap, Police Cap
+5_head/3_cowboy_hat.png, Head, Head : Cowboy Hat, Cowboy Hat
+5_head/4_clown_top_hat.png, Head, Head : Clown Top Hat, Clown Top Hat
+5_head/5_helmet.png, Head, Head : Helmet, Helmet
+5_head/6_fast_food_cap.png, Head, Head : Fast Food Cap, Fast Food Cap
+5_head/7_knitted_cap.png, Head, Head : Knitted Cap, Knitted Cap
+5_head/8_stringy_hair.png, Head, Head : Stringy Hair, Stringy Hair
+5_head/9_crown.png, Head, Head : Crown, Crown
+5_head/10_cap.png, Head, Head : Cap, Cap
+5_head/11_mohawk_thin.png, Head, Head : Mohawk Thin, Mohawk Thin
+5_head/12_spiky_hair.png, Head, Head : Spiky Hair, Spiky Hair
+5_head/13_headband.png, Head, Head : Headband, Headband
+5_head/14_cap_forward.png, Head, Head : Cap Forward, Cap Forward
+5_head/15_fedora.png, Head, Head : Fedora, Fedora
+5_head/16_purple_hair.png, Head, Head : Purple Hair, Purple Hair
+5_head/17_clown_hair.png, Head, Head : Clown Hair, Clown Hair
+5_head/18_top_hat.png, Head, Head : Top Hat, Top Hat
+5_head/19_flame.png, Head, Head : Flame, Flame
+5_head/20_halo.png, Head, Head : Halo, Halo
+5_head/21_wild_hair.png, Head, Head : Wild Hair, Wild Hair
+5_head/22_hoodie.png, Head, Head : Hoodie, Hoodie
+5_head/23_crazy_hair.png, Head, Head : Crazy Hair, Crazy Hair
+5_head/24_messy_hair.png, Head, Head : Messy Hair, Messy Hair
+5_head/25_bandana.png, Head, Head : Bandana, Bandana
+5_head/26_bald_head.png, Head, Head : Bald Head, Bald Head
+6_beard/0_front_beard.png, Beard, Beard : Front Beard, Front Beard
+6_beard/1_chin_strap.png, Beard, Beard : Chin Strap, Chin Strap
+6_beard/2_beard.png, Beard, Beard : Beard, Beard
+6_beard/3_shaved.png, Beard, Beard : Shaved, Shaved
+7_type/0_iced_out_fuk.png, Type, Type : Iced Out Fuk, Iced Out Fuk
+7_type/1_1st_edition_fuk.png, Type, Type : 1st Edition Fuk, 1st Edition Fuk
+7_type/2_golden_fuk.png, Type, Type : Golden Fuk, Golden Fuk
+7_type/3_alien_fuk.png, Type, Type : Alien Fuk, Alien Fuk
+7_type/4_robot_fuk.png, Type, Type : Robot Fuk, Robot Fuk
+7_type/5_zombie_fuk.png, Type, Type : Zombie Fuk, Zombie Fuk
+7_type/6_undead_fuk.png, Type, Type : Undead Fuk, Undead Fuk
+7_type/7_human_fuk.png, Type, Type : Human Fuk, Human Fuk

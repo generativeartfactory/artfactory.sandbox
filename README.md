@@ -172,6 +172,12 @@ Voila!
 ![](edgepunks/spritesheet-24x24.png)
 
 
+### Fuks (in 24×24px)
+
+[69 Attributes in 8 Categories](fuks/spritesheet-24x24.csv):
+
+![](fuks/spritesheet-24x24.png)
+
 
 
 

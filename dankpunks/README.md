@@ -2,6 +2,10 @@
 
 ## Notes
 
+gif animations; note: some attributes are gif animations - converted to "flat" / "no-animation" png  using the first frame
+
+
+
 change "short" names of duplicate / non-unique attribute names:
 
 clown noses in accessories - add (2) marker
