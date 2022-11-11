@@ -1,5 +1,5 @@
 slug: chopper
-
+format: 24x24
 
 
 
@@ -11,4 +11,18 @@ opensea:  onchainchopper
 
 token:
   contract: "0x090c8034e6706994945049e0ede1bbdf21498e6e"
-
+  layers:   ## "on-chain" layers
+    names:
+    - Earring
+    - Glasses
+    - Mouth
+    - Hat
+    - Skin
+    - Background
+    tiers:
+    - [84,84,84,84,84]
+    - [4,8,19,29,35,51,65,68,69,72]
+    - [208,212]
+    - [2,3,3,3,4,4,4,5,5,8,11,11,11,12,14,15,17,20,24,24,35,37,37,55,56]
+    - [4,5,10,11,16,21,22,28,34,35,38,40,45,111]
+    - [70,70,70,70,70,70]

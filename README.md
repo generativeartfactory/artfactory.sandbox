@@ -149,6 +149,14 @@ Voila!
 ![](chichis/spritesheet-32x32.png)
 
 
+### Choppers (in 24×24px)
+
+[62 Attributes in 6 Categories](choppers/spritesheet-24x24.csv):
+
+![](choppers/spritesheet-24x24.png)
+
+
+
 ### Edge Punks (in 24×24px)
 
 [120 Attributes (incl. Nones/Blanks) in 5 Categories (plus 1/1s)](edgepunks/spritesheet-24x24.csv):

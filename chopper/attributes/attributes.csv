@@ -1,0 +1,63 @@
+path, category, name, more_names
+0_earring/0_banana.png, Earring, Earring : BANANA, BANANA
+0_earring/1_golden.png, Earring, Earring : GOLDEN, GOLDEN
+0_earring/2_diamond.png, Earring, Earring : DIAMOND, DIAMOND
+0_earring/3_gold_cross.png, Earring, Earring : GOLD CROSS, GOLD CROSS
+0_earring/4_diamond_cross.png, Earring, Earring : DIAMOND CROSS, DIAMOND CROSS
+1_glasses/0_vr_rainbow.png, Glasses, Glasses : VR RAINBOW, VR RAINBOW
+1_glasses/1_purple_eye_shadow.png, Glasses, Glasses : PURPLE EYE SHADOW, PURPLE EYE SHADOW
+1_glasses/2_clown_eyes_blue.png, Glasses, Glasses : CLOWN EYES BLUE, CLOWN EYES BLUE
+1_glasses/3_classic_shades.png, Glasses, Glasses : CLASSIC SHADES, CLASSIC SHADES
+1_glasses/4_nerd_glasses.png, Glasses, Glasses : NERD GLASSES, NERD GLASSES
+1_glasses/5_3d.png, Glasses, Glasses : 3D, 3D
+1_glasses/6_stunnas.png, Glasses, Glasses : STUNNAS, STUNNAS
+1_glasses/7_big_shades.png, Glasses, Glasses : BIG SHADES, BIG SHADES
+1_glasses/8_vr.png, Glasses, Glasses : VR, VR
+1_glasses/9_chopper.png, Glasses, Glasses : CHOPPER,
+2_mouth/0_smoker.png, Mouth, Mouth : SMOKER, SMOKER
+2_mouth/1_non-smoker.png, Mouth, Mouth : NON-SMOKER, NON-SMOKER
+3_hat/0_rainbow.png, Hat, Hat : RAINBOW,
+3_hat/1_hat_36.png, Hat, Hat : HAT 36, HAT 36
+3_hat/2_pilot.png, Hat, Hat : PILOT, PILOT
+3_hat/3_hoodie.png, Hat, Hat : HOODIE, HOODIE
+3_hat/4_hat_29.png, Hat, Hat : HAT 29, HAT 29
+3_hat/5_beanie.png, Hat, Hat : BEANIE, BEANIE
+3_hat/6_tassle.png, Hat, Hat : TASSLE, TASSLE
+3_hat/7_hat_12.png, Hat, Hat : HAT 12, HAT 12
+3_hat/8_knitted_cap.png, Hat, Hat : KNITTED CAP, KNITTED CAP
+3_hat/9_pink_cap.png, Hat, Hat : PINK CAP, PINK CAP
+3_hat/10_hat_20.png, Hat, Hat : HAT 20, HAT 20
+3_hat/11_hat_2.png, Hat, Hat : HAT 2, HAT 2
+3_hat/12_headband.png, Hat, Hat : HEADBAND, HEADBAND
+3_hat/13_hat_17.png, Hat, Hat : HAT 17, HAT 17
+3_hat/14_hat_1.png, Hat, Hat : HAT 1, HAT 1
+3_hat/15_wild_blonde.png, Hat, Hat : WILD BLONDE, WILD BLONDE
+3_hat/16_cap.png, Hat, Hat : CAP, CAP
+3_hat/17_hat_8.png, Hat, Hat : HAT 8, HAT 8
+3_hat/18_hat_22.png, Hat, Hat : HAT 22, HAT 22
+3_hat/19_wild_white.png, Hat, Hat : WILD WHITE, WILD WHITE
+3_hat/20_hat_30.png, Hat, Hat : HAT 30, HAT 30
+3_hat/21_hat_26.png, Hat, Hat : HAT 26, HAT 26
+3_hat/22_hat_16.png, Hat, Hat : HAT 16, HAT 16
+3_hat/23_hat_10.png, Hat, Hat : HAT 10, HAT 10
+3_hat/24_chopper.png, Hat, Hat : CHOPPER,
+4_skin/0_rainbow.png, Skin, Skin : RAINBOW, RAINBOW
+4_skin/1_ock.png, Skin, Skin : OCK, OCK
+4_skin/2_zombie.png, Skin, Skin : ZOMBIE, ZOMBIE
+4_skin/3_gold.png, Skin, Skin : GOLD, GOLD
+4_skin/4_ali3n.png, Skin, Skin : ALI3N, ALI3N
+4_skin/5_alien.png, Skin, Skin : ALIEN, ALIEN
+4_skin/6_atomic.png, Skin, Skin : ATOMIC, ATOMIC
+4_skin/7_zombi3.png, Skin, Skin : ZOMBI3, ZOMBI3
+4_skin/8_aqua.png, Skin, Skin : AQUA, AQUA
+4_skin/9_midnight.png, Skin, Skin : MIDNIGHT, MIDNIGHT
+4_skin/10_porcelain.png, Skin, Skin : PORCELAIN, PORCELAIN
+4_skin/11_coffee.png, Skin, Skin : COFFEE, COFFEE
+4_skin/12_ap3.png, Skin, Skin : AP3, AP3
+4_skin/13_chopp3r.png, Skin, Skin : CHOPP3R, CHOPP3R
+5_background/0_purple.png, Background, Background : PURPLE, SOLID PURPLE
+5_background/1_mint.png, Background, Background : MINT, SOLID MINT
+5_background/2_peach.png, Background, Background : PEACH, SOLID PEACH
+5_background/3_blue.png, Background, Background : BLUE, SOLID BLUE
+5_background/4_gold.png, Background, Background : GOLD, SOLID GOLD
+5_background/5_black.png, Background, Background : BLACK, SOLID BLACK
