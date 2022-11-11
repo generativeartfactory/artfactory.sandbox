@@ -221,6 +221,20 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
  "downsampled" loss-free to 24×24px  - that's a "classic faux-pixel art" bug.
 
 
+### Phunk Ape Origins (in 24×24px)
+
+[114 Attributes (incl. Nones) in 8 Categories](phunkapeorigins/spritesheet-24x24.csv):
+
+![](phunkapeorigins/spritesheet-24x24.png)
+
+
+### Proof of Pepe (in 48×48px)
+
+[227 Attributes (incl. Nones) in 10 Categories (plus 1/1s)](proofofpepe/spritesheet-48x48.csv):
+
+![](proofofpepe/spritesheet-48x48.png)
+
+
 
 
 ## Questions? Comments?

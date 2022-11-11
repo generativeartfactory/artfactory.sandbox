@@ -89,6 +89,9 @@ def build   ## rename to prepare - why? why not?
           steps_x = Image.calc_sample_steps( img.width, @width )
           steps_y = Image.calc_sample_steps( img.height, @height )
           img = img.pixelate( steps_x, steps_y )
+        elsif [img.width,img.height] == [1,1]
+          pixel = img[0,0]
+          img = Image.new( @width, @height, pixel )
         else
           puts "!! ERROR - expected image in #{@width}x#{@height}px; got #{img.width}x#{img.height}"
           pp rec

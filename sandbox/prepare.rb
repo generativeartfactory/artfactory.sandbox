@@ -13,7 +13,10 @@ require_relative 'helper'
 # basedir = './madcamels'
 # basedir = './marcs'
 # basedir = './nfl'
-basedir = './nomads'
+# basedir = './nomads'
+# basedir = './phunkapeorigins'
+basedir = './proofofpepe'
+
 
 
 layers = Layers.new( basedir )

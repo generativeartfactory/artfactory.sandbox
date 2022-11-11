@@ -1,0 +1,113 @@
+path, category, name, more_names
+0_mouth/0_cigar.png, Mouth, Mouth : Cigar, Cigar
+0_mouth/1_banana_wrapped_blunt.png, Mouth, Mouth : Banana Wrapped Blunt, Banana Wrapped Blunt
+0_mouth/2_pipe.png, Mouth, Mouth : Pipe, Pipe
+0_mouth/3_twig.png, Mouth, Mouth : Twig, Twig
+0_mouth/4_canines.png, Mouth, Mouth : Canines, Canines
+0_mouth/5_blunt.png, Mouth, Mouth : Blunt, Blunt
+0_mouth/6_tooth.png, Mouth, Mouth : Tooth, Tooth
+0_mouth/7_joint.png, Mouth, Mouth : Joint, Joint
+0_mouth/8_vape.png, Mouth, Mouth : Vape, Vape
+0_mouth/9_none.png, Mouth, Mouth : None,
+1_neck/0_diamond_chain.png, Neck, Neck : Diamond Chain, Diamond Chain
+1_neck/1_collar.png, Neck, Neck : Collar, Collar
+1_neck/2_white_lace.png, Neck, Neck : White Lace, White Lace
+1_neck/3_gash.png, Neck, Neck : Gash,
+1_neck/4_gold_chain.png, Neck, Neck : Gold Chain, Gold Chain
+1_neck/5_tooth_necklace.png, Neck, Neck : Tooth Necklace, Tooth Necklace
+1_neck/6_silver_chain.png, Neck, Neck : Silver Chain, Silver Chain
+1_neck/7_none.png, Neck, Neck : None,
+2_earring/0_diamond_dangle.png, Earring, Earring : Diamond Dangle, Diamond Dangle
+2_earring/1_diamond_stud.png, Earring, Earring : Diamond Stud, Diamond Stud
+2_earring/2_gold_dangle.png, Earring, Earring : Gold Dangle, Gold Dangle
+2_earring/3_gold_stud.png, Earring, Earring : Gold Stud, Gold Stud
+2_earring/4_silver_dangle.png, Earring, Earring : Silver Dangle, Silver Dangle
+2_earring/5_tooth_plug.png, Earring, Earring : Tooth Plug, Tooth Plug
+2_earring/6_silver_stud.png, Earring, Earring : Silver Stud, Silver Stud
+2_earring/7_none.png, Earring, Earring : None,
+3_eyes/0_green_nouns.png, Eyes, Eyes : Green Nouns, Green Nouns
+3_eyes/1_pink_nouns.png, Eyes, Eyes : Pink Nouns, Pink Nouns
+3_eyes/2_blue_nouns.png, Eyes, Eyes : Blue Nouns, Blue Nouns
+3_eyes/3_vr.png, Eyes, Eyes : VR, VR
+3_eyes/4_snow_visor.png, Eyes, Eyes : Snow Visor, Snow Visor
+3_eyes/5_3d.png, Eyes, Eyes : 3D, 3D
+3_eyes/6_blue_visor.png, Eyes, Eyes : Blue Visor, Blue Visor
+3_eyes/7_visor.png, Eyes, Eyes : Visor, Visor
+3_eyes/8_undead.png, Eyes, Eyes : Undead, Undead
+3_eyes/9_gold_aviator.png, Eyes, Eyes : Gold Aviator, Gold Aviator
+3_eyes/10_classic_shades.png, Eyes, Eyes : Classic Shades, Classic Shades
+3_eyes/11_big_shades.png, Eyes, Eyes : Big Shades, Big Shades
+3_eyes/12_matrix_shades.png, Eyes, Eyes : Matrix Shades, Matrix Shades
+3_eyes/13_blue_light_blockers.png, Eyes, Eyes : Blue Light Blockers, Blue Light Blockers
+3_eyes/14_silver_aviator.png, Eyes, Eyes : Silver Aviator, Silver Aviator
+3_eyes/15_small_shades.png, Eyes, Eyes : Small Shades, Small Shades
+3_eyes/16_red.png, Eyes, Eyes : Red, Red
+3_eyes/17_focused_red.png, Eyes, Eyes : Focused Red, Focused Red
+3_eyes/18_focused.png, Eyes, Eyes : Focused, Focused
+3_eyes/19_none.png, Eyes, Eyes : None,
+4_head/0_royal_crown.png, Head, Head : Royal Crown, Royal Crown
+4_head/1_gold_hoodie.png, Head, Head : Gold Hoodie, Gold Hoodie
+4_head/2_monkey_skull_band.png, Head, Head : Monkey Skull Band, Monkey Skull Band
+4_head/3_overgrown_mushroom.png, Head, Head : Overgrown Mushroom, Overgrown Mushroom
+4_head/4_og_monkey_hat.png, Head, Head : OG Monkey Hat, OG Monkey Hat
+4_head/5_beanie.png, Head, Head : Beanie, Beanie
+4_head/6_bone_head.png, Head, Head : Bone Head, Bone Head
+4_head/7_arrow.png, Head, Head : Arrow, Arrow
+4_head/8_green_bucket_hat.png, Head, Head : Green Bucket Hat, Green Bucket Hat
+4_head/9_purple_bucket_hat.png, Head, Head : Purple Bucket Hat, Purple Bucket Hat
+4_head/10_headband.png, Head, Head : Headband, Headband
+4_head/11_fedora.png, Head, Head : Fedora, Fedora
+4_head/12_top_hat.png, Head, Head : Top Hat, Top Hat
+4_head/13_sun_hat.png, Head, Head : Sun Hat, Sun Hat
+4_head/14_fast_food_hat.png, Head, Head : Fast Food Hat, Fast Food Hat
+4_head/15_official_monkey_hat.png, Head, Head : Official Monkey Hat, Official Monkey Hat
+4_head/16_apricot_knitted_cap.png, Head, Head : Apricot Knitted Cap, Apricot Knitted Cap
+4_head/17_peach_knitted_cap.png, Head, Head : Peach Knitted Cap, Peach Knitted Cap
+4_head/18_green_ballcap.png, Head, Head : Green Ballcap, Green Ballcap
+4_head/19_viking_helmet.png, Head, Head : Viking Helmet, Viking Helmet
+4_head/20_clean_hoodie.png, Head, Head : Clean Hoodie, Clean Hoodie
+4_head/21_og_hoodie.png, Head, Head : OG Hoodie, OG Hoodie
+4_head/22_mushroom.png, Head, Head : Mushroom, Mushroom
+4_head/23_red_ballcap.png, Head, Head : Red Ballcap, Red Ballcap
+4_head/24_dark_durag.png, Head, Head : Dark Durag, Dark Durag
+4_head/25_grey_cap.png, Head, Head : Grey Cap, Grey Cap
+4_head/26_wild_monkey_hair.png, Head, Head : Wild Monkey Hair, Wild Monkey Hair
+4_head/27_gash.png, Head, Head : Gash,
+4_head/28_brains.png, Head, Head : Brains, Brains
+4_head/29_dark_cowboy_hat.png, Head, Head : Dark Cowboy Hat, Dark Cowboy Hat
+4_head/30_light_durag.png, Head, Head : Light Durag, Light Durag
+4_head/31_light_cowboy_hat.png, Head, Head : Light Cowboy Hat, Light Cowboy Hat
+4_head/32_bandana.png, Head, Head : Bandana, Bandana
+4_head/33_grey_trucker_hat.png, Head, Head : Grey Trucker Hat, Grey Trucker Hat
+4_head/34_clean_trucker_hat.png, Head, Head : Clean Trucker Hat, Clean Trucker Hat
+4_head/35_crazy_monkey_hair.png, Head, Head : Crazy Monkey Hair, Crazy Monkey Hair
+4_head/36_wise_monkey_hair.png, Head, Head : Wise Monkey Hair, Wise Monkey Hair
+4_head/37_stray_hair.png, Head, Head : Stray Hair, Stray Hair
+4_head/38_coat_shine.png, Head, Head : Coat Shine, Coat Shine
+4_head/39_none.png, Head, Head : None,
+5_ape/0_alien.png, Ape, Ape : Alien, Alien
+5_ape/1_yeti.png, Ape, Ape : Yeti, Yeti
+5_ape/2_rainbow.png, Ape, Ape : Rainbow, Rainbow
+5_ape/3_zombie.png, Ape, Ape : Zombie, Zombie
+5_ape/4_gold.png, Ape, Ape : Gold, Gold
+5_ape/5_bonobo.png, Ape, Ape : Bonobo, Bonobo
+5_ape/6_silver_back.png, Ape, Ape : Silver Back, Silver Back
+5_ape/7_orangutan.png, Ape, Ape : Orangutan, Orangutan
+5_ape/8_gibbon.png, Ape, Ape : Gibbon, Gibbon
+5_ape/9_baboon.png, Ape, Ape : Baboon, Baboon
+5_ape/10_chimpanzee_2.png, Ape, Ape : Chimpanzee 2, Chimpanzee 2
+5_ape/11_chimpanzee_1.png, Ape, Ape : Chimpanzee 1, Chimpanzee 1
+5_ape/12_chimpanzee_3.png, Ape, Ape : Chimpanzee 3, Chimpanzee 3
+6_background/0_blue_2.png, Background, Background : Blue 2, Blue 2
+6_background/1_blue_1.png, Background, Background : Blue 1, Blue 1
+6_background/2_blue_3.png, Background, Background : Blue 3, Blue 3
+6_background/3_blue_4.png, Background, Background : Blue 4, Blue 4
+6_background/4_blue_5.png, Background, Background : Blue 5, Blue 5
+7_future_origin/0_unknown.png, Future Origin, Future Origin : Unknown, Unknown
+7_future_origin/1_sahelanthropus_tchadensis.png, Future Origin, Future Origin : Sahelanthropus Tchadensis, Sahelanthropus Tchadensis
+7_future_origin/2_orrorin_tugenensis.png, Future Origin, Future Origin : Orrorin Tugenensis, Orrorin Tugenensis
+7_future_origin/3_ardipithecus_kadabba.png, Future Origin, Future Origin : Ardipithecus Kadabba, Ardipithecus Kadabba
+7_future_origin/4_ardipithecus_ramidus.png, Future Origin, Future Origin : Ardipithecus Ramidus, Ardipithecus Ramidus
+7_future_origin/5_australopithecus_africanus.png, Future Origin, Future Origin : Australopithecus Africanus, Australopithecus Africanus
+7_future_origin/6_paranthropus.png, Future Origin, Future Origin : Paranthropus, Paranthropus
+7_future_origin/7_australopithecus_sediba.png, Future Origin, Future Origin : Australopithecus Sediba, Australopithecus Sediba

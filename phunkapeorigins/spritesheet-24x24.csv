@@ -1,0 +1,113 @@
+id, category, name, more_names
+0, Mouth, Mouth : Cigar, Cigar
+1, Mouth, Mouth : Banana Wrapped Blunt, Banana Wrapped Blunt
+2, Mouth, Mouth : Pipe, Pipe
+3, Mouth, Mouth : Twig, Twig
+4, Mouth, Mouth : Canines, Canines
+5, Mouth, Mouth : Blunt, Blunt
+6, Mouth, Mouth : Tooth, Tooth
+7, Mouth, Mouth : Joint, Joint
+8, Mouth, Mouth : Vape, Vape
+9, Mouth, Mouth : None, 
+10, Neck, Neck : Diamond Chain, Diamond Chain
+11, Neck, Neck : Collar, Collar
+12, Neck, Neck : White Lace, White Lace
+13, Neck, Neck : Gash, 
+14, Neck, Neck : Gold Chain, Gold Chain
+15, Neck, Neck : Tooth Necklace, Tooth Necklace
+16, Neck, Neck : Silver Chain, Silver Chain
+17, Neck, Neck : None, 
+18, Earring, Earring : Diamond Dangle, Diamond Dangle
+19, Earring, Earring : Diamond Stud, Diamond Stud
+20, Earring, Earring : Gold Dangle, Gold Dangle
+21, Earring, Earring : Gold Stud, Gold Stud
+22, Earring, Earring : Silver Dangle, Silver Dangle
+23, Earring, Earring : Tooth Plug, Tooth Plug
+24, Earring, Earring : Silver Stud, Silver Stud
+25, Earring, Earring : None, 
+26, Eyes, Eyes : Green Nouns, Green Nouns
+27, Eyes, Eyes : Pink Nouns, Pink Nouns
+28, Eyes, Eyes : Blue Nouns, Blue Nouns
+29, Eyes, Eyes : VR, VR
+30, Eyes, Eyes : Snow Visor, Snow Visor
+31, Eyes, Eyes : 3D, 3D
+32, Eyes, Eyes : Blue Visor, Blue Visor
+33, Eyes, Eyes : Visor, Visor
+34, Eyes, Eyes : Undead, Undead
+35, Eyes, Eyes : Gold Aviator, Gold Aviator
+36, Eyes, Eyes : Classic Shades, Classic Shades
+37, Eyes, Eyes : Big Shades, Big Shades
+38, Eyes, Eyes : Matrix Shades, Matrix Shades
+39, Eyes, Eyes : Blue Light Blockers, Blue Light Blockers
+40, Eyes, Eyes : Silver Aviator, Silver Aviator
+41, Eyes, Eyes : Small Shades, Small Shades
+42, Eyes, Eyes : Red, Red
+43, Eyes, Eyes : Focused Red, Focused Red
+44, Eyes, Eyes : Focused, Focused
+45, Eyes, Eyes : None, 
+46, Head, Head : Royal Crown, Royal Crown
+47, Head, Head : Gold Hoodie, Gold Hoodie
+48, Head, Head : Monkey Skull Band, Monkey Skull Band
+49, Head, Head : Overgrown Mushroom, Overgrown Mushroom
+50, Head, Head : OG Monkey Hat, OG Monkey Hat
+51, Head, Head : Beanie, Beanie
+52, Head, Head : Bone Head, Bone Head
+53, Head, Head : Arrow, Arrow
+54, Head, Head : Green Bucket Hat, Green Bucket Hat
+55, Head, Head : Purple Bucket Hat, Purple Bucket Hat
+56, Head, Head : Headband, Headband
+57, Head, Head : Fedora, Fedora
+58, Head, Head : Top Hat, Top Hat
+59, Head, Head : Sun Hat, Sun Hat
+60, Head, Head : Fast Food Hat, Fast Food Hat
+61, Head, Head : Official Monkey Hat, Official Monkey Hat
+62, Head, Head : Apricot Knitted Cap, Apricot Knitted Cap
+63, Head, Head : Peach Knitted Cap, Peach Knitted Cap
+64, Head, Head : Green Ballcap, Green Ballcap
+65, Head, Head : Viking Helmet, Viking Helmet
+66, Head, Head : Clean Hoodie, Clean Hoodie
+67, Head, Head : OG Hoodie, OG Hoodie
+68, Head, Head : Mushroom, Mushroom
+69, Head, Head : Red Ballcap, Red Ballcap
+70, Head, Head : Dark Durag, Dark Durag
+71, Head, Head : Grey Cap, Grey Cap
+72, Head, Head : Wild Monkey Hair, Wild Monkey Hair
+73, Head, Head : Gash, 
+74, Head, Head : Brains, Brains
+75, Head, Head : Dark Cowboy Hat, Dark Cowboy Hat
+76, Head, Head : Light Durag, Light Durag
+77, Head, Head : Light Cowboy Hat, Light Cowboy Hat
+78, Head, Head : Bandana, Bandana
+79, Head, Head : Grey Trucker Hat, Grey Trucker Hat
+80, Head, Head : Clean Trucker Hat, Clean Trucker Hat
+81, Head, Head : Crazy Monkey Hair, Crazy Monkey Hair
+82, Head, Head : Wise Monkey Hair, Wise Monkey Hair
+83, Head, Head : Stray Hair, Stray Hair
+84, Head, Head : Coat Shine, Coat Shine
+85, Head, Head : None, 
+86, Ape, Ape : Alien, Alien
+87, Ape, Ape : Yeti, Yeti
+88, Ape, Ape : Rainbow, Rainbow
+89, Ape, Ape : Zombie, Zombie
+90, Ape, Ape : Gold, Gold
+91, Ape, Ape : Bonobo, Bonobo
+92, Ape, Ape : Silver Back, Silver Back
+93, Ape, Ape : Orangutan, Orangutan
+94, Ape, Ape : Gibbon, Gibbon
+95, Ape, Ape : Baboon, Baboon
+96, Ape, Ape : Chimpanzee 2, Chimpanzee 2
+97, Ape, Ape : Chimpanzee 1, Chimpanzee 1
+98, Ape, Ape : Chimpanzee 3, Chimpanzee 3
+99, Background, Background : Blue 2, Blue 2
+100, Background, Background : Blue 1, Blue 1
+101, Background, Background : Blue 3, Blue 3
+102, Background, Background : Blue 4, Blue 4
+103, Background, Background : Blue 5, Blue 5
+104, Future Origin, Future Origin : Unknown, Unknown
+105, Future Origin, Future Origin : Sahelanthropus Tchadensis, Sahelanthropus Tchadensis
+106, Future Origin, Future Origin : Orrorin Tugenensis, Orrorin Tugenensis
+107, Future Origin, Future Origin : Ardipithecus Kadabba, Ardipithecus Kadabba
+108, Future Origin, Future Origin : Ardipithecus Ramidus, Ardipithecus Ramidus
+109, Future Origin, Future Origin : Australopithecus Africanus, Australopithecus Africanus
+110, Future Origin, Future Origin : Paranthropus, Paranthropus
+111, Future Origin, Future Origin : Australopithecus Sediba, Australopithecus Sediba
