@@ -247,6 +247,7 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
  "downsampled" loss-free to 24×24px  - that's a "classic faux-pixel art" bug.
 
 
+
 ### Phunk Ape Origins (in 24×24px)
 
 
@@ -275,6 +276,24 @@ Samples:
 
 
 ### Proof of Pepe (in 48×48px)
+
+Samples:
+
+- Creature Pepe
+- Pale Green, Sonoran Desert Toad 10, Lips Happy, Enjoyoor Hoodie, Cry, Clown Nose, Pipe
+- Pale Pink, Beeping Froglet 11, Lips Smug, Enjoyoor Hoodie, Happy, Aviators Cap, Clown Nose, Sunglasses
+
+![](i/proofofpepe0.png)
+![](i/proofofpepe1.png)
+![](i/proofofpepe2.png)
+
+4x:
+
+![](i/proofofpepe0@4x.png)
+![](i/proofofpepe1@4x.png)
+![](i/proofofpepe2@4x.png)
+
+
 
 [227 Attributes (incl. Nones) in 10 Categories (plus 1/1s)](proofofpepe/spritesheet-48x48.csv):
 
