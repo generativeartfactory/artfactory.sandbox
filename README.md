@@ -171,6 +171,23 @@ Samples:
 
 ### Inverse Punks (in 24×24px)
 
+Samples:
+
+- Inverted V2, Alien, Pimple, Cap Forward, Eyes, Bubble Gum, White Gold Chain, Gold Earring
+- Inverted V2, Alien, Clear, Knitted Cap, VR, White Gold Chain, Gold Earring
+- Inverted V2, Ape, Clear, Bandana, Classic Shades, Blue Medical Mask, Pink Sapphire Necklace
+
+![](i/inversepunks0.png)
+![](i/inversepunks1.png)
+![](i/inversepunks2.png)
+
+4x:
+
+![](i/inversepunks0@4x.png)
+![](i/inversepunks1@4x.png)
+![](i/inversepunks2@4x.png)
+
+
 [99 Attributes in 8 Categories](inversepunks/spritesheet-24x24.csv):
 
 ![](inversepunks/spritesheet-24x24.png)
@@ -207,6 +224,24 @@ Samples:
 
 ### Marcs (in 24×24px)
 
+Samples:
+
+- Deal With It Devil
+- Marc 4, Frumpy Hair, Green Shirt, Lasers, Cigarette
+- Zombie, Green Eyes, Wild Hair, Mustache, Polarized
+
+![](i/marcs0.png)
+![](i/marcs1.png)
+![](i/marcs2.png)
+
+4x:
+
+![](i/marcs0@4x.png)
+![](i/marcs1@4x.png)
+![](i/marcs2@4x.png)
+
+
+
 [171 Attributes (incl. Nones) in 11 Categories (plus 1/1s)](marcs/spritesheet-24x24.csv):
 
 ![](marcs/spritesheet-24x24.png)
@@ -238,6 +273,25 @@ Samples:
 
 
 ### Nomads (in 24×24px)
+
+Samples:
+
+-  Plain, Male 6, Laser, No Really No Mad, Mohawkin
+-  Dark Plain, Male 2, Purple, No Really No Mad, Basement Dwellin
+-  Over The Rainbow Bridge For Nomad Bridge, Male 4, Purple, I AM NOT F ING MAD, Mohawkin
+
+![](i/nomads0.png)
+![](i/nomads1.png)
+![](i/nomads2.png)
+
+4x:
+
+![](i/nomads0@4x.png)
+![](i/nomads1@4x.png)
+![](i/nomads2@4x.png)
+
+
+
 
 [65 Attributes (incl. Nones) in 5 Categories (plus 1/1s)](nomads/spritesheet-24x24.csv):
 

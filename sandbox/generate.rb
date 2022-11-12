@@ -1,6 +1,73 @@
 require 'artfactory'
 
 
+
+nomads = Artfactory.read( './nomads/spritesheet-24x24.png',
+                         './nomads/spritesheet-24x24.csv',
+                                      width: 24,
+                                      height: 24)
+
+specs = parse_data( <<TXT )
+  # No.1022
+  Plain, Male 6, Laser, No Really No Mad, Mohawkin
+  # No.259
+  Dark Plain, Male 2, Purple, No Really No Mad, Basement Dwellin
+  # No.4358
+  Over The Rainbow Bridge For Nomad Bridge, Male 4, Purple, I AM NOT F ING MAD, Mohawkin
+TXT
+
+
+specs.each_with_index do |attributes, i|
+  img = nomads.generate( *attributes )
+  img.save( "./tmp/nomads#{i}.png" )
+  img.zoom(4).save( "./tmp/nomads#{i}@4x.png" )
+end
+
+
+marcs = Artfactory.read( './marcs/spritesheet-24x24.png',
+                         './marcs/spritesheet-24x24.csv',
+                                      width: 24,
+                                      height: 24)
+
+specs = parse_data( <<TXT )
+  Deal With It Devil
+  # No.4582
+  Marc 4, Frumpy Hair, Green Shirt, Lasers, Cigarette
+  # No.2898
+  Zombie, Green Eyes, Wild Hair, Mustache, Polarized
+TXT
+
+
+specs.each_with_index do |attributes, i|
+  img = marcs.generate( *attributes )
+  img.save( "./tmp/marcs#{i}.png" )
+  img.zoom(4).save( "./tmp/marcs#{i}@4x.png" )
+end
+
+
+
+inversepunks = Artfactory.read( './inversepunks/spritesheet-24x24.png',
+                                './inversepunks/spritesheet-24x24.csv',
+                                      width: 24,
+                                      height: 24)
+
+specs = parse_data( <<TXT )
+  # No.856
+  Inverted V2, Alien, Pimple, Cap Forward, Eyes, Bubble Gum, White Gold Chain, Gold Earring
+  # No.390
+  Inverted V2, Alien, Clear, Knitted Cap, VR, White Gold Chain, Gold Earring
+  # No.223
+  Inverted V2, Ape, Clear, Bandana, Classic Shades, Blue Medical Mask, Pink Sapphire Necklace
+TXT
+
+
+specs.each_with_index do |attributes, i|
+  img = inversepunks.generate( *attributes )
+  img.save( "./tmp/inversepunks#{i}.png" )
+  img.zoom(4).save( "./tmp/inversepunks#{i}@4x.png" )
+end
+
+
 proofofpepe = Artfactory.read( './proofofpepe/spritesheet-48x48.png',
                                './proofofpepe/spritesheet-48x48.csv',
                                   width: 48,
@@ -22,7 +89,6 @@ specs.each_with_index do |attributes, i|
 end
 
 
-__END__
 
 
 phunkapeorigins = Artfactory.read( './phunkapeorigins/spritesheet-24x24.png',
@@ -47,7 +113,6 @@ end
 
 
 
-__END__
 madcamels = Artfactory.read( './madcamels/spritesheet-32x32.png',
                              './madcamels/spritesheet-32x32.csv',
                               width: 32,
@@ -69,7 +134,6 @@ specs.each_with_index do |attributes, i|
 end
 
 
-__END__
 
 nfl = Artfactory.read( './nfl/spritesheet-23x23.png',
                        './nfl/spritesheet-23x23.csv',
@@ -94,7 +158,6 @@ specs.each_with_index do |attributes, i|
 end
 
 
-__END__
 
 punkapesyachtclub = Artfactory.read( './punkapesyachtclub/spritesheet-24x24.png',
                                      './punkapesyachtclub/spritesheet-24x24.csv',
@@ -117,7 +180,6 @@ specs.each_with_index do |attributes, i|
 end
 
 
-__END__
 
 punkinspicies = Artfactory.read( './punkinspicies/spritesheet-24x24.png',
                                  './punkinspicies/spritesheet-24x24.csv',
@@ -142,7 +204,6 @@ specs.each_with_index do |attributes, i|
 end
 
 
-__END__
 
 fuks = Artfactory.read( './fuks/spritesheet-24x24.png',
                         './fuks/spritesheet-24x24.csv',
@@ -167,7 +228,6 @@ specs.each_with_index do |attributes, i|
 end
 
 
-__END__
 
 chopper = Artfactory.read( './chopper/spritesheet-24x24.png',
                              './chopper/spritesheet-24x24.csv',
