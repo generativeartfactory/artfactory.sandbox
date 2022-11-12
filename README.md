@@ -137,6 +137,25 @@ Voila!
 
 ### Aliens vs Punks (in 24×24px)
 
+Samples:
+
+- Solid Pink, Jacket Grey, Blue Alien Girl, Red Kerchief, Blue Buzz Cut, Brown, Pink Tiara
+- Solid Blue, Olive Guy, Orange Collar, Face Mask, Yellow Ponytail, Green, Long Green
+- Solid Green, Jacket  White, Purple Alien Girl, Pink Collar, Neutral, Pink Bob, Sunset Shades
+
+![](i/aliensvsspunks0.png)
+![](i/aliensvsspunks1.png)
+![](i/aliensvsspunks2.png)
+
+4x:
+
+![](i/aliensvsspunks0@4x.png)
+![](i/aliensvsspunks1@4x.png)
+![](i/aliensvsspunks2@4x.png)
+
+
+
+
 [226 Attributes (incl. Nones) in 10 Categories](aliensvspunks/spritesheet-24x24.csv):
 
 ![](aliensvspunks/spritesheet-24x24.png)
@@ -144,17 +163,30 @@ Voila!
 
 ### Chi Chis (in 32×32px)
 
+Samples:
+- Wave, Magenta, Jersey,  Lightning Bolt Earrings, Cbd Cig, Aviators, Beanie
+- Palms, Silver, Suit, Simple Day, Smile, Xx, Rainbow
+- Chichi Phunk
+
+![](i/chichis0.png)
+![](i/chichis1.png)
+![](i/chichis2.png)
+
+4x:
+
+![](i/chichis0@4x.png)
+![](i/chichis1@4x.png)
+![](i/chichis2@4x.png)
+
+
+
+
 [94 Attributes (incl. Blanks) in 7 Categories (incl. 1/1s)](chichis/spritesheet-32x32.csv):
 
 ![](chichis/spritesheet-32x32.png)
 
 
 ### Chopper (in 24×24px)
-
-[62 Attributes in 6 Categories](chopper/spritesheet-24x24.csv):
-
-![](chopper/spritesheet-24x24.png)
-
 
 Samples:
 
@@ -174,9 +206,32 @@ Samples:
 
 
 
+[62 Attributes in 6 Categories](chopper/spritesheet-24x24.csv):
+
+![](chopper/spritesheet-24x24.png)
+
+
 
 
 ### Dank Punks (in 24×24px)
+
+Samples:
+
+- Night Vibe, Pale, Clown Nose, Red Punk, Green Clown
+- Contrast, Tan, Black Hair, 3D Glasses
+- Golden Phunk
+
+
+![](i/dankpunks0.png)
+![](i/dankpunks1.png)
+![](i/dankpunks2.png)
+
+4x:
+
+![](i/dankpunks0@4x.png)
+![](i/dankpunks1@4x.png)
+![](i/dankpunks2@4x.png)
+
 
 [77 Attributes (incl. Nones) in 7 Categories (plus 1/1s)](dankpunks/spritesheet-24x24.csv):
 
@@ -191,16 +246,34 @@ to convert to a "static" attribute in the .png format.
 
 ### Edge Punks (in 24×24px)
 
+Samples:
+
+- Pink, Dark Green Lizard, Dark Robe, Monster Mouth, Bat, Laser Eyes
+- Pink, Purple Body, Dark Suit, Smile, Dark Hair, Dark Shades
+- Anatomy Of An Icon
+
+![](i/edgepunks0.png)
+![](i/edgepunks1.png)
+![](i/edgepunks2.png)
+
+4x:
+
+![](i/edgepunks0@4x.png)
+![](i/edgepunks1@4x.png)
+![](i/edgepunks2@4x.png)
+
+
+
+
+
 [120 Attributes (incl. Nones/Blanks) in 5 Categories (plus 1/1s)](edgepunks/spritesheet-24x24.csv):
 
 ![](edgepunks/spritesheet-24x24.png)
 
 
+
 ### Fuks (in 24×24px)
 
-[69 Attributes in 8 Categories](fuks/spritesheet-24x24.csv):
-
-![](fuks/spritesheet-24x24.png)
 
 Samples:
 
@@ -218,6 +291,10 @@ Samples:
 ![](i/fuks1@4x.png)
 ![](i/fuks2@4x.png)
 
+
+[69 Attributes in 8 Categories](fuks/spritesheet-24x24.csv):
+
+![](fuks/spritesheet-24x24.png)
 
 
 
@@ -275,9 +352,6 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
 
 ### Punk Apes Yacht Club (in 24×24px)
 
-[170 Attributes (incl. Nones) in 14 Categories](punkapesyachtclub/spritesheet-24x24.csv):
-
-![](punkapesyachtclub/spritesheet-24x24.png)
 
 Samples:
 
@@ -296,14 +370,14 @@ Samples:
 ![](i/punkapesyachtclub2@4x.png)
 
 
+[170 Attributes (incl. Nones) in 14 Categories](punkapesyachtclub/spritesheet-24x24.csv):
+
+![](punkapesyachtclub/spritesheet-24x24.png)
 
 
 
 ### Punkin Spicies (in 24×24px)
 
-[113 Attributes (incl. Nones) in 9 Categories](punkinspicies/spritesheet-24x24.csv):
-
-![](punkinspicies/spritesheet-24x24.png)
 
 Samples:
 
@@ -320,6 +394,11 @@ Samples:
 ![](i/punkinspicies0@4x.png)
 ![](i/punkinspicies1@4x.png)
 ![](i/punkinspicies2@4x.png)
+
+
+[113 Attributes (incl. Nones) in 9 Categories](punkinspicies/spritesheet-24x24.csv):
+
+![](punkinspicies/spritesheet-24x24.png)
 
 
 
