@@ -1,6 +1,78 @@
 require 'artfactory'
 
 
+
+phunkapeorigins = Artfactory.read( './phunkapeorigins/spritesheet-24x24.png',
+                                   './phunkapeorigins/spritesheet-24x24.csv',
+                                      width: 24,
+                                      height: 24)
+
+specs = parse_data( <<TXT )
+  # no.2668
+  Blue 3, Chimpanzee 1, Arrow, Snow Visor, Tooth Plug, Diamond Chain
+  # no.481
+  Blue 5, Silver Back, Wild Monkey Hair, Focused, Silver Dangle, Gold Chain, Cigar
+  # no.219
+  Blue 1,  Yeti, Royal Crown, Matrix Shades, Silver Stud, Tooth Necklace, Tooth
+TXT
+
+specs.each_with_index do |attributes, i|
+  img = phunkapeorigins.generate( *attributes )
+  img.save( "./tmp/phunkapeorigins#{i}.png" )
+  img.zoom(4).save( "./tmp/phunkapeorigins#{i}@4x.png" )
+end
+
+
+
+__END__
+madcamels = Artfactory.read( './madcamels/spritesheet-32x32.png',
+                             './madcamels/spritesheet-32x32.csv',
+                              width: 32,
+                              height: 32)
+
+specs = parse_data( <<TXT )
+  # no.115
+  Cream, Zombie, Purple Cap, Earring : Gold, Cool Glasses, Bubble Gum
+  # no.133
+  Purple,  Default, Thief Hat, Green Glasses, Bowtie, Pipe
+  # no.128
+  Green, Alien, Red Cap, Earring : Gold, Laser Eye
+TXT
+
+specs.each_with_index do |attributes, i|
+  img = madcamels.generate( *attributes )
+  img.save( "./tmp/madcamels#{i}.png" )
+  img.zoom(4).save( "./tmp/madcamels#{i}@4x.png" )
+end
+
+
+__END__
+
+nfl = Artfactory.read( './nfl/spritesheet-23x23.png',
+                       './nfl/spritesheet-23x23.csv',
+                         width: 23,
+                         height: 23)
+
+specs = parse_data( <<TXT )
+  # no.2419
+  Justin Fields
+  # no.1594
+  Turf, Bot, Oakland, 13, Full Beard Light
+  # no.803
+  Goal Line, Base 5, Atlanta, 7, Full Beard Black
+TXT
+
+
+
+specs.each_with_index do |attributes, i|
+  img = nfl.generate( *attributes )
+  img.save( "./tmp/nfl#{i}.png" )
+  img.zoom(4).save( "./tmp/nfl#{i}@4x.png" )
+end
+
+
+__END__
+
 punkapesyachtclub = Artfactory.read( './punkapesyachtclub/spritesheet-24x24.png',
                                      './punkapesyachtclub/spritesheet-24x24.csv',
                                       width: 24,

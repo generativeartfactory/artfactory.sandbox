@@ -1,135 +1,6 @@
 # Artfactory Sandbox (& Cache)  - Quick & Dirty "One-Off" Scripts To Download Complete Artwork Layers for ("On-Blockchain") Collections for Easy (Re)use ("Off-Blockchain")
 
 
-Yes, you can!  (Re)use the "off-blockchain" (pixel) artwork
-spritesheets to generate any combination using text-to-image prompts.
-
-
-Example - Let's try the Aliens vs Punks using the [**Art Factory machinery »**](https://github.com/learnpixelart/pixelart/tree/master/artfactory)
-
-``` ruby
-require 'artfactory'
-
-# step 1 - setup the art factory;
-#    pass-in the spritesheet image & (meta) dataset and
-#    the format (e.g. 24x24px)
-
-aliensvsspunks = Artfactory.read( 'aliensvspunks/spritesheet-24x24.png',
-                                  'aliensvspunks/spritesheet-24x24.csv',
-                                  width: 24,
-                                  height: 24)
-
-
-# step 2 - generate images via text (prompts)
-
-specs = [
-  ## no.37
-  ['Solid Pink', 'Jacket : Grey', 'Blue Alien Girl', 'Red Kerchief',
-   'Blue Buzz Cut', 'Brown', 'Pink Tiara'],
-  ## no.28
-  ['Solid Blue', 'Olive Guy', 'Orange Collar', 'Face Mask',
-   'Yellow Ponytail', 'Green', 'Long Green'],
-  ## no.21
-  ['Solid Green', 'Jacket : White', 'Purple Alien Girl', 'Pink Collar', 'Neutral',
-   'Pink Bob', 'Sunset Shades'],
-]
-
-
-specs.each_with_index do |attributes, i|
-   img = aliensvsspunks.generate( *attributes )
-   img.save( "aliensvspunks#{i}.png" )
-   img.zoom(4).save( "aliensvspunks#{i}@4x.png" )
-end
-```
-
-Voila!
-
-![](i/aliensvspunks0.png)
-![](i/aliensvspunks1.png)
-![](i/aliensvspunks2.png)
-
-4x:
-
-![](i/aliensvspunks0@4x.png)
-![](i/aliensvspunks1@4x.png)
-![](i/aliensvspunks2@4x.png)
-
-
-Let's try the Edge Punks:
-
-``` ruby
-edgepunks = Artfactory.read( 'edgepunks/spritesheet-24x24.png',
-                             'edgepunks/spritesheet-24x24.csv',
-                             width: 24,
-                             height: 24)
-
-specs = [
-# no.282
-  ['Pink', 'Dark Green Lizard', 'Dark Robe', 'Monster Mouth', 'Bat', 'Laser Eyes'],
-# no.468
-  ['Pink', 'Purple Body', 'Dark Suit', 'Smile', 'Dark Hair', 'Dark Shades'],
-# no.678 (1/1)
-  ['Anatomy Of An Icon'],
-]
-
-
-specs.each_with_index do |attributes, i|
-   img = edgepunks.generate( *attributes )
-   img.save( "edgepunks#{i}.png" )
-   img.zoom(4).save( "edgepunks#{i}@4x.png" )
-end
-```
-
-Voila!
-
-![](i/edgepunks0.png)
-![](i/edgepunks1.png)
-![](i/edgepunks2.png)
-
-4x:
-
-![](i/edgepunks0@4x.png)
-![](i/edgepunks1@4x.png)
-![](i/edgepunks2@4x.png)
-
-
-Let's try the Chi Chis:
-
-``` ruby
-chichis = Artfactory.read( 'chichis/spritesheet-32x32.png',
-                           'chichis/spritesheet-32x32.csv',
-                             width: 32,
-                             height: 32)
-
-specs = [
-  ## no.15
-  ['Wave', 'Magenta', 'Jersey',  'Lightning Bolt Earrings',
-    'Cbd Cig', 'Aviators', 'Beanie'],
-  ## no.8
-  ['Palms', 'Silver', 'Suit', 'Simple Day', 'Smile', 'Xx', 'Rainbow'],
-  ## 1/1
-  ['Chichi Phunk'],
-]
-
-specs.each_with_index do |attributes, i|
-   img = chichis.generate( *attributes )
-   img.save( "chichis#{i}.png" )
-   img.zoom(4).save( "chichis#{i}@4x.png" )
-end
-```
-
-Voila!
-
-![](i/chichis0.png)
-![](i/chichis1.png)
-![](i/chichis2.png)
-
-4x:
-
-![](i/chichis0@4x.png)
-![](i/chichis1@4x.png)
-![](i/chichis2@4x.png)
-
 
 
 ## "Right-Click & Save This" Spritesheets  - What's News?
@@ -305,11 +176,33 @@ Samples:
 ![](inversepunks/spritesheet-24x24.png)
 
 
+
 ### Mad Camels (in 32×32px)
+
+Samples:
+
+-  Cream, Zombie, Purple Cap, Earring Gold, Cool Glasses, Bubble Gum
+-  Purple,  Default, Thief Hat, Green Glasses, Bowtie, Pipe
+-  Green, Alien, Red Cap, Earring Gold, Laser Eye
+
+![](i/madcamels0.png)
+![](i/madcamels1.png)
+![](i/madcamels2.png)
+
+4x:
+
+![](i/madcamels0@4x.png)
+![](i/madcamels1@4x.png)
+![](i/madcamels2@4x.png)
+
+
 
 [78 Attributes (incl. Nones) in 8 Categories](madcamels/spritesheet-32x32.csv):
 
 ![](madcamels/spritesheet-32x32.png)
+
+
+
 
 
 ### Marcs (in 24×24px)
@@ -318,7 +211,26 @@ Samples:
 
 ![](marcs/spritesheet-24x24.png)
 
+
+
 ### NFL (in 23×23px)
+
+Samples:
+
+- Justin Fields
+- Turf, Bot, Oakland, 13, Full Beard Light
+- Goal Line, Base 5, Atlanta, 7, Full Beard Black
+
+![](i/nfl0.png)
+![](i/nfl1.png)
+![](i/nfl2.png)
+
+4x:
+
+![](i/nfl0@4x.png)
+![](i/nfl1@4x.png)
+![](i/nfl2@4x.png)
+
 
 [136 Attributes (incl. Nones) in 6 Categories (plus 1/1s)](nfl/spritesheet-23x23.csv):
 
@@ -336,6 +248,26 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
 
 
 ### Phunk Ape Origins (in 24×24px)
+
+
+Samples:
+
+- Blue 3, Chimpanzee 1, Arrow, Snow Visor, Tooth Plug, Diamond Chain
+- Blue 5, Silver Back, Wild Monkey Hair, Focused, Silver Dangle, Gold Chain, Cigar
+- Blue 1,  Yeti, Royal Crown, Matrix Shades, Silver Stud, Tooth Necklace, Tooth
+
+![](i/phunkapeorigins0.png)
+![](i/phunkapeorigins1.png)
+![](i/phunkapeorigins2.png)
+
+4x:
+
+![](i/phunkapeorigins0@4x.png)
+![](i/phunkapeorigins1@4x.png)
+![](i/phunkapeorigins2@4x.png)
+
+
+
 
 [114 Attributes (incl. Nones) in 8 Categories](phunkapeorigins/spritesheet-24x24.csv):
 
@@ -399,6 +331,144 @@ Samples:
 [113 Attributes (incl. Nones) in 9 Categories](punkinspicies/spritesheet-24x24.csv):
 
 ![](punkinspicies/spritesheet-24x24.png)
+
+
+
+
+
+
+
+## Getting Started w/ the Art Factory Gem
+
+Yes, you can!  (Re)use the "off-blockchain" (pixel) artwork
+spritesheets to generate any combination using text-to-image prompts.
+
+
+Example - Let's try the Aliens vs Punks using the [**Art Factory machinery »**](https://github.com/learnpixelart/pixelart/tree/master/artfactory)
+
+``` ruby
+require 'artfactory'
+
+# step 1 - setup the art factory;
+#    pass-in the spritesheet image & (meta) dataset and
+#    the format (e.g. 24x24px)
+
+aliensvsspunks = Artfactory.read( 'aliensvspunks/spritesheet-24x24.png',
+                                  'aliensvspunks/spritesheet-24x24.csv',
+                                  width: 24,
+                                  height: 24)
+
+
+# step 2 - generate images via text (prompts)
+
+specs = [
+  ## no.37
+  ['Solid Pink', 'Jacket : Grey', 'Blue Alien Girl', 'Red Kerchief',
+   'Blue Buzz Cut', 'Brown', 'Pink Tiara'],
+  ## no.28
+  ['Solid Blue', 'Olive Guy', 'Orange Collar', 'Face Mask',
+   'Yellow Ponytail', 'Green', 'Long Green'],
+  ## no.21
+  ['Solid Green', 'Jacket : White', 'Purple Alien Girl', 'Pink Collar', 'Neutral',
+   'Pink Bob', 'Sunset Shades'],
+]
+
+
+specs.each_with_index do |attributes, i|
+   img = aliensvsspunks.generate( *attributes )
+   img.save( "aliensvspunks#{i}.png" )
+   img.zoom(4).save( "aliensvspunks#{i}@4x.png" )
+end
+```
+
+Voila!
+
+![](i/aliensvspunks0.png)
+![](i/aliensvspunks1.png)
+![](i/aliensvspunks2.png)
+
+4x:
+
+![](i/aliensvspunks0@4x.png)
+![](i/aliensvspunks1@4x.png)
+![](i/aliensvspunks2@4x.png)
+
+
+Let's try the Edge Punks:
+
+``` ruby
+edgepunks = Artfactory.read( 'edgepunks/spritesheet-24x24.png',
+                             'edgepunks/spritesheet-24x24.csv',
+                             width: 24,
+                             height: 24)
+
+specs = [
+# no.282
+  ['Pink', 'Dark Green Lizard', 'Dark Robe', 'Monster Mouth', 'Bat', 'Laser Eyes'],
+# no.468
+  ['Pink', 'Purple Body', 'Dark Suit', 'Smile', 'Dark Hair', 'Dark Shades'],
+# no.678 (1/1)
+  ['Anatomy Of An Icon'],
+]
+
+
+specs.each_with_index do |attributes, i|
+   img = edgepunks.generate( *attributes )
+   img.save( "edgepunks#{i}.png" )
+   img.zoom(4).save( "edgepunks#{i}@4x.png" )
+end
+```
+
+Voila!
+
+![](i/edgepunks0.png)
+![](i/edgepunks1.png)
+![](i/edgepunks2.png)
+
+4x:
+
+![](i/edgepunks0@4x.png)
+![](i/edgepunks1@4x.png)
+![](i/edgepunks2@4x.png)
+
+
+Let's try the Chi Chis:
+
+``` ruby
+chichis = Artfactory.read( 'chichis/spritesheet-32x32.png',
+                           'chichis/spritesheet-32x32.csv',
+                             width: 32,
+                             height: 32)
+
+specs = [
+  ## no.15
+  ['Wave', 'Magenta', 'Jersey',  'Lightning Bolt Earrings',
+    'Cbd Cig', 'Aviators', 'Beanie'],
+  ## no.8
+  ['Palms', 'Silver', 'Suit', 'Simple Day', 'Smile', 'Xx', 'Rainbow'],
+  ## 1/1
+  ['Chichi Phunk'],
+]
+
+specs.each_with_index do |attributes, i|
+   img = chichis.generate( *attributes )
+   img.save( "chichis#{i}.png" )
+   img.zoom(4).save( "chichis#{i}@4x.png" )
+end
+```
+
+Voila!
+
+![](i/chichis0.png)
+![](i/chichis1.png)
+![](i/chichis2.png)
+
+4x:
+
+![](i/chichis0@4x.png)
+![](i/chichis1@4x.png)
+![](i/chichis2@4x.png)
+
 
 
 
