@@ -1,0 +1,171 @@
+id, category, name, more_names
+0, Glitch, Glitch : glitch, glitch
+1, Glitch, Glitch : None, 
+2, Nose, Nose : Clown nose, Clown nose
+3, Nose, Nose : None, 
+4, Earring, Earring : Cross, Cross
+5, Earring, Earring : Diamond Stud, Diamond Stud
+6, Earring, Earring : Gold Loop, Gold Loop
+7, Earring, Earring : Gold Stud, Gold Stud
+8, Earring, Earring : Silver stud, Silver stud
+9, Earring, Earring : Silver Loop, Silver Loop
+10, Earring, Earring : none, 
+11, Mouth, Mouth : Multi-colored Grin, Multi-colored Grin
+12, Mouth, Mouth : Bubblegum, Bubblegum
+13, Mouth, Mouth : Tongue out, Tongue out
+14, Mouth, Mouth : Grin Diamond Grill, Grin Diamond Grill
+15, Mouth, Mouth : Cigar, Cigar
+16, Mouth, Mouth : Phoneme L, Phoneme L
+17, Mouth, Mouth : Vape, Vape
+18, Mouth, Mouth : Grin Gold Grill, Grin Gold Grill
+19, Mouth, Mouth : Hot lipstick, Hot lipstick
+20, Mouth, Mouth : Purple Lipstick, Purple Lipstick
+21, Mouth, Mouth : Pipe, Pipe
+22, Mouth, Mouth : Cigarette with Hot Lipstick, Cigarette with Hot Lipstick
+23, Mouth, Mouth : Cigarette with Purple Lipstick, Cigarette with Purple Lipstick
+24, Mouth, Mouth : Cigarette, Cigarette
+25, Mouth, Mouth : Small mouth, Small mouth
+26, Mouth, Mouth : Large mouth, Large mouth
+27, Mouth, Mouth : Frown, Frown
+28, Mouth, Mouth : Smile, Smile
+29, Mouth, Mouth : Grin, Grin
+30, Eyes, Eyes : Alien, 
+31, Eyes, Eyes : Blue Beams, Blue Beams
+32, Eyes, Eyes : Laser Eyes, Laser Eyes
+33, Eyes, Eyes : halographic, halographic
+34, Eyes, Eyes : Cyborg, Cyborg
+35, Eyes, Eyes : Blindfolded, Blindfolded
+36, Eyes, Eyes : Big Shades, Big Shades
+37, Eyes, Eyes : Classic Punk, Classic Punk
+38, Eyes, Eyes : Zombie eyes, Zombie eyes
+39, Eyes, Eyes : Horned Rim Glasses, Horned Rim Glasses
+40, Eyes, Eyes : Small Shades, Small Shades
+41, Eyes, Eyes : Welding Goggles, Welding Goggles
+42, Eyes, Eyes : Eyepatch, Eyepatch
+43, Eyes, Eyes : 3D Glasses, 3D Glasses
+44, Eyes, Eyes : VR, VR
+45, Eyes, Eyes : Clown Eyes Blue, Clown Eyes Blue
+46, Eyes, Eyes : Purple Eye Shadow, Purple Eye Shadow
+47, Eyes, Eyes : Clown Eyes Green, Clown Eyes Green
+48, Eyes, Eyes : Blue Eye Shadow, Blue Eye Shadow
+49, Eyes, Eyes : Eye Mask, Eye Mask
+50, Eyes, Eyes : Green Eye Shadow, Green Eye Shadow
+51, Eyes, Eyes : Bloodshot, Bloodshot
+52, Eyes, Eyes : Sad eyes, Sad eyes
+53, Eyes, Eyes : Closed, Closed
+54, Eyes, Eyes : Wide Eyed, Wide Eyed
+55, Eyes, Eyes : Punk, Punk
+56, Beard, Beard : Luxurious Beard, Luxurious Beard
+57, Beard, Beard : Big Beard, Big Beard
+58, Beard, Beard : Handlebars, Handlebars
+59, Beard, Beard : none, 
+60, Rosy cheeks, Rosy cheeks : Rosy cheeks, Rosy cheeks
+61, Rosy cheeks, Rosy cheeks : None, 
+62, Head, Head : Beanie, Beanie
+63, Head, Head : Kings Crown, Kings Crown
+64, Head, Head : Laurel Wreath, Laurel Wreath
+65, Head, Head : Halo, Halo
+66, Head, Head : Top Hat, Top Hat
+67, Head, Head : Girls short hair, Girls short hair
+68, Head, Head : Stuntman helmet, Stuntman helmet
+69, Head, Head : Pink with Hat, Pink with Hat
+70, Head, Head : Fedora, Fedora
+71, Head, Head : Girl's hair Pink, Girl's hair Pink
+72, Head, Head : Hoodie, Hoodie
+73, Head, Head : Police Cap, Police Cap
+74, Head, Head : Do-rag, Do-rag
+75, Head, Head : McDonald's hat, McDonald's hat
+76, Head, Head : Clown Hair Green, Clown Hair Green
+77, Head, Head : Purple Hair, Purple Hair
+78, Head, Head : Cap Forward, Cap Forward
+79, Head, Head : Bowler, Bowler
+80, Head, Head : Straight Hair Dark, Straight Hair Dark
+81, Head, Head : Dark Hair, Dark Hair
+82, Head, Head : Horns, Horns
+83, Head, Head : Orange Side, Orange Side
+84, Head, Head : Peak Spike, Peak Spike
+85, Head, Head : Headband, Headband
+86, Head, Head : Mohawk Dark, Mohawk Dark
+87, Head, Head : Mohawk, Mohawk
+88, Head, Head : Wild hair, Wild hair
+89, Head, Head : Messy hair, Messy hair
+90, Head, Head : Mohawk Thin, Mohawk Thin
+91, Head, Head : Crazy hair, Crazy hair
+92, Head, Head : Frumpy hair, Frumpy hair
+93, Head, Head : Cap, Cap
+94, Head, Head : Bandana, Bandana
+95, Head, Head : Knitted Cap, Knitted Cap
+96, Head, Head : None, 
+97, Neck, Neck : Choker, Choker
+98, Neck, Neck : Silver Chain, Silver Chain
+99, Neck, Neck : Gold Chain, Gold Chain
+100, Neck, Neck : None, 
+101, Clothes, Clothes : evolved alien nood, evolved alien nood
+102, Clothes, Clothes : McDonalds, McDonalds
+103, Clothes, Clothes : Kings Robe, Kings Robe
+104, Clothes, Clothes : Pimp Coat, Pimp Coat
+105, Clothes, Clothes : Toga, Toga
+106, Clothes, Clothes : PAYC T Black, PAYC T Black
+107, Clothes, Clothes : Black Holes T, Black Holes T
+108, Clothes, Clothes : Rainbow Suspenders, Rainbow Suspenders
+109, Clothes, Clothes : Tuxedo T, Tuxedo T
+110, Clothes, Clothes : Guayabera, Guayabera
+111, Clothes, Clothes : Smoking Jacket, Smoking Jacket
+112, Clothes, Clothes : Tanktop, Tanktop
+113, Clothes, Clothes : Hawaiian, Hawaiian
+114, Clothes, Clothes : Sailor Shirt, Sailor Shirt
+115, Clothes, Clothes : PAYC T Red, PAYC T Red
+116, Clothes, Clothes : Lumberjack Shirt, Lumberjack Shirt
+117, Clothes, Clothes : Bone T, Bone T
+118, Clothes, Clothes : Prison Jumpsuit, Prison Jumpsuit
+119, Clothes, Clothes : Biker Vest, Biker Vest
+120, Clothes, Clothes : Wool Turtleneck, Wool Turtleneck
+121, Clothes, Clothes : Sleeveless T, Sleeveless T
+122, Clothes, Clothes : Black T, Black T
+123, Clothes, Clothes : Striped T, Striped T
+124, Clothes, Clothes : nood, nood
+125, Fur, Fur : Alien, Alien
+126, Fur, Fur : Solid Gold, Solid Gold
+127, Fur, Fur : Trippy, Trippy
+128, Fur, Fur : Noise, Noise
+129, Fur, Fur : Death Bot, Death Bot
+130, Fur, Fur : DMT, DMT
+131, Fur, Fur : Robot, Robot
+132, Fur, Fur : Zombie, Zombie
+133, Fur, Fur : White, White
+134, Fur, Fur : Cheetah, Cheetah
+135, Fur, Fur : Red, Red
+136, Fur, Fur : Blue, Blue
+137, Fur, Fur : Gray, Gray
+138, Fur, Fur : Pink, Pink
+139, Fur, Fur : Cream, Cream
+140, Fur, Fur : Tan, Tan
+141, Fur, Fur : Black, Black
+142, Fur, Fur : Golden Brown, Golden Brown
+143, Fur, Fur : Brown, Brown
+144, Fur, Fur : Dark Brown, Dark Brown
+145, Background, Background : Punk blue, Solid Punk blue
+146, Background, Background : Gray, Solid Gray
+147, Background, Background : Yellow, Solid Yellow
+148, Background, Background : Purple, Solid Purple
+149, Background, Background : Blue, Solid Blue
+150, Background, Background : Navy Green, Solid Navy Green
+151, Background, Background : Aquamarine, Solid Aquamarine
+152, Background, Background : Orange, Solid Orange
+153, Soul, Soul : 50% Punk 50% Ape, 50% Punk 50% Ape
+154, Soul, Soul : 80% Punk 20% Ape, 80% Punk 20% Ape
+155, Soul, Soul : 20% Punk 80% Ape, 20% Punk 80% Ape
+156, Soul, Soul : 10% Punk 90% Ape, 10% Punk 90% Ape
+157, Soul, Soul : 90% Punk 10% Ape, 90% Punk 10% Ape
+158, Soul, Soul : 25% Punk 25% Ape, 25% Punk 25% Ape
+159, Flex, Flex : I have 61 Apes, I have 61 Apes
+160, Flex, Flex : I am one of Zagabond's secret identities, I am one of Zagabond's secret identities
+161, Flex, Flex : Minted a Gold Ape, Minted a Gold Ape
+162, Flex, Flex : I flipped my way from .1ETH to 1000ETH and wrote a thread about it, I flipped my way from .1ETH to 1000ETH and wrote a thread about it
+163, Flex, Flex : Still holding the punks I minted, Still holding the punks I minted
+164, Flex, Flex : Made my fortune in early Bitcoin, Made my fortune in early Bitcoin
+165, Flex, Flex : I got on the Yoot list, I got on the Yoot list
+166, Flex, Flex : I've had sex in the past year, I've had sex in the past year
+167, Flex, Flex : I predicted the LUNA collapse, I predicted the LUNA collapse
+168, Flex, Flex : I minted a PUNKAYC, I minted a PUNKAYC
+169, Flex, Flex : Got nuthin to flex, Got nuthin to flex

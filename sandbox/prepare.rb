@@ -15,7 +15,9 @@ require_relative 'helper'
 # basedir = './nfl'
 # basedir = './nomads'
 # basedir = './phunkapeorigins'
-basedir = './proofofpepe'
+# basedir = './proofofpepe'
+# basedir = './punkapesyachtclub'
+basedir = './punkinspicies'
 
 
 

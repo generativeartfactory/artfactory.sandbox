@@ -1,0 +1,171 @@
+path, category, name, more_names
+0_glitch/0_glitch.png, Glitch, Glitch : glitch, glitch
+0_glitch/1_none.png, Glitch, Glitch : None,
+1_nose/0_clown_nose.png, Nose, Nose : Clown nose, Clown nose
+1_nose/1_none.png, Nose, Nose : None,
+2_earring/0_cross.png, Earring, Earring : Cross, Cross
+2_earring/1_diamond_stud.png, Earring, Earring : Diamond Stud, Diamond Stud
+2_earring/2_gold_loop.png, Earring, Earring : Gold Loop, Gold Loop
+2_earring/3_gold_stud.png, Earring, Earring : Gold Stud, Gold Stud
+2_earring/4_silver_stud.png, Earring, Earring : Silver stud, Silver stud
+2_earring/5_silver_loop.png, Earring, Earring : Silver Loop, Silver Loop
+2_earring/6_none.png, Earring, Earring : none,
+3_mouth/0_multi-colored_grin.png, Mouth, Mouth : Multi-colored Grin, Multi-colored Grin
+3_mouth/1_bubblegum.png, Mouth, Mouth : Bubblegum, Bubblegum
+3_mouth/2_tongue_out.png, Mouth, Mouth : Tongue out, Tongue out
+3_mouth/3_grin_diamond_grill.png, Mouth, Mouth : Grin Diamond Grill, Grin Diamond Grill
+3_mouth/4_cigar.png, Mouth, Mouth : Cigar, Cigar
+3_mouth/5_phoneme_l.png, Mouth, Mouth : Phoneme L, Phoneme L
+3_mouth/6_vape.png, Mouth, Mouth : Vape, Vape
+3_mouth/7_grin_gold_grill.png, Mouth, Mouth : Grin Gold Grill, Grin Gold Grill
+3_mouth/8_hot_lipstick.png, Mouth, Mouth : Hot lipstick, Hot lipstick
+3_mouth/9_purple_lipstick.png, Mouth, Mouth : Purple Lipstick, Purple Lipstick
+3_mouth/10_pipe.png, Mouth, Mouth : Pipe, Pipe
+3_mouth/11_cigarette_with_hot_lipstick.png, Mouth, Mouth : Cigarette with Hot Lipstick, Cigarette with Hot Lipstick
+3_mouth/12_cigarette_with_purple_lipstick.png, Mouth, Mouth : Cigarette with Purple Lipstick, Cigarette with Purple Lipstick
+3_mouth/13_cigarette.png, Mouth, Mouth : Cigarette, Cigarette
+3_mouth/14_small_mouth.png, Mouth, Mouth : Small mouth, Small mouth
+3_mouth/15_large_mouth.png, Mouth, Mouth : Large mouth, Large mouth
+3_mouth/16_frown.png, Mouth, Mouth : Frown, Frown
+3_mouth/17_smile.png, Mouth, Mouth : Smile, Smile
+3_mouth/18_grin.png, Mouth, Mouth : Grin, Grin
+4_eyes/0_alien.png, Eyes, Eyes : Alien,
+4_eyes/1_blue_beams.png, Eyes, Eyes : Blue Beams, Blue Beams
+4_eyes/2_laser_eyes.png, Eyes, Eyes : Laser Eyes, Laser Eyes
+4_eyes/3_halographic.png, Eyes, Eyes : halographic, halographic
+4_eyes/4_cyborg.png, Eyes, Eyes : Cyborg, Cyborg
+4_eyes/5_blindfolded.png, Eyes, Eyes : Blindfolded, Blindfolded
+4_eyes/6_big_shades.png, Eyes, Eyes : Big Shades, Big Shades
+4_eyes/7_classic_punk.png, Eyes, Eyes : Classic Punk, Classic Punk
+4_eyes/8_zombie_eyes.png, Eyes, Eyes : Zombie eyes, Zombie eyes
+4_eyes/9_horned_rim_glasses.png, Eyes, Eyes : Horned Rim Glasses, Horned Rim Glasses
+4_eyes/10_small_shades.png, Eyes, Eyes : Small Shades, Small Shades
+4_eyes/11_welding_goggles.png, Eyes, Eyes : Welding Goggles, Welding Goggles
+4_eyes/12_eyepatch.png, Eyes, Eyes : Eyepatch, Eyepatch
+4_eyes/13_3d_glasses.png, Eyes, Eyes : 3D Glasses, 3D Glasses
+4_eyes/14_vr.png, Eyes, Eyes : VR, VR
+4_eyes/15_clown_eyes_blue.png, Eyes, Eyes : Clown Eyes Blue, Clown Eyes Blue
+4_eyes/16_purple_eye_shadow.png, Eyes, Eyes : Purple Eye Shadow, Purple Eye Shadow
+4_eyes/17_clown_eyes_green.png, Eyes, Eyes : Clown Eyes Green, Clown Eyes Green
+4_eyes/18_blue_eye_shadow.png, Eyes, Eyes : Blue Eye Shadow, Blue Eye Shadow
+4_eyes/19_eye_mask.png, Eyes, Eyes : Eye Mask, Eye Mask
+4_eyes/20_green_eye_shadow.png, Eyes, Eyes : Green Eye Shadow, Green Eye Shadow
+4_eyes/21_bloodshot.png, Eyes, Eyes : Bloodshot, Bloodshot
+4_eyes/22_sad_eyes.png, Eyes, Eyes : Sad eyes, Sad eyes
+4_eyes/23_closed.png, Eyes, Eyes : Closed, Closed
+4_eyes/24_wide_eyed.png, Eyes, Eyes : Wide Eyed, Wide Eyed
+4_eyes/25_punk.png, Eyes, Eyes : Punk, Punk
+5_beard/0_luxurious_beard.png, Beard, Beard : Luxurious Beard, Luxurious Beard
+5_beard/1_big_beard.png, Beard, Beard : Big Beard, Big Beard
+5_beard/2_handlebars.png, Beard, Beard : Handlebars, Handlebars
+5_beard/3_none.png, Beard, Beard : none,
+6_rosy_cheeks/0_rosy_cheeks.png, Rosy cheeks, Rosy cheeks : Rosy cheeks, Rosy cheeks
+6_rosy_cheeks/1_none.png, Rosy cheeks, Rosy cheeks : None,
+7_head/0_beanie.png, Head, Head : Beanie, Beanie
+7_head/1_kings_crown.png, Head, Head : Kings Crown, Kings Crown
+7_head/2_laurel_wreath.png, Head, Head : Laurel Wreath, Laurel Wreath
+7_head/3_halo.png, Head, Head : Halo, Halo
+7_head/4_top_hat.png, Head, Head : Top Hat, Top Hat
+7_head/5_girls_short_hair.png, Head, Head : Girls short hair, Girls short hair
+7_head/6_stuntman_helmet.png, Head, Head : Stuntman helmet, Stuntman helmet
+7_head/7_pink_with_hat.png, Head, Head : Pink with Hat, Pink with Hat
+7_head/8_fedora.png, Head, Head : Fedora, Fedora
+7_head/9_girls_hair_pink.png, Head, Head : Girl's hair Pink, Girl's hair Pink
+7_head/10_hoodie.png, Head, Head : Hoodie, Hoodie
+7_head/11_police_cap.png, Head, Head : Police Cap, Police Cap
+7_head/12_do-rag.png, Head, Head : Do-rag, Do-rag
+7_head/13_mcdonalds_hat.png, Head, Head : McDonald's hat, McDonald's hat
+7_head/14_clown_hair_green.png, Head, Head : Clown Hair Green, Clown Hair Green
+7_head/15_purple_hair.png, Head, Head : Purple Hair, Purple Hair
+7_head/16_cap_forward.png, Head, Head : Cap Forward, Cap Forward
+7_head/17_bowler.png, Head, Head : Bowler, Bowler
+7_head/18_straight_hair_dark.png, Head, Head : Straight Hair Dark, Straight Hair Dark
+7_head/19_dark_hair.png, Head, Head : Dark Hair, Dark Hair
+7_head/20_horns.png, Head, Head : Horns, Horns
+7_head/21_orange_side.png, Head, Head : Orange Side, Orange Side
+7_head/22_peak_spike.png, Head, Head : Peak Spike, Peak Spike
+7_head/23_headband.png, Head, Head : Headband, Headband
+7_head/24_mohawk_dark.png, Head, Head : Mohawk Dark, Mohawk Dark
+7_head/25_mohawk.png, Head, Head : Mohawk, Mohawk
+7_head/26_wild_hair.png, Head, Head : Wild hair, Wild hair
+7_head/27_messy_hair.png, Head, Head : Messy hair, Messy hair
+7_head/28_mohawk_thin.png, Head, Head : Mohawk Thin, Mohawk Thin
+7_head/29_crazy_hair.png, Head, Head : Crazy hair, Crazy hair
+7_head/30_frumpy_hair.png, Head, Head : Frumpy hair, Frumpy hair
+7_head/31_cap.png, Head, Head : Cap, Cap
+7_head/32_bandana.png, Head, Head : Bandana, Bandana
+7_head/33_knitted_cap.png, Head, Head : Knitted Cap, Knitted Cap
+7_head/34_none.png, Head, Head : None,
+8_neck/0_choker.png, Neck, Neck : Choker, Choker
+8_neck/1_silver_chain.png, Neck, Neck : Silver Chain, Silver Chain
+8_neck/2_gold_chain.png, Neck, Neck : Gold Chain, Gold Chain
+8_neck/3_none.png, Neck, Neck : None,
+9_clothes/0_evolved_alien_nood.png, Clothes, Clothes : evolved alien nood, evolved alien nood
+9_clothes/1_mcdonalds.png, Clothes, Clothes : McDonalds, McDonalds
+9_clothes/2_kings_robe.png, Clothes, Clothes : Kings Robe, Kings Robe
+9_clothes/3_pimp_coat.png, Clothes, Clothes : Pimp Coat, Pimp Coat
+9_clothes/4_toga.png, Clothes, Clothes : Toga, Toga
+9_clothes/5_payc_t_black.png, Clothes, Clothes : PAYC T Black, PAYC T Black
+9_clothes/6_black_holes_t.png, Clothes, Clothes : Black Holes T, Black Holes T
+9_clothes/7_rainbow_suspenders.png, Clothes, Clothes : Rainbow Suspenders, Rainbow Suspenders
+9_clothes/8_tuxedo_t.png, Clothes, Clothes : Tuxedo T, Tuxedo T
+9_clothes/9_guayabera.png, Clothes, Clothes : Guayabera, Guayabera
+9_clothes/10_smoking_jacket.png, Clothes, Clothes : Smoking Jacket, Smoking Jacket
+9_clothes/11_tanktop.png, Clothes, Clothes : Tanktop, Tanktop
+9_clothes/12_hawaiian.png, Clothes, Clothes : Hawaiian, Hawaiian
+9_clothes/13_sailor_shirt.png, Clothes, Clothes : Sailor Shirt, Sailor Shirt
+9_clothes/14_payc_t_red.png, Clothes, Clothes : PAYC T Red, PAYC T Red
+9_clothes/15_lumberjack_shirt.png, Clothes, Clothes : Lumberjack Shirt, Lumberjack Shirt
+9_clothes/16_bone_t.png, Clothes, Clothes : Bone T, Bone T
+9_clothes/17_prison_jumpsuit.png, Clothes, Clothes : Prison Jumpsuit, Prison Jumpsuit
+9_clothes/18_biker_vest.png, Clothes, Clothes : Biker Vest, Biker Vest
+9_clothes/19_wool_turtleneck.png, Clothes, Clothes : Wool Turtleneck, Wool Turtleneck
+9_clothes/20_sleeveless_t.png, Clothes, Clothes : Sleeveless T, Sleeveless T
+9_clothes/21_black_t.png, Clothes, Clothes : Black T, Black T
+9_clothes/22_striped_t.png, Clothes, Clothes : Striped T, Striped T
+9_clothes/23_nood.png, Clothes, Clothes : nood, nood
+10_fur/0_alien.png, Fur, Fur : Alien, Alien
+10_fur/1_solid_gold.png, Fur, Fur : Solid Gold, Solid Gold
+10_fur/2_trippy.png, Fur, Fur : Trippy, Trippy
+10_fur/3_noise.png, Fur, Fur : Noise, Noise
+10_fur/4_death_bot.png, Fur, Fur : Death Bot, Death Bot
+10_fur/5_dmt.png, Fur, Fur : DMT, DMT
+10_fur/6_robot.png, Fur, Fur : Robot, Robot
+10_fur/7_zombie.png, Fur, Fur : Zombie, Zombie
+10_fur/8_white.png, Fur, Fur : White, White
+10_fur/9_cheetah.png, Fur, Fur : Cheetah, Cheetah
+10_fur/10_red.png, Fur, Fur : Red, Red
+10_fur/11_blue.png, Fur, Fur : Blue, Blue
+10_fur/12_gray.png, Fur, Fur : Gray, Gray
+10_fur/13_pink.png, Fur, Fur : Pink, Pink
+10_fur/14_cream.png, Fur, Fur : Cream, Cream
+10_fur/15_tan.png, Fur, Fur : Tan, Tan
+10_fur/16_black.png, Fur, Fur : Black, Black
+10_fur/17_golden_brown.png, Fur, Fur : Golden Brown, Golden Brown
+10_fur/18_brown.png, Fur, Fur : Brown, Brown
+10_fur/19_dark_brown.png, Fur, Fur : Dark Brown, Dark Brown
+11_background/0_punk_blue.png, Background, Background : Punk blue, Solid Punk blue
+11_background/1_gray.png, Background, Background : Gray, Solid Gray
+11_background/2_yellow.png, Background, Background : Yellow, Solid Yellow
+11_background/3_purple.png, Background, Background : Purple, Solid Purple
+11_background/4_blue.png, Background, Background : Blue, Solid Blue
+11_background/5_navy_green.png, Background, Background : Navy Green, Solid Navy Green
+11_background/6_aquamarine.png, Background, Background : Aquamarine, Solid Aquamarine
+11_background/7_orange.png, Background, Background : Orange, Solid Orange
+12_soul/0_50_punk_50_ape.png, Soul, Soul : 50% Punk 50% Ape, 50% Punk 50% Ape
+12_soul/1_80_punk_20_ape.png, Soul, Soul : 80% Punk 20% Ape, 80% Punk 20% Ape
+12_soul/2_20_punk_80_ape.png, Soul, Soul : 20% Punk 80% Ape, 20% Punk 80% Ape
+12_soul/3_10_punk_90_ape.png, Soul, Soul : 10% Punk 90% Ape, 10% Punk 90% Ape
+12_soul/4_90_punk_10_ape.png, Soul, Soul : 90% Punk 10% Ape, 90% Punk 10% Ape
+12_soul/5_25_punk_25_ape.png, Soul, Soul : 25% Punk 25% Ape, 25% Punk 25% Ape
+13_flex/0_i_have_61_apes.png, Flex, Flex : I have 61 Apes, I have 61 Apes
+13_flex/1_i_am_one_of_zagabonds_secret_identities.png, Flex, Flex : I am one of Zagabond's secret identities, I am one of Zagabond's secret identities
+13_flex/2_minted_a_gold_ape.png, Flex, Flex : Minted a Gold Ape, Minted a Gold Ape
+13_flex/3_i_flipped_my_way_from_1eth_to_1000eth_and_wrote_a_thread_about_it.png, Flex, Flex : I flipped my way from .1ETH to 1000ETH and wrote a thread about it, I flipped my way from .1ETH to 1000ETH and wrote a thread about it
+13_flex/4_still_holding_the_punks_i_minted.png, Flex, Flex : Still holding the punks I minted, Still holding the punks I minted
+13_flex/5_made_my_fortune_in_early_bitcoin.png, Flex, Flex : Made my fortune in early Bitcoin, Made my fortune in early Bitcoin
+13_flex/6_i_got_on_the_yoot_list.png, Flex, Flex : I got on the Yoot list, I got on the Yoot list
+13_flex/7_ive_had_sex_in_the_past_year.png, Flex, Flex : I've had sex in the past year, I've had sex in the past year
+13_flex/8_i_predicted_the_luna_collapse.png, Flex, Flex : I predicted the LUNA collapse, I predicted the LUNA collapse
+13_flex/9_i_minted_a_punkayc.png, Flex, Flex : I minted a PUNKAYC, I minted a PUNKAYC
+13_flex/10_got_nuthin_to_flex.png, Flex, Flex : Got nuthin to flex, Got nuthin to flex

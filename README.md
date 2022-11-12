@@ -236,6 +236,25 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
 
 
 
+### Punk Apes Yacht Club (in 24×24px)
+
+[170 Attributes (incl. Nones) in 14 Categories](punkapesyachtclub/spritesheet-24x24.csv):
+
+![](punkapesyachtclub/spritesheet-24x24.png)
+
+
+### Punkin Spicies (in 24×24px)
+
+[113 Attributes (incl. Nones) in 9 Categories](punkinspicies/spritesheet-24x24.csv):
+
+![](punkinspicies/spritesheet-24x24.png)
+
+
+
+
+
+
+
 
 ## Questions? Comments?
 

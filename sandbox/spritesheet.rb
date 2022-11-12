@@ -24,7 +24,11 @@ end
 # basedir = './nfl'
 # basedir = './nomads'
 # basedir = './phunkapeorigins'
-basedir = './proofofpepe'
+# basedir = './proofofpepe'
+# basedir = './punkapesyachtclub'
+basedir = './punkinspicies'
+
+
 
 
 config = read_yaml( "#{basedir}/collection.yml" )
