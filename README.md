@@ -156,6 +156,25 @@ Voila!
 ![](chopper/spritesheet-24x24.png)
 
 
+Samples:
+
+- SOLID BLUE,  AQUA, HAT 22, SMOKER, 3D, BANANA
+- SOLID GOLD, AP3, HAT CHOPPER, NON-SMOKER, BIG SHADES, GOLDEN
+- SOLID BLACK, MIDNIGHT, HAT 10, SMOKER, CLASSIC SHADES, DIAMOND CROSS
+
+![](i/chopper0.png)
+![](i/chopper1.png)
+![](i/chopper2.png)
+
+4x:
+
+![](i/chopper0@4x.png)
+![](i/chopper1@4x.png)
+![](i/chopper2@4x.png)
+
+
+
+
 
 ### Dank Punks (in 24×24px)
 
@@ -182,6 +201,24 @@ to convert to a "static" attribute in the .png format.
 [69 Attributes in 8 Categories](fuks/spritesheet-24x24.csv):
 
 ![](fuks/spritesheet-24x24.png)
+
+Samples:
+
+- Robot Fuk, Shaved, Purple Hair, Nose, Vape, VR, No Earrings, Diamond Chain
+- Undead Fuk, Shaved, Messy Hair, Nose, Smile, Laser, Diamond Stud, Silver Chain
+- Human Fuk, Chin Strap, Fast Food Cap, Nose, Grin, Nerd Glasses, No Earrings, No Chains
+
+![](i/fuks0.png)
+![](i/fuks1.png)
+![](i/fuks2.png)
+
+4x:
+
+![](i/fuks0@4x.png)
+![](i/fuks1@4x.png)
+![](i/fuks2@4x.png)
+
+
 
 
 ### Inverse Punks (in 24×24px)
@@ -242,6 +279,25 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
 
 ![](punkapesyachtclub/spritesheet-24x24.png)
 
+Samples:
+
+- Solid Gray, Black, Prison Jumpsuit, Top Hat, Green Eye Shadow, Cigarette With Hot Lipstick, Silver Loop
+- Solid Orange, Trippy, Biker Vest, Silver Chain, Pink With Hat, Clown Eyes Green, Frown, Silver Stud
+- Solid Purple, Zombie, Tanktop, Orange Side, 3D Glasses, Frown
+
+![](i/punkapesyachtclub0.png)
+![](i/punkapesyachtclub1.png)
+![](i/punkapesyachtclub2.png)
+
+4x:
+
+![](i/punkapesyachtclub0@4x.png)
+![](i/punkapesyachtclub1@4x.png)
+![](i/punkapesyachtclub2@4x.png)
+
+
+
+
 
 ### Punkin Spicies (in 24×24px)
 
@@ -249,8 +305,21 @@ Note:  Some backgrounds (from chain runners) are in 32×32px - CANNOT
 
 ![](punkinspicies/spritesheet-24x24.png)
 
+Samples:
 
+- Wine Soaked Sky, Frankensteins Monster, Bride, Choker, Vape, Bloodtears, Mole, Hoopearring
+- Wine Soaked Sky, Demon, Darkhair, Goldchain, Knife, Hoopearring
+- Wine Soaked Sky, Jack O Lantern, Bride, Bloodtears
 
+![](i/punkinspicies0.png)
+![](i/punkinspicies1.png)
+![](i/punkinspicies2.png)
+
+4x:
+
+![](i/punkinspicies0@4x.png)
+![](i/punkinspicies1@4x.png)
+![](i/punkinspicies2@4x.png)
 
 
 
