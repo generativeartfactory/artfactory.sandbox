@@ -143,15 +143,15 @@ Samples:
 - Solid Blue, Olive Guy, Orange Collar, Face Mask, Yellow Ponytail, Green, Long Green
 - Solid Green, Jacket  White, Purple Alien Girl, Pink Collar, Neutral, Pink Bob, Sunset Shades
 
-![](i/aliensvsspunks0.png)
-![](i/aliensvsspunks1.png)
-![](i/aliensvsspunks2.png)
+![](i/aliensvspunks0.png)
+![](i/aliensvspunks1.png)
+![](i/aliensvspunks2.png)
 
 4x:
 
-![](i/aliensvsspunks0@4x.png)
-![](i/aliensvsspunks1@4x.png)
-![](i/aliensvsspunks2@4x.png)
+![](i/aliensvspunks0@4x.png)
+![](i/aliensvspunks1@4x.png)
+![](i/aliensvspunks2@4x.png)
 
 
 
