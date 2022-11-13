@@ -1,0 +1,34 @@
+{
+  "name": "Aloha Chi-Chi Onchain #6",
+  "description": "A fully onchain generative pixel art collection of 1500 Chi-Chis that live Aloha.",
+  "attributes": [
+    {
+      "trait_type": "headwear&1/1s",
+      "value": "Shave Ice"
+    },
+    {
+      "trait_type": "eyes",
+      "value": " xx"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "Lei"
+    },
+    {
+      "trait_type": "wearables",
+      "value": "Camo Tshirt"
+    },
+    {
+      "trait_type": "fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "background",
+      "value": "Morning Glow"
+    }
+  ]
+}
