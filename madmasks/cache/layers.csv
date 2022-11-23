@@ -1,0 +1,152 @@
+index, name, type, hide
+0/0, Mega Minister, image/png, false
+0/1, Mega Masker, image/png, false
+0/2, Mega Mage, image/png, false
+0/3, Mega Magistrate, image/png, false
+0/4, Mega Mapper, image/png, false
+0/5, Mega Matchmaker, image/png, false
+0/6, Mega Medic, image/png, false
+0/7, Mega Machinist, image/png, false
+0/8, Mega Member, image/png, false
+0/9, Mega Mercenary, image/png, false
+0/10, Mega Merchant, image/png, false
+0/11, Mega Miner, image/png, false
+0/12, None, image/png, true
+1/0, Blank, image/png, true
+1/1, Stim Pack, image/png, false
+1/2, Sparkle, image/png, false
+1/3, Parasite, image/png, false
+1/4, 3D Glasses, image/png, false
+1/5, Space Helmet, image/png, false
+1/6, Augmented, image/png, false
+1/7, Noggles Pink, image/png, false
+1/8, Noggles Cyan, image/png, false
+1/9, Decay, image/png, false
+1/10, Pipe, image/png, false
+1/11, Medallion, image/png, false
+1/12, Chrome, image/png, false
+1/13, Crown, image/png, false
+1/14, Cigar, image/png, false
+1/15, None, image/png, true
+2/0, Blank, image/png, true
+2/1, Machinist Ancient, image/png, false
+2/2, Machinist Neutral, image/png, false
+2/3, Machinist Pop, image/png, false
+2/4, Mage Ancient, image/png, false
+2/5, Mage Neutral, image/png, false
+2/6, Mage Pop, image/png, false
+2/7, Magistrate Ancient, image/png, false
+2/8, Magistrate Neutral, image/png, false
+2/9, Magistrate Pop, image/png, false
+2/10, Mapper Ancient, image/png, false
+2/11, Mapper Neutral, image/png, false
+2/12, Mapper Pop, image/png, false
+2/13, Masker Ancient, image/png, false
+2/14, Masker Neutral, image/png, false
+2/15, Masker Pop, image/png, false
+2/16, Matchmaker Ancient, image/png, false
+2/17, Matchmaker Neutral, image/png, false
+2/18, Matchmaker Pop, image/png, false
+2/19, Medic Ancient, image/png, false
+2/20, Medic Neutral, image/png, false
+2/21, Medic Pop, image/png, false
+2/22, Member Ancient, image/png, false
+2/23, Member Neutral, image/png, false
+2/24, Member Pop, image/png, false
+2/25, Mercenary Ancient, image/png, false
+2/26, Mercenary Neutral, image/png, false
+2/27, Mercenary Pop, image/png, false
+2/28, Merchant Ancient, image/png, false
+2/29, Merchant Neutral, image/png, false
+2/30, Merchant Pop, image/png, false
+2/31, Miner Ancient, image/png, false
+2/32, Miner Neutral, image/png, false
+2/33, Miner Pop, image/png, false
+2/34, Minister Ancient, image/png, false
+2/35, Minister Neutral, image/png, false
+2/36, Minister Pop, image/png, false
+2/37, Machinist, image/png, false
+2/38, Mage, image/png, false
+2/39, Magistrate, image/png, false
+2/40, Mapper, image/png, false
+2/41, Matchmaker, image/png, false
+2/42, Medic, image/png, false
+2/43, Member, image/png, false
+2/44, Mercenary, image/png, false
+2/45, Merchant, image/png, false
+2/46, Miner, image/png, false
+2/47, Minister, image/png, false
+2/48, Masker, image/png, false
+3/0, Blank, image/png, true
+3/1, Turtleneck, image/png, false
+3/2, Armor, image/png, false
+3/3, Medallion, image/png, false
+3/4, Shield, image/png, false
+3/5, Bowtie, image/png, false
+3/6, Collar, image/png, false
+3/7, Choker, image/png, false
+3/8, Amulet, image/png, false
+3/9, None, image/png, true
+4/0, Blank, image/png, true
+4/1, Red Bones, image/png, false
+4/2, Black Bones, image/png, false
+4/3, Red, image/png, false
+4/4, Yellow, image/png, false
+4/5, Pink, image/png, false
+4/6, White, image/png, false
+4/7, Seafoam, image/png, false
+4/8, Orange, image/png, false
+4/9, Cobalt, image/png, false
+4/10, Green, image/png, false
+4/11, Blue, image/png, false
+4/12, Grey, image/png, false
+4/13, Purple, image/png, false
+4/14, Black, image/png, false
+5/0, Blank, image/png, true
+5/1, MM, image/png, false
+5/2, PP, image/png, false
+5/3, 010, image/png, false
+5/4, XF, image/png, false
+5/5, XY, image/png, false
+5/6, XX, image/png, false
+6/0, Blank, image/png, true
+6/1, Emergence, image/png, false
+6/2, Exo, image/png, false
+6/3, Wings, image/png, false
+6/4, Swords, image/png, false
+6/5, Jetpack, image/png, false
+6/6, Hoodie, image/png, false
+6/7, None, image/png, true
+7/0, Blank, image/png, true
+7/1, Text, image/png, false
+7/2, Bluechip, image/png, false
+7/3, Portal, image/png, false
+7/4, ZigZag, image/png, false
+7/5, Swarm, image/png, false
+7/6, Aura, image/png, false
+7/7, Morse, image/png, false
+7/8, Dust, image/png, false
+7/9, None, image/png, true
+8/0, Blank, image/png, true
+8/1, Chain, image/png, false
+8/2, Fidenza, image/png, false
+8/3, Pattern, image/png, false
+8/4, Modern, image/png, false
+8/5, Rainbow, image/png, false
+8/6, Stars, image/png, false
+8/7, Stripes, image/png, false
+8/8, Birch, image/png, false
+8/9, Soda, image/png, false
+8/10, Dark Mode, image/png, false
+8/11, Grey, image/png, false
+8/12, Lavender, image/png, false
+8/13, Sand, image/png, false
+8/14, Yellow, image/png, false
+8/15, Rose, image/png, false
+8/16, Orange, image/png, false
+8/17, Grapefruit, image/png, false
+8/18, Lime, image/png, false
+8/19, Green, image/png, false
+8/20, Teal, image/png, false
+8/21, Blueish, image/png, false
+8/22, Blue, image/png, false

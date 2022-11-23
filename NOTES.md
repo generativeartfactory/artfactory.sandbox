@@ -27,3 +27,10 @@ add more (on-chain) collections  - why? why not?
 >
 > Only 12 of these incredibly rare and elusive 1/1s exist in the collection.
 
+
+## (On-Chain) Long Live Kevin
+
+
+- <https://opensea.io/collection/long-live-kevin>
+- <https://etherscan.io/address/0x8ae5523f76a5711fb6bdca1566df3f4707aec1c4>
+
