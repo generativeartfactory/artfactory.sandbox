@@ -33,9 +33,8 @@ specs = read_csv( './chichis/chichis.csv' )
 
 specs.each_with_index do |rec, i|
 
-  attributes = rec.to_a
   ## cut-off first id column and reverse order
-  attributes = attributes[1..-1].reverse
+  attributes = rec.to_a[1..-1].reverse
   attributes = attributes.map {|k,v| "#{k} : #{v}"}
 
   img = chichis.generate( *attributes )

@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #42",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Cyclops"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Long Bob"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pink Collar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien Guy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    }
+  ]
+}

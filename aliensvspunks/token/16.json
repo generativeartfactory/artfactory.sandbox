@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #16",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Googles"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Orange Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Neon Shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange Bob"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Collar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Beige Guy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

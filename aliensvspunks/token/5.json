@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #5",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Pink Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Cyclops"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Sleek"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Nose Ring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Alien Guy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

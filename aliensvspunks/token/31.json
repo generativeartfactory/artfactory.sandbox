@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #31",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Googles"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Purple Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orange Cyclops"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange Topknot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Orange Collar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Alien Guy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

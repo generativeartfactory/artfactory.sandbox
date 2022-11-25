@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #26",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Indigo Eye Patch"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Face Mask"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Alien Guy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

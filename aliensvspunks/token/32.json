@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #32",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Cowl"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Blue Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Makeup"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Ponytail"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Electric Scar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pink Collar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Beige Girl"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    }
+  ]
+}

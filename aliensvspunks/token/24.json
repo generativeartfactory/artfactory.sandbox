@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #24",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Blue Antennae"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Long Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Ponytail"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Purple Collar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Clown Guy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    }
+  ]
+}

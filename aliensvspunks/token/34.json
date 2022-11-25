@@ -1,0 +1,48 @@
+{
+  "name": "Aliens vs Punks #34",
+  "description": "On-chain CC0 lore driven collection about the fight against the end of the world.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Diamond Tiara"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Blue Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink Long Bob"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bronze Girl"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    }
+  ]
+}

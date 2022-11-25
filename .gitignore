@@ -5,3 +5,9 @@ tmp/
 tmp2/
 tmp3/
 
+
+##############
+#  exclude all token-i(mage) directories
+token-i/
+
+
