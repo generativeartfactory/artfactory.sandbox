@@ -1,0 +1,32 @@
+{
+  "name": "EdgePunks #24",
+  "description": "TEF is a mysterious community that participates in the development of web3 communities and actors. | The EdgePunks grants access to TEF hubs. | CC0 & On-Chain.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "EYES",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Small Horns"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Fangs"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Dark Robe"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Dark Green Lizard"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Pink"
+    }
+  ]
+}

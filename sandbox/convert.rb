@@ -5,8 +5,45 @@ require 'cocos'
 
 
 
+def fill_row( attributes, headers: )
 
-def convert( basedir )
+  # map attributes to (lookup) hash
+  h = {}
+  attributes.each do |attrib|
+     key   = attrib[0].downcase
+     value = attrib[1]
+
+     if h.has_key?( key )
+       puts "!! WARN - duplicate key >#{key}< in rec:"
+       pp attributes
+       h[key] << value
+     else
+       h[key] = [value]
+     end
+  end
+
+  values = []
+  ## fill-up values in order of headers
+
+  headers.each do |header|
+    value = h.delete( header.downcase ) || []
+    values <<     value.join( ' | ' )   ## auto-support multiple values for now - why? why not?
+  end
+
+  if h.size > 0
+    puts "!! ERRROR - unknown keys (left-over) in rec:"
+    pp h
+    exit 1
+  end
+
+  values
+end
+
+
+
+
+def convert( basedir, headers: nil )
+
    tokens = Dir.glob( "#{basedir}/token/*.json" )
    puts "   #{tokens.size} token record(s)"
 
@@ -18,7 +55,6 @@ def convert( basedir )
                      end
 
 
-  headers = nil
   recs    = []
 
   tokens.each_with_index do |path,i|
@@ -38,22 +74,13 @@ def convert( basedir )
                    ]
     end
 
-    keys    = attributes.map { |attrib| attrib[0] }
-    values  = attributes.map { |attrib| attrib[1] }
 
-    if i==0
-       ## setup headers
-       headers = keys
-    else
-      ## double check for matching headers
-      if headers != keys
-        puts "!! ERROR - sorry headers NOT matching in token record:"
-        pp headers
-        pp keys
-        pp attributes
-        exit 1
-      end
+    if i==0 && headers.nil?
+       ## setup auto-header headers
+       headers = attributes.map { |attrib| attrib[0] }
     end
+
+    values = fill_row( attributes, headers: headers )
 
     recs << [id.to_s] + values
     pp attributes
@@ -82,12 +109,16 @@ end
 # basedir = "./aliensvspunks"
 # basedir = "./chichis"
 # basedir = "./chopper"
-basedir = "./dankpunks"
+# basedir = "./dankpunks"
+# basedir = "./edgepunks"
+#  ++  headers = ['1/1','Eyes','Hat','Mouth','Clothes','Body','Background' ]
+basedir = "fuks"
+
 # basedir = "./marcs"
 # basedir = "./punkinspicies"
 # basedir = "./madcamels"
 
-convert( basedir )
+convert( basedir, headers: nil )
 
 
 puts "bye"

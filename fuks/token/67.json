@@ -1,0 +1,40 @@
+{
+  "name": "Cryptofuks #67",
+  "description": "Cryptofuks is a generative 7777 piece, 100% on-chain NFT collection.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Clown Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Shaved"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human Fuk"
+    }
+  ]
+}

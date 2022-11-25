@@ -7,8 +7,9 @@
 ![](i/aliensvspunks-strip.png "Aliens vs Punks (in 24×24px)") -
 ![](i/chichis-strip.png "Chi Chis (in 32×32px)") -
 ![](i/chopper-strip.png "Chopper (in 24×24px)") -
-![](i/dankpunks-strip.png "Dank Punks (in 24×24px)")
-
+![](i/dankpunks-strip.png "Dank Punks (in 24×24px)") -
+![](i/edgepunks-strip.png "Edge Punks (in 24×24px)") -
+![](i/fuks-strip.png "Fuks (in 24×24px)")
 
 
 
