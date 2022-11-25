@@ -1,9 +1,16 @@
 # Artfactory Sandbox (& Cache)  - Quick & Dirty "One-Off" Scripts To Download Complete Artwork Layers for ("On-Blockchain") Collections for Easy (Re)use ("Off-Blockchain")
 
 
-
-
 ## "Right-Click & Save This" Spritesheets  - What's News?
+
+
+Aliens vs Punks (in 24×24px) ![](i/aliensvspunks-strip.png)
+Chi Chis (in 32×32px) ![](i/chichis-strip.png)
+Chopper (in 24×24px)  ![](i/chopper-strip.png)
+Dank Punks (in 24×24px)  ![](i/dankpunks-strip.png)
+
+
+
 
 
 ### Aliens vs Punks (in 24×24px)
