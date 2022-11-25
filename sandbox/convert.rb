@@ -79,11 +79,13 @@ def convert( basedir )
 end
 
 
+# basedir = "./aliensvspunks"
 # basedir = "./chichis"
+# basedir = "./chopper"
+basedir = "./dankpunks"
 # basedir = "./marcs"
 # basedir = "./punkinspicies"
 # basedir = "./madcamels"
-basedir = "./aliensvspunks"
 
 convert( basedir )
 

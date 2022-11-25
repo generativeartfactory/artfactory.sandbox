@@ -1,0 +1,40 @@
+{
+  "name": "Dank Punks #26",
+  "description": "The dankest punks you'll ever see. Charity project. Supply: 999",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Honorary",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ok"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Clown"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Black Knitted Hat"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Contrast"
+    }
+  ]
+}
