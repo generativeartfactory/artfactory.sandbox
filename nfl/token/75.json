@@ -1,0 +1,36 @@
+{
+  "name": "Non Fungible League #75",
+  "description": "2500 Non-fungible football players stored 100% on-chain, no roadmap just football, a collection by @Ben0xf",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Star Player",
+      "value": "No"
+    },
+    {
+      "trait_type": "Helmet Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jersey Number",
+      "value": "41"
+    },
+    {
+      "trait_type": "Team",
+      "value": "New York 2"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base 2"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea Foam Green"
+    }
+  ]
+}

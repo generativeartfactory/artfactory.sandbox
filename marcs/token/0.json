@@ -1,6 +1,8 @@
 {
   "name": "Crypto Marcs #0",
   "description": "A collection of 5k CryptoMarcs fully On-Chain - Seizing the memes of production",
+  "svg_image_data": "...",
+  "image_data": "...",
   "attributes": [
     {
       "trait_type": "1/1",

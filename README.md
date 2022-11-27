@@ -10,6 +10,9 @@
 ![](i/dankpunks-strip.png "Dank Punks (in 24×24px)") -
 ![](i/edgepunks-strip.png "Edge Punks (in 24×24px)") -
 ![](i/fuks-strip.png "Fuks (in 24×24px)")
+![](i/nfl-strip.png "NFL (in 23×23px)")
+![](i/madcamels-strip.png "Mad Camels (in 32×32px)")
+![](i/marcs-strip.png "Marcs (in 24×24px)")
 
 
 

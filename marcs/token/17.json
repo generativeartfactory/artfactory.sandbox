@@ -1,0 +1,56 @@
+{
+  "name": "Crypto Marcs #17",
+  "description": "A collection of 5k CryptoMarcs fully On-Chain - Seizing the memes of production",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviators"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Purple T Shirt"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Diamond Earring"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Marc Type",
+      "value": "Marc 3"
+    }
+  ]
+}

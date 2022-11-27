@@ -1,0 +1,55 @@
+{
+  "name": "Crypto Marcs #96",
+  "description": "A collection of 5k CryptoMarcs fully On-Chain - Seizing the memes of production",
+  "image": "https://app.indeliblelabs.io/api/png/0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0/96?dna=021002008004017025000002004002011007&network=mainnet",
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hookah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Marc"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Marc Type",
+      "value": "Marc 4"
+    }
+  ]
+}

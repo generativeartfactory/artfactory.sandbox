@@ -1,6 +1,8 @@
 {
   "name": "Mad Camels #3",
   "description": "Fully on-chain NFT collection of 4500 items.",
+  "svg_image_data": "...",
+  "image_data": "...",
   "attributes": [
     {
       "trait_type": "Mouth Accessory",

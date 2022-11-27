@@ -1,0 +1,40 @@
+{
+  "name": "Mad Camels #91",
+  "description": "Fully on-chain NFT collection of 4500 items.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Face Spot",
+      "value": "None"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

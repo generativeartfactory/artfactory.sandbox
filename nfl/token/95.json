@@ -1,0 +1,35 @@
+{
+  "name": "Non Fungible League #95",
+  "description": "2500 Non-fungible football players stored 100% on-chain, no roadmap just football, a collection by @Ben0xf",
+  "image": "https://app.indelible.xyz/api/png/0xa3bfe256f70f98644b86338df9fcbccd65560e58/95?dna=041001003020017008005&network=mainnet",
+  "attributes": [
+    {
+      "trait_type": "Star Player",
+      "value": "No"
+    },
+    {
+      "trait_type": "Helmet Accessory",
+      "value": "Laser Eyes Blue"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Light Beard"
+    },
+    {
+      "trait_type": "Jersey Number",
+      "value": "6"
+    },
+    {
+      "trait_type": "Team",
+      "value": "New York"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base 3"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sideline"
+    }
+  ]
+}

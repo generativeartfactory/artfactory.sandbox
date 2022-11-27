@@ -1,0 +1,36 @@
+{
+  "name": "Non Fungible League #55",
+  "description": "2500 Non-fungible football players stored 100% on-chain, no roadmap just football, a collection by @Ben0xf",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Star Player",
+      "value": "No"
+    },
+    {
+      "trait_type": "Helmet Accessory",
+      "value": "Clear Visor"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Jersey Number",
+      "value": "41"
+    },
+    {
+      "trait_type": "Team",
+      "value": "Los Angeles 2"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base 3"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

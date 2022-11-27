@@ -1,0 +1,40 @@
+{
+  "name": "Mad Camels #72",
+  "description": "Fully on-chain NFT collection of 4500 items.",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Neck Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Laser Eye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "White Shemagh"
+    },
+    {
+      "trait_type": "Face Spot",
+      "value": "None"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    }
+  ]
+}

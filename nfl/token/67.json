@@ -1,0 +1,36 @@
+{
+  "name": "Non Fungible League #67",
+  "description": "2500 Non-fungible football players stored 100% on-chain, no roadmap just football, a collection by @Ben0xf",
+  "svg_image_data": "...",
+  "image_data": "...",
+  "attributes": [
+    {
+      "trait_type": "Star Player",
+      "value": "No"
+    },
+    {
+      "trait_type": "Helmet Accessory",
+      "value": "Red Visor"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Black Beard"
+    },
+    {
+      "trait_type": "Jersey Number",
+      "value": "1"
+    },
+    {
+      "trait_type": "Team",
+      "value": "San Francisco"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base 4"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Goal Line"
+    }
+  ]
+}
