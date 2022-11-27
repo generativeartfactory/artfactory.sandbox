@@ -28,6 +28,19 @@ Step 3 - Generate (preview) strip (composite)
 
 add - why? why not?
 
+
+### Skulls
+
+- <https://etherscan.io/address/0x9251dec8df720c2adf3b6f46d968107cbbadf4d4>
+- <>
+
+
+### DOS Phunks
+
+- <https://etherscan.io/address/0x7c2af580f37c23270dd7c52765073c1601c4ad33>
+- <https://opensea.io/collection/dos-phunks-nft>
+
+
 ### CryptoTeddies
 
 - <https://opensea.io/collection/cryptobabyteddies>
