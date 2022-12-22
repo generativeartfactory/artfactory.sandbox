@@ -1,0 +1,227 @@
+index, name, type, hide
+0/0, Scout, image/png, false
+0/1, Juggernaut Omega, image/png, false
+0/2, Juggernaut, image/png, false
+0/3, Infantry, image/png, false
+0/4, Spec Ops, image/png, false
+0/5, Heavy Assault, image/png, false
+0/6, Demolitions, image/png, false
+0/7, APE BOT, image/png, false
+0/8, Phunk-3PO, image/png, false
+0/9, Skelly BOT, image/png, false
+0/10, Phender, image/png, false
+0/11, Light Assault, image/png, false
+0/12, Terminator, image/png, false
+0/13, None, image/png, true
+1/0, Juggernaut-ELITE, image/png, true
+1/1, Terminator-ELITE, image/png, true
+1/2, Heavy Assault-ELITE, image/png, true
+1/3, Infantry-ELITE, image/png, true
+1/4, Scout-ELITE, image/png, true
+1/5, Spec Ops-ELITE, image/png, true
+1/6, Demolitions-ELITE, image/png, true
+1/7, Light Assault-ELITE, image/png, true
+1/8, Alien, image/png, false
+1/9, Ape, image/png, false
+1/10, Yeti, image/png, false
+1/11, Alien, image/png, false
+1/12, Yeti, image/png, false
+1/13, Ape, image/png, false
+1/14, Zombie, image/png, false
+1/15, Ape, image/png, false
+1/16, Ape, image/png, false
+1/17, Ape, image/png, false
+1/18, Ape, image/png, false
+1/19, Ape, image/png, false
+1/20, Ape, image/png, false
+1/21, Ape, image/png, false
+1/22, Ape, image/png, false
+1/23, Zombie, image/png, false
+1/24, Gold, image/png, false
+1/25, No, image/png, true
+1/26, No, image/png, true
+1/27, No, image/png, true
+1/28, No, image/png, true
+2/0, Juggernaut-ELITE, image/png, true
+2/1, Terminator-ELITE, image/png, true
+2/2, Heavy Assault-ELITE, image/png, true
+2/3, Infantry-ELITE, image/png, true
+2/4, Scout-ELITE, image/png, true
+2/5, Spec Ops-ELITE, image/png, true
+2/6, Demolitions-ELITE, image/png, true
+2/7, Light Assault-ELITE, image/png, true
+2/8, None, image/png, true
+2/9, 0x-R2, image/png, false
+2/10, 0x-R6, image/png, false
+2/11, 0x-R8, image/png, false
+2/12, Bounty Hunter, image/png, false
+2/13, Bounty Hunter, image/png, false
+2/14, Red, image/png, false
+2/15, Spectrum, image/png, false
+2/16, Yellow, image/png, false
+2/17, VR, image/png, false
+2/18, Laser Vision, image/png, false
+2/19, Night Vision, image/png, false
+2/20, Tri-Optics v1, image/png, false
+2/21, Tri-Optics v2, image/png, false
+2/22, Scope, image/png, false
+2/23, 2048 Sensor, image/png, false
+2/24, Grey Shield, image/png, false
+2/25, Grey, image/png, false
+2/26, Anti-Glare v2, image/png, false
+2/27, Phunk, image/png, false
+2/28, Thermal, image/png, false
+2/29, Drowsy, image/png, false
+2/30, Anti-Glare v1, image/png, false
+2/31, Infrared, image/png, false
+2/32, Uni-Optics, image/png, false
+2/33, Origins Visor, image/png, false
+2/34, Leer, image/png, false
+2/35, Bot, image/png, false
+2/36, Black Shield, image/png, false
+2/37, Yellow, image/png, false
+2/38, Blue, image/png, false
+2/39, Red Shield, image/png, false
+2/40, Grey Visor, image/png, false
+2/41, Yellow Visor, image/png, false
+2/42, Green Visor, image/png, false
+2/43, Green, image/png, false
+2/44, Black Visor, image/png, false
+2/45, Blue Visor, image/png, false
+2/46, Red, image/png, false
+2/47, Red Visor, image/png, false
+3/0, Juggernaut-ELITE, image/png, true
+3/1, Terminator-ELITE, image/png, true
+3/2, Heavy Assault-ELITE, image/png, true
+3/3, Infantry-ELITE, image/png, true
+3/4, Scout-ELITE, image/png, true
+3/5, Spec Ops-ELITE, image/png, true
+3/6, Demolitions-ELITE, image/png, true
+3/7, Light Assault-ELITE, image/png, true
+3/8, R-Series, image/png, false
+3/9, Tungsten Blast Hoodie, image/png, false
+3/10, Chromium Blast Hoodie, image/png, false
+3/11, Blast Cap, image/png, false
+3/12, Titanium Blast Hoodie, image/png, false
+3/13, Bandana, image/png, false
+3/14, Head Light, image/png, false
+3/15, Welded Cap, image/png, false
+3/16, Durag, image/png, false
+3/17, Antenna , image/png, false
+3/18, None, image/png, true
+4/0, 0xM45K-002, image/png, false
+4/1, 0xM45K-001, image/png, false
+4/2, Juggernaut-ELITE, image/png, true
+4/3, Terminator-ELITE, image/png, true
+4/4, Heavy Assault-ELITE, image/png, true
+4/5, Infantry-ELITE, image/png, true
+4/6, Scout-ELITE, image/png, true
+4/7, Spec Ops-ELITE, image/png, true
+4/8, Demolitions-ELITE, image/png, true
+4/9, Light Assault-ELITE, image/png, true
+4/10, 0xTiChTu-001, image/png, false
+4/11, 0xTuChTi-001, image/png, false
+4/12, 0xTuTi-001, image/png, false
+4/13, 0xChTi-001, image/png, false
+4/14, 0xTuCh-001, image/png, false
+4/15, 0xCh-002, image/png, false
+4/16, 0xTi-001, image/png, false
+4/17, 0xTi-003, image/png, false
+4/18, 0xTi-002, image/png, false
+4/19, 0xTu-002, image/png, false
+4/20, 0xTi-004, image/png, false
+4/21, 0xTu-003, image/png, false
+4/22, 0xTu-004, image/png, false
+4/23, 0xCh-001, image/png, false
+4/24, 0xTu-001, image/png, false
+4/25, 0xCH-004, image/png, false
+4/26, 0xCH-003, image/png, false
+4/27, None, image/png, true
+5/0, Juggernaut-ELITE, image/png, true
+5/1, Terminator-ELITE, image/png, true
+5/2, Heavy Assault-ELITE, image/png, true
+5/3, Infantry-ELITE, image/png, true
+5/4, Scout-ELITE, image/png, true
+5/5, Spec Ops-ELITE, image/png, true
+5/6, Demolitions-ELITE, image/png, true
+5/7, Light Assault-ELITE, image/png, true
+5/8, 0xC4G3-Tu-003, image/png, false
+5/9, 0xC4G3-Tu-002, image/png, false
+5/10, 0xC4G3-Ti-001, image/png, false
+5/11, 0xV3NT-002, image/png, false
+5/12, 0xG4T3-001, image/png, false
+5/13, 0xG4T3-002, image/png, false
+5/14, 0xGR1D-Ti-001, image/png, false
+5/15, 0xGR1D-Ch-001, image/png, false
+5/16, 0xV3NT-001, image/png, false
+5/17, 0xT33-Tu-001, image/png, false
+5/18, 0xT33-Tu-002, image/png, false
+5/19, 0xP0RT-001, image/png, false
+5/20, 0xC4G3-Tu-001, image/png, false
+5/21, 0xV3NT-003, image/png, false
+5/22, 0xP0RTed-001, image/png, false
+5/23, 0xP0RT-Ti-003, image/png, false
+5/24, 0xP0RT-Ti-002, image/png, false
+5/25, 0xP0RT-Ti-004, image/png, false
+5/26, 0xP0RT-Ch-001, image/png, false
+5/27, 0xP0RT-Ti-001, image/png, false
+6/0, Juggernaut-ELITE, image/png, true
+6/1, Terminator-ELITE, image/png, true
+6/2, Heavy Assault-ELITE, image/png, true
+6/3, Infantry-ELITE, image/png, true
+6/4, Scout-ELITE, image/png, true
+6/5, Spec Ops-ELITE, image/png, true
+6/6, Demolitions-ELITE, image/png, true
+6/7, Light Assault-ELITE, image/png, true
+6/8, None, image/png, true
+6/9, 0x-BU11-003, image/png, false
+6/10, 0x-T33-006, image/png, false
+6/11, 0x-T33-005, image/png, false
+6/12, 0x-T33-004, image/png, false
+6/13, 0x-TR1B4L-003, image/png, false
+6/14, 0x-V3NT-003, image/png, false
+6/15, 0x-V3NT-002, image/png, false
+6/16, 0x-TR1B4L-001, image/png, false
+6/17, 0x-L1N3-002, image/png, false
+6/18, 0x-BU11-002, image/png, false
+6/19, 0x-L1N3-001, image/png, false
+6/20, 0x-TD0T-002, image/png, false
+6/21, 0x-5TR1P3-003, image/png, false
+6/22, 0x-TR1B4L-002, image/png, false
+6/23, 0x-TD0T-001, image/png, false
+6/24, 0x-BU11-001, image/png, false
+6/25, 0x-F0RK-002, image/png, false
+6/26, 0x-T33-003, image/png, false
+6/27, 0x-5TR1P3-002, image/png, false
+6/28, 0x-F0RK-001, image/png, false
+6/29, 0x-T33-002, image/png, false
+6/30, 0x-B10CK-002, image/png, false
+6/31, 0x-T33-001, image/png, false
+6/32, 0x-V3NT-001, image/png, false
+6/33, 0x-5TR1P3-001, image/png, false
+6/34, 0x-B10CK-001, image/png, false
+7/0, Infantry, image/png, false
+7/1, Light Assault, image/png, false
+7/2, Heavy Assault, image/png, false
+7/3, Scout, image/png, false
+7/4, Demolitions, image/png, false
+7/5, Spec Ops, image/png, false
+7/6, Juggernaut, image/png, false
+7/7, Terminator, image/png, false
+7/8, Terminator, image/png, false
+7/9, Terminator, image/png, false
+7/10, Spec Ops, image/png, false
+7/11, Demolitions, image/png, false
+7/12, Juggernaut, image/png, false
+7/13, Scout, image/png, false
+7/14, Heavy Assault, image/png, false
+7/15, Light Assault, image/png, false
+7/16, Infantry, image/png, false
+8/0, ELITE, image/png, true
+8/1, Base v1, image/png, true
+8/2, Base v2, image/png, true
+9/0, ELITE, image/png, true
+9/1, Nightfall, image/png, false
+9/2, Dusk, image/png, false
+9/3, Twilight, image/png, false
+9/4, Dawn, image/png, false

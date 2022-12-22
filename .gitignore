@@ -11,3 +11,7 @@ tmp3/
 token-i/
 
 
+##################
+# do NOT check in dev/test enviroment variables in .env (dot env files)
+.env
+

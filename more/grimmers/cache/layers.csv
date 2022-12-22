@@ -1,0 +1,74 @@
+index, name, type, hide
+0/0, Haha, image/png, false
+0/1, Hidden, image/png, true
+1/0, 1/1, image/png, true
+1/1, Lasers, image/png, false
+1/2, Reptile, image/png, false
+1/3, Eye Patch, image/png, false
+1/4, Drowsy, image/png, false
+1/5, High, image/png, false
+1/6, Blood Shot, image/png, false
+1/7, Crying, image/png, false
+1/8, White, image/png, false
+1/9, Hollow, image/png, false
+1/10, Side Eye, image/png, false
+1/11, Black Eye, image/png, false
+1/12, Spooked, image/png, false
+2/0, 1/1, image/png, true
+2/1, Nurse, image/png, false
+2/2, Arrow, image/png, false
+2/3, Headphones, image/png, false
+2/4, Sweat Band, image/png, false
+2/5, Curl, image/png, false
+2/6, Hoodie, image/png, false
+2/7, Antennae, image/png, false
+2/8, Skunk, image/png, false
+2/9, Horns, image/png, false
+2/10, Halo, image/png, false
+2/11, Crown, image/png, false
+2/12, Cowboy Hat, image/png, false
+2/13, Top Hat, image/png, false
+2/14, Balding, image/png, false
+2/15, Widows Peak, image/png, false
+2/16, Long, image/png, false
+2/17, Afro, image/png, false
+2/18, Short, image/png, false
+2/19, Mohawk, image/png, false
+2/20, Bob, image/png, false
+2/21, None, image/png, false
+3/0, 1/1, image/png, true
+3/1, Small, image/png, false
+3/2, Droopy, image/png, false
+3/3, Pointy, image/png, false
+3/4, Holes, image/png, false
+3/5, Big, image/png, false
+4/0, 1/1, image/png, true
+4/1, Blush, image/png, false
+4/2, Glow, image/png, false
+4/3, None, image/png, false
+4/4, Lashes, image/png, false
+5/0, 1/1, image/png, true
+5/1, Smile, image/png, false
+5/2, Stitched, image/png, false
+5/3, Blood, image/png, false
+5/4, Vampire, image/png, false
+5/5, Baby, image/png, false
+5/6, Skull, image/png, false
+5/7, Shook, image/png, false
+5/8, Lips, image/png, false
+5/9, Meh, image/png, false
+6/0, 1/1, image/png, true
+6/1, Severed Head, image/png, false
+6/2, Suit, image/png, false
+6/3, Choker, image/png, false
+6/4, Diamond, image/png, false
+6/5, Hair, image/png, false
+6/6, None, image/png, false
+6/7, Jacket, image/png, false
+6/8, Turtle, image/png, false
+7/0, 1/1, image/png, true
+7/1, Skeleton, image/png, false
+7/2, Zombie, image/png, false
+7/3, Dark, image/png, false
+7/4, Light, image/png, false
+8/0, Light, image/png, false
