@@ -2,6 +2,13 @@
 
 ## ToDos
 
+
+update sandbox/layers.rb script;
+use image type for extension!!
+and rerun/generate on all cache directories;
+make it into a class or such  (LayersCache) - why? why not?
+
+
 query all contract addresses
 for details  via etherscan & co!!!!
 for timeline or such!!!
