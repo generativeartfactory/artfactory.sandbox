@@ -6,7 +6,24 @@
 require 'cocos'
 
 
-collections = ['3dphunks', 'teddies']
+collections = %w[
+  3dphunks
+  3dskulls
+  cherrynouns
+  chimps
+  death
+  dickbutts
+  dosphunks
+  gatekeepers
+  grimmers
+  kevin
+  madmasks
+  people
+  pepes
+  pepitos
+  skulls
+  smiley
+  teddies]
 
 collections.each do |collection|
   puts "==> #{collection}..."
