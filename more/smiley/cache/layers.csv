@@ -44,8 +44,8 @@ index, name, type, hide
 4/4, Squish, image/png, false
 4/5, stripey, image/png, false
 4/6, Smiley , image/png, false
-5/0, #1, image/png, false
-5/1, #2, image/png, false
+5/0, "#1", image/png, false
+5/1, "#2", image/png, false
 5/2, none, image/png, false
 6/0, sun rays, image/gif, false
 6/1, glitch, image/gif, false

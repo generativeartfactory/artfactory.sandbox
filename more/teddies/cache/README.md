@@ -1,5 +1,9 @@
 # Layers in /teddies
 
+By image format (mime type):
+- image/png _(94)_
+
+
 **0** -  Nouns Glasses · C Form · Blue · Green · 3D Glasses · Eye Mask · VR · Small Shades · Eye Patch · Classic Shades · Regular Shades · Horn Rim Glasses · Big Shades · Nerd Glasses · Black  _(15)_ <br>
 ![](0_0.png "0 - Nouns Glasses") 
 ![](0_1.png "1 - C Form") 

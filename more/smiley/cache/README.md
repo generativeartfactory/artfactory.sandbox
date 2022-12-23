@@ -1,5 +1,10 @@
 # Layers in /smiley
 
+By image format (mime type):
+- image/png _(39)_
+- image/gif _(19)_
+
+
 **0** -  Clown · nose nose · round · long · snub  _(5)_ <br>
 ![](0_0.png "0 - Clown") 
 ![](0_1.png "1 - nose nose") 
@@ -60,9 +65,9 @@
 ![](4_6.png "6 - Smiley") 
 
 
-**5** -   ·  · none  _(3)_ <br>
-![](5_0.png "0 - ") 
-![](5_1.png "1 - ") 
+**5** -  #1 · #2 · none  _(3)_ <br>
+![](5_0.png "0 - #1") 
+![](5_1.png "1 - #2") 
 ![](5_2.png "2 - none") 
 
 

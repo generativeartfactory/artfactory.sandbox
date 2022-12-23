@@ -1,5 +1,9 @@
 # Layers in /3dphunks
 
+By image format (mime type):
+- image/png _(80)_
+
+
 **0** -  Alien · Ape · Female · Male · Zombie · Empty  _(6)_ <br>
 ![](0_0.png "0 - Alien") 
 ![](0_1.png "1 - Ape") 

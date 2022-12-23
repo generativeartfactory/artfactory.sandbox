@@ -1,5 +1,9 @@
 # Layers in /dosphunks
 
+By image format (mime type):
+- image/png _(82)_
+
+
 **0** -  Clown Nose · None  _(2)_ <br>
 ![](0_0.png "0 - Clown Nose") 
 ![](0_1.png "1 - None") 

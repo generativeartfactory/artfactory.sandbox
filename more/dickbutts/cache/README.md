@@ -1,5 +1,9 @@
 # Layers in /dickbutts
 
+By image format (mime type):
+- image/png _(101)_
+
+
 **0** -  Trident · Lollipop · Spiked Club · Gavel · Boxing Glove · None  _(6)_ <br>
 ![](0_0.png "0 - Trident") 
 ![](0_1.png "1 - Lollipop") 

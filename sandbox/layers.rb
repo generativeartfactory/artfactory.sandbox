@@ -6,6 +6,103 @@
 require 'cocos'
 
 
+##
+## note: fix csv format:
+##    in death/layers.csv  (comma requires quotes!!)
+##   - 0/30, "I Scream, You Scream", image/png, false
+##   - 0/37, "Who, Me?"", image/png, false
+##    in  smiley/layers.csv  (hash-mark requires quotes!!!)
+##   - 5/0, "#1", image/png, false
+##   - 5/1, "#2", image/png, false
+##    in women/layers.csv
+##   - 0/0, Designer Frane #3, image/png, false
+##   - 0/1, Designer Frame #2, image/png, false
+##   - 0/2, Designer Frame #1, image/png, false
+##   - 7/15, Designer outfit #1, image/png, false
+##   - 7/16, Designer outfit #2, image/png, false
+
+
+class LayersCache    ## todo: find a different name - why? why not?
+
+  attr_reader :layers
+
+  def initialize( basedir )
+    @basedir = basedir
+    _read_meta
+  end
+
+  def _read_meta
+    recs = read_csv( "#{@basedir}/layers.csv" )
+    puts "  #{recs.size} record(s) in layers"
+
+    ## use integer-keyed hashes for now - why? why not?
+    @formats = Hash.new( 0 )
+    ## e.g. image/png
+    ##      image/gif
+    ##
+
+    ## todo/check - change to nested array (from nested hash) - why? why not?
+    @layers = {}
+
+    recs.each do |rec|
+      name = rec['name']
+      type = rec['type']
+      n,m  = rec['index'].split('/').map { |str| str.strip.to_i }
+
+      extension = case type
+                  when 'image/png' then 'png'
+                  when 'image/gif' then 'gif'
+                    ## add svg !!
+                  else
+                     pp rec
+                     raise ArgumentError, "unsupported image type:  #{type} in >#{@basedir}<"
+                  end
+
+      @formats[ type ] += 1
+
+      layer = @layers[n] ||= {}
+
+      ### quick & dirty hack - find a better way!!!
+      path = "#{@basedir}/#{n}_#{m}.#{extension}"
+      unless File.exist?( path )
+        puts "!! ERRROR - image for #{n}/#{m} not found; tried >#{path}<"
+        exit 1
+      end
+      puts " #{n} / #{m} - >#{name}< - #{path}"
+      ## note: add relative path (basename+extname only)
+      layer[m] = { name: name,
+                   path: File.basename( path ) }
+    end
+  end
+
+
+  def build_summary( title: 'Layers')
+    buf = "# #{title}\n\n"
+
+    buf << "By image format (mime type):\n"
+    @formats.each do |format,count|
+      buf << "- #{format} _(#{count})_\n"
+    end
+    buf << "\n\n"
+
+
+    @layers.each do |n, layer|
+      buf << "**#{n}** -  "
+      buf <<  layer.map {|m,rec| rec[:name] }.join( ' · ' )
+      buf << "  _(#{layer.size})_ "
+      buf << "<br>\n"
+      layer.each do |m,rec|
+         buf << %Q<![](#{rec[:path]} "#{m} - #{rec[:name]}")>
+         buf <<" \n"
+      end
+      buf << "\n\n"
+    end
+    buf
+  end
+end  # class LayersCache
+
+
+
 collections = %w[
   3dphunks
   3dskulls
@@ -23,58 +120,20 @@ collections = %w[
   pepitos
   skulls
   smiley
-  teddies]
+  teddies
+  women]
+
+
+
+## collections = collections[0..2]
 
 collections.each do |collection|
   puts "==> #{collection}..."
 
-
   basedir = "more/#{collection}/cache"
-  recs = read_csv( "#{basedir}/layers.csv" )
-  puts "  #{recs.size} record(s) in layers"
+  cache = LayersCache.new( basedir )
 
-  ## use integer-keyed hashes for now - why? why not?
-  layers = {}
-
-  recs.each do |rec|
-      name = rec['name']
-      n,m  = rec['index'].split('/').map { |str| str.strip.to_i }
-
-      layer = layers[n] ||= {}
-
-
-      ### quick & dirty hack - find a better way!!!
-      paths = Dir.glob( "#{basedir}/#{n}_#{m}.*" )
-      if paths.size != 1
-        puts "!! ERRROR - image for #{n}/#{m} not found (or unique); got:"
-        pp paths
-        exit 1
-      end
-      puts " #{n} / #{m} - >#{name}< - #{paths[0]}"
-      ## note: add relative path (basename+extname only)
-      layer[m] = { name: name,
-                   path: File.basename( paths[0] ) }
-  end
-
-
-  pp layers
-
-  buf = "# Layers in /#{collection}\n\n"
-  layers.each do |n, layer|
-    buf << "**#{n}** -  "
-    buf <<  layer.map {|m,rec| rec[:name] }.join( ' · ' )
-    buf << "  _(#{layer.size})_ "
-    buf << "<br>\n"
-    layer.each do |m,rec|
-       buf << %Q<![](#{rec[:path]} "#{m} - #{rec[:name]}")>
-       buf <<" \n"
-    end
-    buf << "\n\n"
-  end
-  buf
-
-  puts buf
-
+  buf = cache.build_summary( title: "Layers in /#{collection}" )
   write_text( "#{basedir}/README.md", buf )
 end
 

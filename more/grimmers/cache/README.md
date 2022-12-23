@@ -1,5 +1,9 @@
 # Layers in /grimmers
 
+By image format (mime type):
+- image/png _(73)_
+
+
 **0** -  Haha · Hidden  _(2)_ <br>
 ![](0_0.png "0 - Haha") 
 ![](0_1.png "1 - Hidden") 

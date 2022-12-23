@@ -1,5 +1,9 @@
 # Layers in /pepitos
 
+By image format (mime type):
+- image/png _(71)_
+
+
 **0** -  Bubble Gum · No Trait 2  _(2)_ <br>
 ![](0_0.png "0 - Bubble Gum") 
 ![](0_1.png "1 - No Trait 2") 

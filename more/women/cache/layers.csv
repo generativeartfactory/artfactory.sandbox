@@ -1,7 +1,7 @@
 index, name, type, hide
-0/0, Designer Frane #3, image/png, false
-0/1, Designer Frame #2, image/png, false
-0/2, Designer Frame #1, image/png, false
+0/0, "Designer Frane #3", image/png, false
+0/1, "Designer Frame #2", image/png, false
+0/2, "Designer Frame #1", image/png, false
 0/3, Noir Frame, image/png, false
 0/4, Simple Frame, image/png, false
 0/5, Red Frame, image/png, false
@@ -56,8 +56,8 @@ index, name, type, hide
 7/12, Yellow Disco Jumpsuit, image/png, false
 7/13, OnChain hoodie, image/png, false
 7/14, Pride T, image/png, false
-7/15, Designer outfit #1, image/png, false
-7/16, Designer outfit #2, image/png, false
+7/15, "Designer outfit #1", image/png, false
+7/16, "Designer outfit #2", image/png, false
 7/17, OnChain T, image/png, false
 7/18, OnChain crop top, image/png, false
 7/19, Off-the-shoulder T, image/png, false

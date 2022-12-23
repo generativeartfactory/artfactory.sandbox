@@ -1,5 +1,9 @@
 # Layers in /madmasks
 
+By image format (mime type):
+- image/png _(151)_
+
+
 **0** -  Mega Minister · Mega Masker · Mega Mage · Mega Magistrate · Mega Mapper · Mega Matchmaker · Mega Medic · Mega Machinist · Mega Member · Mega Mercenary · Mega Merchant · Mega Miner · None  _(13)_ <br>
 ![](0_0.png "0 - Mega Minister") 
 ![](0_1.png "1 - Mega Masker") 

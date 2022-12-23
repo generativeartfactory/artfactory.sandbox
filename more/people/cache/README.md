@@ -1,5 +1,10 @@
 # Layers in /people
 
+By image format (mime type):
+- image/gif _(17)_
+- image/png _(104)_
+
+
 **0** -  Banana Time · Dark Side · Junior · War Mech · The Champion · The Secretary · Village Hero · none  _(8)_ <br>
 ![](0_0.gif "0 - Banana Time") 
 ![](0_1.gif "1 - Dark Side") 

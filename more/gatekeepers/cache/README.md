@@ -1,5 +1,9 @@
 # Layers in /gatekeepers
 
+By image format (mime type):
+- image/png _(226)_
+
+
 **0** -  Scout · Juggernaut Omega · Juggernaut · Infantry · Spec Ops · Heavy Assault · Demolitions · APE BOT · Phunk-3PO · Skelly BOT · Phender · Light Assault · Terminator · None  _(14)_ <br>
 ![](0_0.png "0 - Scout") 
 ![](0_1.png "1 - Juggernaut Omega") 

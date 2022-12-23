@@ -1,5 +1,10 @@
 # Layers in /kevin
 
+By image format (mime type):
+- image/gif _(35)_
+- image/png _(63)_
+
+
 **0** -  Gold Crazy · Pink Crazy · Blue Crazy · Gold · Pink · Blue · None  _(7)_ <br>
 ![](0_0.gif "0 - Gold Crazy") 
 ![](0_1.gif "1 - Pink Crazy") 
