@@ -40,7 +40,7 @@ class LayersCache    ## todo: find a different name - why? why not?
     ## e.g. image/png
     ##      image/gif
     ##      image/jpeg
-    ##
+    ##      image/svg+xml
 
     ## todo/check - change to nested array (from nested hash) - why? why not?
     @layers = {}
@@ -51,10 +51,10 @@ class LayersCache    ## todo: find a different name - why? why not?
       n,m  = rec['index'].split('/').map { |str| str.strip.to_i }
 
       extension = case type
-                  when 'image/png'  then 'png'
-                  when 'image/gif'  then 'gif'
-                  when 'image/jpeg' then 'jpg'
-                    ## add svg !!
+                  when 'image/png'     then 'png'
+                  when 'image/gif'     then 'gif'
+                  when 'image/jpeg'    then 'jpg'
+                  when 'image/svg+xml' then 'svg'
                   else
                      pp rec
                      raise ArgumentError, "unsupported image type:  #{type} in >#{@basedir}<"
