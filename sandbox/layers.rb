@@ -39,6 +39,7 @@ class LayersCache    ## todo: find a different name - why? why not?
     @formats = Hash.new( 0 )
     ## e.g. image/png
     ##      image/gif
+    ##      image/jpeg
     ##
 
     ## todo/check - change to nested array (from nested hash) - why? why not?
@@ -50,8 +51,9 @@ class LayersCache    ## todo: find a different name - why? why not?
       n,m  = rec['index'].split('/').map { |str| str.strip.to_i }
 
       extension = case type
-                  when 'image/png' then 'png'
-                  when 'image/gif' then 'gif'
+                  when 'image/png'  then 'png'
+                  when 'image/gif'  then 'gif'
+                  when 'image/jpeg' then 'jpg'
                     ## add svg !!
                   else
                      pp rec
@@ -103,7 +105,39 @@ end  # class LayersCache
 
 
 
+
 collections = %w[
+  aliensvspunks
+  chichis
+  chopper
+  dankpunks
+  edgepunks
+  fuks
+  inversepunks
+  madcamels
+  marcs
+  nfl
+  nomads
+  phunkapeorigins
+  proofofpepe
+  punkapesyachtclub
+  punkinspicies
+]
+
+
+collections.each do |collection|
+  puts "==> #{collection}..."
+
+  basedir = "#{collection}/cache"
+  cache = LayersCache.new( basedir )
+
+  buf = cache.build_summary( title: "Layers in /#{collection}" )
+  write_text( "#{basedir}/README.md", buf )
+end
+
+__END__
+
+more_collections = %w[
   3dphunks
   3dskulls
   cherrynouns
@@ -124,10 +158,7 @@ collections = %w[
   women]
 
 
-
-## collections = collections[0..2]
-
-collections.each do |collection|
+more_collections.each do |collection|
   puts "==> #{collection}..."
 
   basedir = "more/#{collection}/cache"
