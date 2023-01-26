@@ -1,0 +1,114 @@
+index, name, type, hide
+0/0, hirsch, image/png, false
+0/1, pando, image/png, false
+0/2, None, image/png, true
+1/0, ferd, image/png, false
+1/1, BudSnob, image/png, false
+1/2, humus, image/png, false
+1/3, None, image/png, true
+2/0, None 1, image/png, true
+2/1, Gold, image/png, false
+2/2, Pink, image/png, false
+2/3, Blue, image/png, false
+2/4, None, image/png, true
+3/0, None 1, image/png, true
+3/1, Flames, image/png, false
+3/2, Blitmap Hat, image/png, false
+3/3, Flies, image/png, false
+3/4, Cheese Head, image/png, false
+3/5, E-Girl Hair, image/png, false
+3/6, Monkey Hat, image/png, false
+3/7, Quixote Hat, image/png, false
+3/8, Sun Wukong, image/png, false
+3/9, Arrow, image/png, false
+3/10, Third Eye, image/png, false
+3/11, Faustian, image/png, false
+3/12, Clown Hair, image/png, false
+3/13, Floppy Hat, image/png, false
+3/14, Leather Bandana, image/png, false
+3/15, Balapa Hat, image/png, false
+3/16, Hungry Fish, image/png, false
+3/17, Brain Full, image/png, false
+3/18, Brain, image/png, false
+3/19, None, image/png, true
+4/0, None 1, image/png, true
+4/1, Lasers, image/png, false
+4/2, Glasses White, image/png, false
+4/3, Glasses Red, image/png, false
+4/4, MF Doom, image/png, false
+4/5, Glasses Red, image/png, false
+4/6, Glasses Red, image/png, false
+4/7, Deal With it, image/png, false
+4/8, Glasses White, image/png, false
+4/9, Glasses White, image/png, false
+4/10, Nouns, image/png, false
+4/11, Luchadores, image/png, false
+4/12, Groucho, image/png, false
+4/13, Hacker Heart Eyes, image/png, false
+4/14, Heart Eyes, image/png, false
+4/15, Kongz Rainbow, image/png, false
+4/16, Sun Glasses Blue, image/png, false
+4/17, 3D Glasses, image/png, false
+4/18, Sun Glasses White, image/png, false
+4/19, None, image/png, true
+5/0, Derpy, image/png, false
+5/1, None 1, image/png, true
+5/2, Lasers, image/png, false
+5/3, White, image/png, false
+5/4, Beedy, image/png, false
+5/5, Beedy Red, image/png, false
+5/6, Derpy Red, image/png, false
+5/7, Derpy, image/png, false
+6/0, None 1, image/png, true
+6/1, None, image/png, true
+6/2, Flat, image/png, false
+6/3, Smol Up, image/png, false
+6/4, Smol Down, image/png, false
+6/5, Holes Large, image/png, false
+6/6, Holes Small, image/png, false
+6/7, Upturned, image/png, false
+6/8, Downturned, image/png, false
+7/0, None 1, image/png, true
+7/1, None, image/png, true
+7/2, Smile, image/png, false
+7/3, Smile, image/png, false
+7/4, Smile, image/png, false
+7/5, Smile, image/png, false
+7/6, Smile, image/png, false
+7/7, Rainbow, image/png, false
+7/8, Beard Black, image/png, false
+7/9, Beard Brown, image/png, false
+7/10, Pipe, image/png, false
+7/11, Tongue Out, image/png, false
+7/12, Cigar, image/png, false
+7/13, Marilyn, image/png, false
+7/14, Cigarette, image/png, false
+7/15, Toothpick, image/png, false
+7/16, Missing Tooth, image/png, false
+7/17, Open, image/png, false
+7/18, Open Wide, image/png, false
+8/0, None, image/png, true
+8/1, Blue, image/png, false
+8/2, Purple, image/png, false
+8/3, Green, image/png, false
+8/4, Yellow, image/png, false
+8/5, Orange, image/png, false
+8/6, Peach, image/png, false
+8/7, Red, image/png, false
+8/8, Gray, image/png, false
+9/0, None, image/png, true
+9/1, Gold, image/png, false
+9/2, Green Pixels, image/png, false
+9/3, Green, image/png, false
+10/0, None, image/png, true
+10/1, Sun, image/png, false
+10/2, Bricks, image/png, false
+10/3, Grass, image/png, false
+10/4, Peach, image/png, false
+10/5, Red, image/png, false
+10/6, Orange, image/png, false
+10/7, Blue, image/png, false
+10/8, Yellow, image/png, false
+10/9, Green, image/png, false
+10/10, Purple, image/png, false
+10/11, Gray, image/png, false

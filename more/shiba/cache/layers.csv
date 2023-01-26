@@ -1,0 +1,127 @@
+index, name, type, hide
+0/0, Gold Collar, image/png, false
+0/1, Diamond Necklace, image/png, false
+0/2, Platinum Chain, image/png, false
+0/3, Gold Chain, image/png, false
+0/4, Choke Collar, image/png, false
+0/5, Pearl Necklace, image/png, false
+0/6, Silver Chain, image/png, false
+0/7, Brown Collar, image/png, false
+0/8, Black Collar, image/png, false
+0/9, Blue Collar, image/png, false
+0/10, Red Collar, image/png, false
+0/11, White Collar, image/png, false
+0/12, Grey Collar, image/png, false
+0/13, None, image/png, true
+1/0, Designer 'Bows, image/png, false
+1/1, Welding Goggles, image/png, false
+1/2, Gold Shades, image/png, false
+1/3, VR, image/png, false
+1/4, Blue Nouns, image/png, false
+1/5, Green Nouns, image/png, false
+1/6, Snowboarding Goggles, image/png, false
+1/7, Designer, image/png, false
+1/8, Puppy Dog, image/png, false
+1/9, Toonz, image/png, false
+1/10, Fancy Shades, image/png, false
+1/11, Red, image/png, false
+1/12, Eye Patch, image/png, false
+1/13, Eye Mask, image/png, false
+1/14, Clear, image/png, false
+1/15, Non-prescription Clear Glasses, image/png, false
+1/16, Silver Shades, image/png, false
+1/17, Big Shades Prune, image/png, false
+1/18, Silver Prescription Glasses, image/png, false
+1/19, Black Prescription Glasses, image/png, false
+1/20, Big Shades Forest, image/png, false
+1/21, Nerd Glasses, image/png, false
+1/22, Café Cuties, image/png, false
+1/23, Low Pros, image/png, false
+1/24, OG Shades, image/png, false
+1/25, Grey Shades, image/png, false
+1/26, Classic Shades, image/png, false
+1/27, Sport Shades, image/png, false
+1/28, None, image/png, true
+2/0, Rose Wood Pipe, image/png, false
+2/1, Bubble Gum, image/png, false
+2/2, Cigar, image/png, false
+2/3, Oak Wood Pipe, image/png, false
+2/4, Blunt, image/png, false
+2/5, Vape, image/png, false
+2/6, Stick, image/png, false
+2/7, Bone, image/png, false
+2/8, Cigarette, image/png, false
+2/9, Joint, image/png, false
+2/10, Twig, image/png, false
+2/11, Tongue, image/png, false
+2/12, Grin, image/png, false
+2/13, Smirk, image/png, false
+2/14, None, image/png, true
+3/0, Blue Snapback w/ Bandana, image/png, false
+3/1, White Snapback w/ Bandana, image/png, false
+3/2, Blue Snapback w/ Bandana, image/png, false
+3/3, Crown, image/png, false
+3/4, White Cowboy Hat, image/png, false
+3/5, White Snapback w/ Bandana, image/png, false
+3/6, Grey Cowboy Hat, image/png, false
+3/7, Blue Snapback w/ Bandana, image/png, false
+3/8, ALPHA, image/png, false
+3/9, White Snapback w/ Bandana, image/png, false
+3/10, White Cowboy Hat, image/png, false
+3/11, Grey Cowboy Hat, image/png, false
+3/12, Teddy, image/png, false
+3/13, Lil' Red Riding Hood, image/png, false
+3/14, Beanie, image/png, false
+3/15, Hachimaki, image/png, false
+3/16, Fawn, image/png, false
+3/17, White Hoodie, image/png, false
+3/18, Calf, image/png, false
+3/19, Grey Hoodie, image/png, false
+3/20, Top Hat, image/png, false
+3/21, Broad Ears, image/png, false
+3/22, Blue Snapback, image/png, false
+3/23, Pilot Goggles, image/png, false
+3/24, Grey Fedora, image/png, false
+3/25, Adventurer Hat, image/png, false
+3/26, White Snapback, image/png, false
+3/27, Bowler Hat, image/png, false
+3/28, Purple Bucket Hat, image/png, false
+3/29, Brown Fedora, image/png, false
+3/30, Pointy Ears, image/png, false
+3/31, White Bucket Hat, image/png, false
+3/32, Dark Grey Durag, image/png, false
+3/33, Light Grey Durag, image/png, false
+3/34, Red Headband, image/png, false
+3/35, Blue Headband, image/png, false
+3/36, Blue Bandana, image/png, false
+3/37, Green Knitted Cap, image/png, false
+3/38, Red Bandana, image/png, false
+3/39, Brown Knitted Cap, image/png, false
+3/40, Red Knitted Cap, image/png, false
+3/41, Black Bandana, image/png, false
+3/42, Grey Bandana, image/png, false
+3/43, None, image/png, true
+4/0, Diamond, image/png, false
+4/1, Platinum, image/png, false
+4/2, Gold, image/png, false
+4/3, Pearl, image/png, false
+4/4, Silver, image/png, false
+4/5, None, image/png, true
+5/0, Alien, image/png, false
+5/1, Digital, image/png, false
+5/2, Geometric, image/png, false
+5/3, Gold, image/png, false
+5/4, Zombie, image/png, false
+5/5, Albino, image/png, false
+5/6, Stray, image/png, false
+5/7, Toffee, image/png, false
+5/8, Cream, image/png, false
+5/9, Coffee, image/png, false
+5/10, Black, image/png, false
+5/11, Red, image/png, false
+5/12, Beige, image/png, false
+5/13, Brown, image/png, false
+5/14, Sesame, image/png, false
+5/15, Golden Brown, image/png, false
+5/16, Orange, image/png, false
+6/0, Blue, image/png, true

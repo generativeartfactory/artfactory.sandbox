@@ -22,7 +22,3 @@ pepepicasso (pecasso)
 
 
 
-## More (on-chain) collections
-
-add - why? why not?
-

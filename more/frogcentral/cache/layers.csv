@@ -1,0 +1,214 @@
+index, name, type, hide
+0/0, Flower, image/png, false
+0/1, Flower, image/png, false
+0/2, Flower, image/png, false
+0/3, Granny Glasses, image/png, false
+0/4, Granny Glasses, image/png, false
+0/5, Flower, image/png, false
+0/6, Flower, image/png, false
+0/7, Blanklayer, image/png, true
+1/0, 1/1 Numo x FC, image/png, false
+1/1, 1/2 Numo x FC, image/png, false
+1/2, 1/3 Numo x FC, image/png, false
+1/3, 1/4 Numo x FC, image/png, false
+1/4, BlackWOW, image/png, false
+1/5, BlackDAMN, image/png, false
+1/6, PurpleWOW, image/png, false
+1/7, PurpleFight, image/png, false
+1/8, PurpleAngry, image/png, false
+1/9, PurpleShy, image/png, false
+1/10, DarkBlueChill, image/png, false
+1/11, GoldChill, image/png, false
+1/12, GreenWOW, image/png, false
+1/13, GreenFight, image/png, false
+1/14, GreenScream, image/png, false
+1/15, GreenChill, image/png, false
+1/16, YellowScream, image/png, false
+1/17, LightBlueWOW, image/png, false
+1/18, LightBlueFight, image/png, false
+1/19, LightBlueScream, image/png, false
+1/20, LightBlueAngry, image/png, false
+1/21, BlueMeh, image/png, false
+1/22, LightBlueShy, image/png, false
+1/23, LightBlueDAMN, image/png, false
+1/24, WhiteWOW, image/png, false
+1/25, WhiteFight, image/png, false
+1/26, WhiteScream, image/png, false
+1/27, WhiteChill, image/png, false
+1/28, WhiteAngry, image/png, false
+1/29, WhiteMeh, image/png, false
+1/30, WhiteShy, image/png, false
+1/31, WhiteDAMN, image/png, false
+1/32, SpaceWOW, image/png, false
+1/33, SpaceChill, image/png, false
+1/34, BlackFight, image/png, false
+1/35, BlackScream, image/png, false
+1/36, BlackChill, image/png, false
+1/37, BlackAngry, image/png, false
+1/38, BlackShy, image/png, false
+1/39, PurpleScream, image/png, false
+1/40, PurpleChill, image/png, false
+1/41, PurpleDAMN, image/png, false
+1/42, BlueWOW, image/png, false
+1/43, BlueFight, image/png, false
+1/44, BlueAngry, image/png, false
+1/45, BlueShy, image/png, false
+1/46, BlueDAMN, image/png, false
+1/47, PinkWOW, image/png, false
+1/48, PinkFight, image/png, false
+1/49, PinkScream, image/png, false
+1/50, PinkChill, image/png, false
+1/51, PinkAngry, image/png, false
+1/52, PinkShy, image/png, false
+1/53, PinkDAMN, image/png, false
+1/54, RainbowWOW, image/png, false
+1/55, RainbowFight, image/png, false
+1/56, RainbowScream, image/png, false
+1/57, RainbowChill, image/png, false
+1/58, RainbowDAMN, image/png, false
+1/59, RedWOW, image/png, false
+1/60, RedScream, image/png, false
+1/61, RedChill, image/png, false
+1/62, RedAngry, image/png, false
+1/63, RedMeh, image/png, false
+1/64, RedShy, image/png, false
+1/65, GoldWOW, image/png, false
+1/66, GoldFight, image/png, false
+1/67, GoldScream, image/png, false
+1/68, GoldAngry, image/png, false
+1/69, GoldShy, image/png, false
+1/70, GoldDAMN, image/png, false
+1/71, GreenAngry, image/png, false
+1/72, GreenShy, image/png, false
+1/73, YellowFight, image/png, false
+1/74, YellowChill, image/png, false
+1/75, YellowAngry, image/png, false
+1/76, YellowShy, image/png, false
+1/77, BlueChill, image/png, false
+1/78, RainbowFight, image/png, false
+1/79, SpaceScream, image/png, false
+1/80, SpaceShy, image/png, false
+1/81, SpaceDAMN, image/png, false
+1/82, BlueScream, image/png, false
+1/83, RainbowAngry, image/png, false
+1/84, RainbowShy, image/png, false
+1/85, RedFight, image/png, false
+1/86, RedDAMN, image/png, false
+1/87, GreenDAMN, image/png, false
+1/88, YellowWOW, image/png, false
+1/89, YellowDAMN, image/png, false
+1/90, SpaceAngry, image/png, false
+1/91, BlackMeh, image/png, false
+1/92, PurpleMeh, image/png, false
+1/93, BlueMeh, image/png, false
+1/94, PinkMeh, image/png, false
+1/95, RainbowMeh, image/png, false
+1/96, GoldMeh, image/png, false
+1/97, YellowMeh, image/png, false
+1/98, SpaceMeh, image/png, false
+1/99, GreenAngry, image/png, false
+2/0, NOUNS, image/png, false
+2/1, Nerd Glasses, image/png, false
+2/2, Yellow Nerd Glasses, image/png, false
+2/3, Green Nerd Glasses, image/png, false
+2/4, Nerd Glasses, image/png, false
+2/5, Yellow Nerd Glasses, image/png, false
+2/6, Green Nerd Glasses, image/png, false
+2/7, Nerd Glasses, image/png, false
+2/8, Yellow Nerd Glasses, image/png, false
+2/9, Green Nerd Glasses, image/png, false
+2/10, NOUNS, image/png, false
+2/11, LASOOOOR, image/png, false
+2/12, NOUNS, image/png, false
+2/13, NOUNS, image/png, false
+2/14, R_casual shades, image/png, false
+2/15, B_casual shades, image/png, false
+2/16, B_casual shades, image/png, false
+2/17, P_casual shades, image/png, false
+2/18, G_casual shades, image/png, false
+2/19, Y_casual shades, image/png, false
+2/20, GOLDEN GAINS, image/png, false
+2/21, EMERALD GAINS, image/png, false
+2/22, Nino vision, image/png, false
+2/23, Golden emerald, image/png, false
+2/24, frogster, image/png, false
+2/25, green frogster, image/png, false
+2/26, red frogster, image/png, false
+2/27, Emerald, image/png, false
+2/28, MONEY, image/png, false
+2/29, Simpson, image/png, false
+2/30, Yellow Fire, image/png, false
+2/31, Green Fire, image/png, false
+2/32, Red Fire, image/png, false
+2/33, Alpha, image/png, false
+2/34, idk, image/png, false
+2/35, joking, image/png, false
+2/36, Yus vision, image/png, false
+2/37, PISSED, image/png, false
+2/38, whale glasses, image/png, false
+2/39, Percio, image/png, false
+2/40, Devious, image/png, false
+2/41, 300iq, image/png, false
+2/42, LOOOOOOK, image/png, false
+2/43, Euphoria, image/png, false
+2/44, Hamz vision, image/png, false
+2/45, MULA, image/png, false
+2/46, depressed, image/png, false
+2/47, GG, image/png, false
+2/48, Joyful, image/png, false
+2/49, LMAO, image/png, false
+2/50, wEiRd, image/png, false
+2/51, BRUH, image/png, false
+2/52, Evil, image/png, false
+2/53, Crying, image/png, false
+2/54, Plotting, image/png, false
+2/55, Gassed, image/png, false
+2/56, Sneaky, image/png, false
+2/57, Arrogant, image/png, false
+2/58, Madness, image/png, false
+2/59, Cutie, image/png, false
+3/0, Rainbow Chad, image/png, false
+3/1, HAPPY, image/png, false
+3/2, HAPPY, image/png, false
+3/3, HAPPY, image/png, false
+3/4, HAPPY, image/png, false
+3/5, HAPPY, image/png, false
+3/6, HAPPY, image/png, false
+3/7, wide-sad, image/png, false
+3/8, rabbit, image/png, false
+3/9, wide-smile, image/png, false
+3/10, nerd, image/png, false
+3/11, thirsty, image/png, false
+3/12, crazy, image/png, false
+3/13, POOOOG, image/png, false
+3/14, smily, image/png, false
+3/15, PANIC, image/png, false
+3/16, he, image/png, false
+3/17, chewing, image/png, false
+3/18, 0confidence, image/png, false
+3/19, sir, image/png, false
+3/20, stresssssing, image/png, false
+3/21, sad, image/png, false
+3/22, MAAAAN, image/png, false
+3/23, pokerface, image/png, false
+3/24, hehe, image/png, false
+4/0, Gold, image/png, false
+4/1, Space, image/png, false
+4/2, Rainbow, image/png, false
+4/3, White, image/png, false
+4/4, Black, image/png, false
+4/5, Purple, image/png, false
+4/6, Pink, image/png, false
+4/7, Red, image/png, false
+4/8, Yellow, image/png, false
+4/9, Blue, image/png, false
+4/10, LightBlue, image/png, false
+4/11, Green, image/png, false
+5/0, flower, image/png, false
+5/1, rare, image/png, false
+5/2, Yellow, image/png, false
+5/3, Green, image/png, false
+5/4, Orange, image/png, false
+5/5, Pink, image/png, false
+5/6, Teel, image/png, false
+5/7, Black, image/png, false

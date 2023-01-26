@@ -1,0 +1,205 @@
+index, name, type, hide
+0/0, UFO, image/svg+xml, false
+0/1, Banana, image/svg+xml, false
+0/2, Oo, image/svg+xml, false
+0/3, Lightning, image/svg+xml, false
+0/4, Taco, image/svg+xml, false
+0/5, Idea, image/svg+xml, false
+0/6, BTC, image/svg+xml, false
+0/7, Kite, image/svg+xml, false
+0/8, Winner, image/svg+xml, false
+0/9, Pizza, image/svg+xml, false
+0/10, UFO, image/svg+xml, false
+0/11, ETH, image/svg+xml, false
+0/12, Star, image/svg+xml, false
+0/13, Balloon, image/svg+xml, false
+0/14, Rocket, image/svg+xml, false
+0/15, XO, image/svg+xml, false
+0/16, Diamond, image/svg+xml, false
+0/17, Luck, image/svg+xml, false
+0/18, Heart, image/svg+xml, false
+0/19, Zz, image/svg+xml, false
+0/20, GM Coffee, image/svg+xml, false
+0/21, La, image/svg+xml, false
+0/22, GM Sun, image/svg+xml, false
+0/23, Hi, image/svg+xml, false
+0/24, LOL, image/svg+xml, false
+0/25, Yo, image/svg+xml, false
+0/26, OK, image/svg+xml, false
+0/27, Ha, image/svg+xml, false
+0/28, GN, image/svg+xml, false
+0/29, None, image/svg+xml, false
+1/0, Snorkel Mask, image/svg+xml, false
+1/1, Monkey, image/svg+xml, false
+1/2, Bubblegum, image/svg+xml, false
+1/3, Goatee, image/svg+xml, false
+1/4, Mustache, image/svg+xml, false
+1/5, Meh, image/svg+xml, false
+1/6, Tongue, image/svg+xml, false
+1/7, Joy, image/svg+xml, false
+1/8, Smile, image/svg+xml, false
+1/9, Laugh, image/svg+xml, false
+2/0, Alien, image/svg+xml, false
+2/1, Snorkel Goggles, image/svg+xml, false
+2/2, VR Headset, image/svg+xml, false
+2/3, Ski Goggles, image/svg+xml, false
+2/4, Orange Shades, image/svg+xml, false
+2/5, Heart Glasses, image/svg+xml, false
+2/6, Blue Shades, image/svg+xml, false
+2/7, Glasses, image/svg+xml, false
+2/8, Black Shades, image/svg+xml, false
+2/9, Squint, image/svg+xml, false
+2/10, Resting, image/svg+xml, false
+2/11, Joyful, image/svg+xml, false
+2/12, Open, image/svg+xml, false
+2/13, Wink, image/svg+xml, false
+3/0, Alien, image/svg+xml, false
+3/1, Balloon, image/svg+xml, false
+3/2, Robot, image/svg+xml, false
+3/3, Bald, image/svg+xml, false
+3/4, Blue Headband, image/svg+xml, false
+3/5, Calamari, image/svg+xml, false
+3/6, Space Helmet, image/svg+xml, false
+3/7, Turkey, image/svg+xml, false
+3/8, Fro, image/svg+xml, false
+3/9, Cap, image/svg+xml, false
+3/10, Ghost, image/svg+xml, false
+3/11, Rarebear, image/svg+xml, false
+3/12, Combed Hair, image/svg+xml, false
+3/13, Pink Headband, image/svg+xml, false
+3/14, Rabbit Ears, image/svg+xml, false
+3/15, Fishbowl, image/svg+xml, false
+3/16, Pilot Hat, image/svg+xml, false
+3/17, Propellor, image/svg+xml, false
+3/18, Flat Bill, image/svg+xml, false
+3/19, Arrowhead, image/svg+xml, false
+3/20, Mohawk, image/svg+xml, false
+3/21, Flared Hair, image/svg+xml, false
+3/22, Styled Hair, image/svg+xml, false
+3/23, Conehead, image/svg+xml, false
+3/24, Grapes, image/svg+xml, false
+3/25, Sun Hat, image/svg+xml, false
+3/26, Pineapple, image/svg+xml, false
+3/27, Paper Hat, image/svg+xml, false
+3/28, Pirate Hat, image/svg+xml, false
+3/29, Bucket Cap, image/svg+xml, false
+3/30, Wind Swept, image/svg+xml, false
+3/31, Jester, image/svg+xml, false
+3/32, Perm, image/svg+xml, false
+3/33, Headphones, image/svg+xml, false
+3/34, Corn, image/svg+xml, false
+3/35, Viking Helmet, image/svg+xml, false
+3/36, Pine Cone, image/svg+xml, false
+3/37, Flaps Hat, image/svg+xml, false
+3/38, Strawberry, image/svg+xml, false
+3/39, Beanie, image/svg+xml, false
+3/40, Backwards Cap, image/svg+xml, false
+3/41, Faux Hawk, image/svg+xml, false
+3/42, Sailor Hat, image/svg+xml, false
+3/43, Top Hat, image/svg+xml, false
+3/44, Bangs, image/svg+xml, false
+3/45, Grad Cap, image/svg+xml, false
+3/46, Curly Hair, image/svg+xml, false
+3/47, Feather Cap, image/svg+xml, false
+3/48, Party Hat, image/svg+xml, false
+3/49, Bob, image/svg+xml, false
+3/50, Drink Hat, image/svg+xml, false
+3/51, Spiked Hair, image/svg+xml, false
+3/52, Apple, image/svg+xml, false
+3/53, Crown, image/svg+xml, false
+3/54, Floppy Hair, image/svg+xml, false
+3/55, Spiketop Hair, image/svg+xml, false
+3/56, Antennae, image/svg+xml, false
+3/57, Tassle Hat, image/svg+xml, false
+3/58, Winter Hat, image/svg+xml, false
+3/59, Monkey, image/svg+xml, false
+3/60, Swoop Hair, image/svg+xml, false
+3/61, Bumpy Hair, image/svg+xml, false
+3/62, Cowboy Hat, image/svg+xml, false
+3/63, Beret, image/svg+xml, false
+3/64, Short Chop Hair, image/svg+xml, false
+3/65, Messy Hair, image/svg+xml, false
+4/0, Robot, image/svg+xml, false
+4/1, Blue Tie, image/svg+xml, false
+4/2, Yellow Tie, image/svg+xml, false
+4/3, Pink Tie, image/svg+xml, false
+4/4, Red Cape, image/svg+xml, false
+4/5, Blue Cape, image/svg+xml, false
+4/6, Puffy Jacket, image/svg+xml, false
+4/7, High Collar, image/svg+xml, false
+4/8, Bow Tie, image/svg+xml, false
+4/9, Ring Collar Shirt, image/svg+xml, false
+4/10, Button Shirt, image/svg+xml, false
+4/11, Sweater, image/svg+xml, false
+4/12, Sportscoat, image/svg+xml, false
+4/13, Hoodie, image/svg+xml, false
+4/14, Jacket, image/svg+xml, false
+4/15, Plain Shirt, image/svg+xml, false
+5/0, Gold, image/svg+xml, false
+5/1, Blue Balloon, image/svg+xml, false
+5/2, Yellow Balloon, image/svg+xml, false
+5/3, Pink Balloon, image/svg+xml, false
+5/4, Ghost, image/svg+xml, false
+5/5, Yellow, image/svg+xml, false
+5/6, Tan, image/svg+xml, false
+5/7, Pink, image/svg+xml, false
+5/8, Brown, image/svg+xml, false
+6/0, Yellow Pinstripes, image/svg+xml, false
+6/1, Blue Pinstripes, image/svg+xml, false
+6/2, Pink Striped, image/svg+xml, false
+6/3, Green Striped, image/svg+xml, false
+6/4, Orange Striped, image/svg+xml, false
+6/5, Blue Striped, image/svg+xml, false
+6/6, Pink, image/svg+xml, false
+6/7, Orange, image/svg+xml, false
+6/8, Green, image/svg+xml, false
+6/9, Yellow, image/svg+xml, false
+6/10, Blue, image/svg+xml, false
+7/0, Angel, image/svg+xml, false
+7/1, Hexagons, image/svg+xml, false
+7/2, Planets, image/svg+xml, false
+7/3, Fish, image/svg+xml, false
+7/4, Circles, image/svg+xml, false
+7/5, Pyramids, image/svg+xml, false
+7/6, Waves, image/svg+xml, false
+7/7, Soundwave, image/svg+xml, false
+7/8, Mountains, image/svg+xml, false
+7/9, Wind, image/svg+xml, false
+7/10, Bubbles, image/svg+xml, false
+7/11, Blocks, image/svg+xml, false
+7/12, Snow, image/svg+xml, false
+7/13, Pine Trees, image/svg+xml, false
+7/14, Gradient, image/svg+xml, false
+7/15, Shapes, image/svg+xml, false
+7/16, Garland, image/svg+xml, false
+7/17, Triangles, image/svg+xml, false
+7/18, Grass, image/svg+xml, false
+7/19, Confetti, image/svg+xml, false
+7/20, Palm Trees, image/svg+xml, false
+7/21, Star, image/svg+xml, false
+7/22, Rain, image/svg+xml, false
+7/23, Bricks, image/svg+xml, false
+7/24, Clouds, image/svg+xml, false
+7/25, Clear, image/svg+xml, false
+8/0, Gold, image/svg+xml, false
+8/1, Rainbow, image/svg+xml, false
+8/2, Swoosh, image/svg+xml, false
+8/3, Wave, image/svg+xml, false
+8/4, Spin, image/svg+xml, false
+8/5, Afterglow, image/svg+xml, false
+8/6, Angles, image/svg+xml, false
+8/7, Multicolor, image/svg+xml, false
+8/8, Aqua, image/svg+xml, false
+8/9, Evening, image/svg+xml, false
+8/10, Afternoon, image/svg+xml, false
+8/11, Twilight, image/svg+xml, false
+8/12, Sunrise, image/svg+xml, false
+8/13, Green, image/svg+xml, false
+8/14, Dusk, image/svg+xml, false
+8/15, Pink, image/svg+xml, false
+8/16, Midday, image/svg+xml, false
+8/17, Dawn, image/svg+xml, false
+8/18, Sunset, image/svg+xml, false
+8/19, Morning, image/svg+xml, false
+8/20, Yellow, image/svg+xml, false
+8/21, Blue, image/svg+xml, false

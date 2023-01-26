@@ -1,7 +1,7 @@
 # How-Tos
 
 
-## How-To Generate "Previev" Strips
+## How-To Generate "Preview" Strips
 
 Step 1 - Download token metadata
 
@@ -33,22 +33,65 @@ Let's try 3d phunks (16x16) @ 0x6c1c678428cc3793a53471c9304fc0372594dbbc
 
     $ ruby artq.rb 0x6c1c678428cc3793a53471c9304fc0372594dbbc layers
 
-Or Let's try 3d skulls () @
+Or Let's try 3d skulls (24x24) @
 0xd8a47f76bdca04d1b959cc70d72ae5539812e931
 
     $ ruby artq.rb 0xd8a47f76bdca04d1b959cc70d72ae5539812e931 layers
 
 and so on.
 
-Nnote: By default for now the layers
+
+Note: For now by default the layers
 get saved into tmp/<addr>/cache.
-Rename / move the cache directory to its permanent home.
+Rename / move the cache directory to its permanent home (by hand).
 
 
 
 
 
 ## (Latest) Download Sources
+
+**Update on 26th Jan 2023**
+
+
+shiba (24x24)  - 126 items
+- 0xe6313d1776e4043d906d5b7221be70cf470f5e87
+- https://opensea.io/collection/onchainshiba
+
+ecc0s (svg) - 204 items
+- 0x94cb646dd34b3b0ff7c116208f7f7ff7ac216079
+- https://ecc0s.com/
+
+cutekevin (svg) - 60 items
+- 0xb0dc51536e2b4950d7d6667748a6be6fc53c3318
+- https://opensea.io/collection/cute-kevin
+
+deathofkevin (32x32) - 81 items
+- 0xcce158dd5384b599fc29fe34d83b11ea8fb7a816
+- https://opensea.io/collection/death-of-kevin
+
+gmkevin (27x25) - 113 items
+- 0xe302f509c4a3729791215f74299f1fa626396e5a
+- https://opensea.io/collection/gm-kevin
+
+frogcentral (32x32) - 213 items
+- 0x5a8e04a84fb2f6ad4002c824045c7c1bde10cb81
+- https://opensea.io/collection/frog-central
+
+pepeblocks (19x25) - 100 items
+- 0x0e10e5e978ba4d1af92eb554cd730c9b97f4e571
+- https://opensea.io/collection/pepe-blocks
+
+pepeburbpunks (24x24) - 129 items
+- 0x897792d16a46f9e70446638bfc6a0d884b741f9b
+- https://opensea.io/collection/pepe-burb-punks
+
+novo (24x24) - 37 items
+- 0x22a81c80bb6bf4b797acf08351934b46193bddde
+- https://opensea.io/collection/onchainnovo
+
+
+**More Updates**
 
 women
 - 0x82e8129dafb2d5f06aeded321fb04628f95ef654
