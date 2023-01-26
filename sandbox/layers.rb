@@ -125,10 +125,24 @@ collections = %w[
 ]
 
 
+## update january 2023
+collections = %w[
+   shiba
+   ecc0s
+   cutekevin
+   deathofkevin
+   gmkevin
+   frogcentral
+   pepeblocks
+   pepeburbpunks
+   novo
+]
+
+
 collections.each do |collection|
   puts "==> #{collection}..."
 
-  basedir = "#{collection}/cache"
+  basedir = "more/#{collection}/cache"
   cache = LayersCache.new( basedir )
 
   buf = cache.build_summary( title: "Layers in /#{collection}" )
