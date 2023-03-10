@@ -51,7 +51,36 @@ Rename / move the cache directory to its permanent home (by hand).
 
 ## (Latest) Download Sources
 
-**Update on 26th Jan 2023**
+
+**Update on March 10th, 2023**
+
+X Punks (24x24) - 999 items
+- 0x0c346c9126ef3e7a8943e5fca69493e272e48bf5
+- https://opensea.io/collection/xpunksonchain
+
+Human of Metaverse (24x24) - 5554 items
+- 0xb609183a8245c32fa3c60c498bb54010e9ce8e85
+- https://opensea.io/collection/onchainhom
+
+Pepe Phunks (24x24)  - 10 000 items
+- 0xc00ffeb7cf191c3432ede000478901f99fd53633
+- https://opensea.io/collection/pepephunks
+
+Rabbits (36x36)  - 5555 items
+- 0x6558cae45b20d2dea47e7564213c3f98973d34fc
+- https://opensea.io/collection/bonbon-by-usagi
+
+Bold Ones (32x32)  - 2034 items
+- 0xef2b840add7736a71ec13e0477ec1844bbc82550
+- https://opensea.io/collection/the-bold-ones
+
+
+~~Bandits  (SVG, ASCII ART)~~  - 10 000 items    -- note: no traitDetails available? custom contract?
+- 0x17fceb2637f89671385b73d8845e46f56b08078b
+- https://opensea.io/collection/onchainbandits
+
+
+**Update on Jan 26th, 2023**
 
 
 shiba (24x24)  - 126 items

@@ -1,0 +1,235 @@
+index, name, type, hide
+0/0, -, image/png, true
+0/1, Pilot, image/png, false
+0/2, Rockstar I, image/png, false
+0/3, Texan, image/png, false
+0/4, Builder, image/png, false
+0/5, Rockstar II, image/png, false
+0/6, Soldier, image/png, false
+0/7, Commoner I, image/png, false
+0/8, Outlaw, image/png, false
+0/9, Retro, image/png, false
+0/10, Undercover, image/png, false
+0/11, Rap God II, image/png, false
+0/12, Athlete, image/png, false
+0/13, Mountaineer, image/png, false
+0/14, Rebel, image/png, false
+0/15, Busker, image/png, false
+0/16, Commoner II, image/png, false
+0/17, Chieftain, image/png, false
+0/18, Hero, image/png, false
+0/19, Droid, image/png, false
+0/20, Degen, image/png, false
+0/21, Godfather, image/png, false
+0/22, Mastermind, image/png, false
+0/23, Bandit, image/png, false
+0/24, Combatant II, image/png, false
+0/25, Player, image/png, false
+0/26, Space Miner, image/png, false
+0/27, Deejay, image/png, false
+0/28, Combatant I, image/png, false
+0/29, Bloodseeker, image/png, false
+0/30, Interrogator, image/png, false
+0/31, Intern, image/png, false
+0/32, Commander, image/png, false
+0/33, Jester, image/png, false
+0/34, Rocker Punk, image/png, false
+0/35, Henchman, image/png, false
+0/36, Joker, image/png, false
+0/37, Hunter, image/png, false
+0/38, Officer, image/png, false
+0/39, Kings Guard, image/png, false
+0/40, Pirate, image/png, false
+0/41, Trickster, image/png, false
+0/42, Shepherd, image/png, false
+0/43, Templar, image/png, false
+0/44, Tormentor, image/png, false
+0/45, Fighter, image/png, false
+0/46, Messenger, image/png, false
+0/47, Recruit, image/png, false
+0/48, Beastmaster, image/png, false
+0/49, Chic, image/png, false
+0/50, Bot, image/png, false
+0/51, General, image/png, false
+0/52, Punx, image/png, false
+0/53, Rap God I, image/png, false
+0/54, Satyr, image/png, false
+0/55, Artist, image/png, false
+0/56, Fiend, image/png, false
+0/57, Snowpiercer, image/png, false
+0/58, Mutant, image/png, false
+0/59, Surfer, image/png, false
+0/60, Legend, image/png, false
+0/61, Gentleman, image/png, false
+0/62, Paladin II, image/png, false
+0/63, Spy, image/png, false
+0/64, Paladin III, image/png, false
+0/65, Paladin I, image/png, false
+0/66, Milord, image/png, false
+0/67, Supreme, image/png, false
+0/68, Empress, image/png, false
+0/69, Vigilante, image/png, false
+0/70, Diva, image/png, false
+0/71, Milady, image/png, false
+0/72, Officiator, image/png, false
+0/73, Empress, image/png, false
+0/74, Diva, image/png, false
+0/75, Avian, image/png, false
+0/76, Rouge, image/png, false
+0/77, Annon, image/png, false
+0/78, Rouge, image/png, false
+0/79, Annon, image/png, false
+0/80, Shadow, image/png, false
+0/81, Shadow, image/png, false
+0/82, Avian, image/png, false
+0/83, Rouge, image/png, false
+0/84, Annon, image/png, false
+0/85, Avian, image/png, false
+0/86, Shadow, image/png, false
+0/87, Rouge, image/png, false
+0/88, Avian, image/png, false
+0/89, Healing, image/png, false
+0/90, Change, image/png, false
+0/91, Transformation, image/png, false
+0/92, Integrity, image/png, false
+0/93, Justice, image/png, false
+0/94, Prosperity, image/png, false
+1/0, -, image/png, true
+1/1, Integrity (Hidden), image/png, true
+1/2, Change (Hidden), image/png, true
+1/3, Healing (Hidden), image/png, true
+1/4, Justice (Hidden), image/png, true
+1/5, Transformation (Hidden), image/png, true
+1/6, Prosperity (Hidden), image/png, true
+2/0, -, image/png, true
+2/1, Gloomy, image/png, false
+2/2, Celestial, image/png, false
+2/3, Camouflage, image/png, false
+2/4, Ethereal, image/png, false
+2/5, Agile, image/png, false
+2/6, Imperial, image/png, false
+2/7, Iron Suit I, image/png, false
+2/8, Impervious, image/png, false
+2/9, Terminator, image/png, false
+2/10, Elite, image/png, false
+2/11, Ornate, image/png, false
+2/12, Reflectorize, image/png, false
+2/13, Cold I, image/png, false
+2/14, Rug, image/png, false
+2/15, Dark, image/png, false
+2/16, Elusive, image/png, false
+2/17, Attraction, image/png, false
+2/18, Space Mission, image/png, false
+2/19, Kevlar, image/png, false
+2/20, Mysterious, image/png, false
+2/21, Defense, image/png, false
+2/22, Arial, image/png, false
+2/23, Comfy Executive, image/png, false
+2/24, Cold II, image/png, false
+2/25, Robust, image/png, false
+2/26, Daring, image/png, false
+2/27, Adventure, image/png, false
+2/28, Warm, image/png, false
+2/29, Executive, image/png, false
+2/30, Cozy, image/png, false
+2/31, Witty, image/png, false
+2/32, Protective, image/png, false
+2/33, Dynasty, image/png, false
+2/34, Active, image/png, false
+2/35, Galaxy, image/png, false
+2/36, Valiant, image/png, false
+2/37, Classy, image/png, false
+2/38, Ceremonial, image/png, false
+2/39, Business, image/png, false
+2/40, Euphoria, image/png, false
+2/41, Vintage, image/png, false
+2/42, Laid Back, image/png, false
+2/43, Ancient, image/png, false
+2/44, Regal, image/png, false
+2/45, Casual, image/png, false
+2/46, Kungfu, image/png, false
+2/47, Classic, image/png, false
+2/48, Ancient, image/png, false
+2/49, War Machine, image/png, false
+2/50, Treant, image/png, false
+2/51, Yuris Suit, image/png, false
+2/52, Sly, image/png, false
+3/0, Aquatic, image/png, false
+3/1, Aquatic Y, image/png, false
+3/2, Moss, image/png, false
+3/3, Bronzed, image/png, false
+3/4, Halfbreed, image/png, false
+3/5, Hybrid, image/png, false
+3/6, Martian, image/png, false
+3/7, Olive, image/png, false
+3/8, Gossamer, image/png, false
+3/9, Moss X, image/png, false
+3/10, Undead, image/png, false
+3/11, Halfbreed X, image/png, false
+3/12, Void, image/png, false
+3/13, Flesh, image/png, false
+3/14, Reptilian, image/png, false
+3/15, Amphibian, image/png, false
+3/16, Aquatic, image/png, false
+3/17, Gossamer, image/png, false
+3/18, Hybrid, image/png, false
+3/19, Hybrid X, image/png, false
+3/20, Martian, image/png, false
+3/21, Moss, image/png, false
+3/22, Olive, image/png, false
+3/23, Reptilian, image/png, false
+3/24, Void, image/png, false
+3/25, Void Y, image/png, false
+3/26, Bronzed, image/png, false
+3/27, Flesh, image/png, false
+3/28, Reptilian X, image/png, false
+3/29, Amphibian, image/png, false
+3/30, Olive, image/png, false
+3/31, Olive, image/png, false
+3/32, Moss, image/png, false
+3/33, Moss, image/png, false
+3/34, Olive, image/png, false
+3/35, Phantom, image/png, false
+3/36, Phantom X, image/png, false
+3/37, Moss, image/png, false
+3/38, Moss, image/png, false
+3/39, Olive, image/png, false
+3/40, Phantom, image/png, false
+3/41, Void, image/png, false
+3/42, Flesh, image/png, false
+3/43, Phantom, image/png, false
+3/44, Amphibian, image/png, false
+3/45, Aquatic, image/png, false
+3/46, Bronzed, image/png, false
+3/47, Halfbreed, image/png, false
+3/48, Hybrid, image/png, false
+3/49, Martian, image/png, false
+3/50, Void, image/png, false
+3/51, Flesh, image/png, false
+3/52, Phantom X, image/png, false
+3/53, Olive, image/png, false
+4/0, Male Human, image/png, false
+4/1, Male Elven, image/png, false
+4/2, Ape, image/png, false
+4/3, Female Human, image/png, false
+4/4, Female Elven, image/png, false
+4/5, Ape, image/png, false
+5/0, Cold Dry, image/png, false
+5/1, Nowhere, image/png, false
+5/2, Foggy I, image/png, false
+5/3, Cloudy, image/png, false
+5/4, Dark, image/png, false
+5/5, Polar, image/png, false
+5/6, Gloomy, image/png, false
+5/7, Sandy, image/png, false
+5/8, Nightfall, image/png, false
+5/9, Twilight, image/png, false
+5/10, Desert, image/png, false
+5/11, Foggy II, image/png, false
+5/12, Marine, image/png, false
+5/13, Dawn II, image/png, false
+5/14, Dawn I, image/png, false
+5/15, Swampy, image/png, false
+5/16, Tropical, image/png, false
+5/17, Woodland, image/png, false
+5/18, At Ease, image/png, false

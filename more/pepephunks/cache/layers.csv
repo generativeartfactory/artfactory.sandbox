@@ -1,0 +1,108 @@
+index, name, type, hide
+0/0, Classic Shades, image/png, false
+0/1, None, image/png, false
+0/2, Regular Shades, image/png, false
+0/3, Horned Rim Glasses, image/png, false
+0/4, 3D Glasses, image/png, false
+0/5, Eye Mask, image/png, false
+0/6, Eye Patch, image/png, false
+0/7, VR, image/png, false
+0/8, Big Shades, image/png, false
+0/9, Nerd Glasses, image/png, false
+0/10, Nerd Shades, image/png, false
+0/11, Clown Eyes Blue, image/png, false
+0/12, Clown Eyes Green, image/png, false
+0/13, Red Eye Shadow, image/png, false
+0/14, Purple Eye Shadow, image/png, false
+0/15, Blue Eye Shadow, image/png, false
+0/16, Welding Goggle, image/png, false
+1/0, None, image/png, false
+1/1, Cigarette, image/png, false
+1/2, Vape, image/png, false
+1/3, Espresso, image/png, false
+1/4, Rainbow Puke, image/png, false
+1/5, Cigar, image/png, false
+1/6, Blunt, image/png, false
+1/7, Hookah, image/png, false
+1/8, Pipe, image/png, false
+1/9, Joint, image/png, false
+1/10, Gold Espresso, image/png, false
+2/0, None, image/png, false
+2/1, Mohawk, image/png, false
+2/2, Mohawk Dark, image/png, false
+2/3, Wild Hair, image/png, false
+2/4, Bandana, image/png, false
+2/5, Stringy Hair, image/png, false
+2/6, Frumpy Hair 1, image/png, false
+2/7, Mohawk Thin, image/png, false
+2/8, Headband, image/png, false
+2/9, Cap, image/png, false
+2/10, Knitted Cap, image/png, false
+2/11, Cap Forward, image/png, false
+2/12, Crazy Hair, image/png, false
+2/13, Peak Spike, image/png, false
+2/14, Messy Hair, image/png, false
+2/15, Do-rag, image/png, false
+2/16, Hoodie, image/png, false
+2/17, Clown Hair Green 2, image/png, false
+2/18, Top Hat, image/png, false
+2/19, Police Cap, image/png, false
+2/20, Fedora, image/png, false
+2/21, Cowboy Hat, image/png, false
+2/22, Frumpy Hair 2, image/png, false
+2/23, Clown Hair Green 1, image/png, false
+2/24, Half Shaved, image/png, false
+2/25, Red Mohawk, image/png, false
+2/26, Vampire Hair, image/png, false
+2/27, Shaved Head, image/png, false
+2/28, Wild Blonde, image/png, false
+2/29, Tassle Hat 1, image/png, false
+2/30, Pilot Helmet, image/png, false
+2/31, Pink With Hat, image/png, false
+2/32, Pigtails, image/png, false
+2/33, Purple Hair, image/png, false
+2/34, Straight Hair, image/png, false
+2/35, Straight Hair Blonde, image/png, false
+2/36, Blonde Bob, image/png, false
+2/37, Dark Hair, image/png, false
+2/38, Orange Side, image/png, false
+2/39, Wild White Hair, image/png, false
+2/40, Purple Hair, image/png, false
+2/41, Blonde Short, image/png, false
+2/42, Beanie, image/png, false
+2/43, Tassle Hat 2, image/png, false
+2/44, Tiara, image/png, false
+3/0, None, image/png, false
+3/1, Frog, image/png, false
+3/2, Clown, image/png, false
+3/3, Tear, image/png, false
+4/0, None, image/png, false
+4/1, Gold Earring Left, image/png, false
+4/2, Gold Earring Right, image/png, false
+5/0, None, image/png, false
+5/1, Mole, image/png, false
+5/2, Spots, image/png, false
+5/3, Freckles, image/png, false
+6/0, None, image/png, false
+6/1, Rosy, image/png, false
+6/2, Blush, image/png, false
+7/0, None, image/png, false
+7/1, Gold Chain, image/png, false
+7/2, Silver Chain, image/png, false
+7/3, Choker, image/png, false
+8/0, None, image/png, false
+8/1, Drool, image/png, false
+8/2, Vampire, image/png, false
+9/0, Frog, image/png, false
+9/1, None, image/png, false
+10/0, Smile 1, image/png, false
+10/1, None 1, image/png, false
+10/2, Frown 1, image/png, false
+10/3, Zombie, image/png, false
+10/4, Robot, image/png, false
+10/5, Ape, image/png, false
+10/6, Alien, image/png, false
+11/0, CryptoPhunksV2, image/png, false
+11/1, V3Phunks, image/png, false
+11/2, PepePhunks, image/png, false
+11/3, CryptoPhunks, image/png, false

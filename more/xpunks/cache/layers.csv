@@ -1,0 +1,64 @@
+index, name, type, hide
+0/0, Frown, image/png, false
+0/1, Mole, image/png, false
+0/2, Shadow Beard, image/png, false
+0/3, Mustache, image/png, false
+0/4, Beard Black, image/png, false
+0/5, Chin, image/png, false
+0/6, Front Beard, image/png, false
+0/7, Handlebars, image/png, false
+0/8, Smile, image/png, false
+0/9, Buckteeth, image/png, false
+0/10, Clown Nose, image/png, false
+0/11, Goat, image/png, false
+0/12, Earring, image/png, false
+0/13, Vape, image/png, false
+0/14, Cig, image/png, false
+0/15, None, image/png, false
+1/0, 3 D Glasses, image/png, false
+1/1, VR, image/png, false
+1/2, Eyepatch, image/png, false
+1/3, Nerd Glasses, image/png, false
+1/4, Classic Shades, image/png, false
+1/5, Summer Glasses, image/png, false
+1/6, Regular Shades, image/png, false
+1/7, Big Shades, image/png, false
+1/8, None, image/png, false
+2/0, Beanie, image/png, false
+2/1, Mohawk, image/png, false
+2/2, Top Hat, image/png, false
+2/3, Bandana, image/png, false
+2/4, Classic Hoodie, image/png, false
+2/5, Do Rag, image/png, false
+2/6, Dust Hoodie, image/png, false
+2/7, Mohawk Dark, image/png, false
+2/8, Mohawk Thin, image/png, false
+2/9, String Hair, image/png, false
+2/10, Frumpy Hair, image/png, false
+2/11, Headband, image/png, false
+2/12, Luxurious Hair, image/png, false
+2/13, Police, image/png, false
+2/14, Cap Foward, image/png, false
+2/15, Cowboy, image/png, false
+2/16, Purple Hoodie, image/png, false
+2/17, Purple Hair, image/png, false
+2/18, Vampire Hair, image/png, false
+2/19, Fedora, image/png, false
+2/20, Purple Cap, image/png, false
+2/21, Gold Chain, image/png, false
+2/22, Crazy Hair, image/png, false
+2/23, None, image/png, false
+3/0, Ape, image/png, false
+3/1, Zombie, image/png, false
+3/2, Green Ape, image/png, false
+3/3, Grifter 1, image/png, false
+3/4, Grifter 2, image/png, false
+3/5, Male 4, image/png, false
+3/6, Male 3, image/png, false
+3/7, Male 2, image/png, false
+3/8, Male 1, image/png, false
+4/0, Black, image/png, false
+4/1, White, image/png, false
+4/2, Pixelchain Green, image/png, false
+4/3, RCS, image/png, false
+4/4, Xcopy Red, image/png, false

@@ -1,0 +1,520 @@
+index, name, type, hide
+0/0, None, image/png, true
+0/1, Glitch, image/png, true
+0/2, Ninja, image/png, true
+0/3, Blink2, image/png, false
+0/4, Blink1, image/png, false
+0/5, Blink3, image/png, false
+0/6, Anomaly, image/png, false
+0/7, Green Imposter, image/png, true
+0/8, Yellow Imposter, image/png, true
+0/9, Blue Imposter, image/png, true
+0/10, Red Imposter, image/png, true
+0/11, Super BON, image/png, false
+1/0, None, image/png, true
+1/1, Wooden Stick, image/png, false
+1/2, Flashlight, image/png, false
+1/3, Banana, image/png, false
+1/4, Flower, image/png, false
+1/5, Cutlas, image/png, false
+1/6, Magic Wand, image/png, false
+1/7, Lollipop, image/png, false
+1/8, Blue Lightsaber, image/png, false
+1/9, Christmas Tree, image/png, false
+1/10, Staff, image/png, false
+1/11, Pink Tube, image/png, false
+1/12, Green Lightsaber, image/png, false
+1/13, Devil's Pitchfork, image/png, false
+1/14, Knife, image/png, false
+1/15, Red Lightsaber, image/png, false
+1/16, Knife, image/png, false
+1/17, Bomb, image/png, false
+1/18, Devil's Pitchfork, image/png, false
+1/19, Bomb, image/png, false
+1/20, Live Bomb, image/png, false
+1/21, Live Bomb, image/png, false
+1/22, Pink Tube, image/png, false
+1/23, Pink Tube, image/png, false
+1/24, Pink Tube, image/png, false
+1/25, Knife, image/png, false
+1/26, Flower, image/png, false
+1/27, Red Lightsaber, image/png, false
+1/28, None (Glitch), image/png, true
+1/29, Crimson Shuriken, image/png, false
+2/0, None1, image/png, true
+2/1, Bubblegum, image/png, true
+2/2, Old Fashioned, image/png, true
+2/3, Gas Mask, image/png, true
+2/4, Rainbow, image/png, true
+2/5, Bunny Suit, image/png, true
+2/6, Rainbow Gold, image/png, true
+2/7, None (Glitch), image/png, true
+2/8, None (Ninja), image/png, true
+2/9, None, image/png, true
+2/10, None, image/png, true
+3/0, None, image/png, true
+3/1, Gray Onesie, image/png, false
+3/2, Green Onesie, image/png, false
+3/3, Blue Onesie, image/png, false
+3/4, Red Onesie, image/png, false
+3/5, Orange Onesie, image/png, false
+3/6, Yellow Onesie, image/png, false
+3/7, None (Glitch), image/png, true
+3/8, None (Gas Mask), image/png, true
+3/9, None (Bunny Suit), image/png, true
+3/10, None (Ninja), image/png, true
+4/0, None, image/png, false
+4/1, Clear, image/png, false
+4/2, Nerdy, image/png, false
+4/3, Sly, image/png, false
+4/4, Purple Tint, image/png, false
+4/5, Browne, image/png, false
+4/6, 3 D, image/png, false
+4/7, Rose Gold, image/png, false
+4/8, Googley, image/png, false
+4/9, Blind, image/png, false
+4/10, Shades, image/png, false
+4/11, Pixelated, image/png, false
+4/12, XX, image/png, false
+4/13, Single Frame, image/png, false
+4/14, Nounish Blue, image/png, false
+4/15, Blue VR, image/png, false
+4/16, Nounish Green, image/png, false
+4/17, RGB, image/png, false
+4/18, Nounish Red, image/png, false
+4/19, Morpheus, image/png, false
+4/20, 3 D White, image/png, false
+4/21, Heart, image/png, false
+4/22, Red VR, image/png, false
+4/23, Gas Mask, image/png, true
+4/24, None (Glitch), image/png, true
+4/25, None (Bunny Suit), image/png, true
+4/26, None (Rainbow Gold), image/png, true
+4/27, None (Ninja), image/png, true
+5/0, Mask, image/png, false
+5/1, Beard, image/png, false
+5/2, Bunny, image/png, false
+5/3, Beard Grin, image/png, false
+5/4, Laugh, image/png, false
+5/5, W, image/png, false
+5/6, Grin, image/png, false
+5/7, Chew, image/png, false
+5/8, W, image/png, false
+5/9, Grin, image/png, false
+5/10, Chew, image/png, false
+5/11, Moody, image/png, false
+5/12, Laugh, image/png, false
+5/13, Bunny, image/png, false
+5/14, Bunny, image/png, false
+5/15, Bunny, image/png, false
+5/16, Chew, image/png, false
+5/17, Pout, image/png, false
+5/18, Moody, image/png, false
+5/19, Moody, image/png, false
+5/20, Pout, image/png, false
+5/21, Annoyed, image/png, false
+5/22, W, image/png, false
+5/23, Pout, image/png, false
+5/24, Annoyed, image/png, false
+5/25, Annoyed, image/png, false
+5/26, Cigarette, image/png, false
+5/27, Cigarette, image/png, false
+5/28, Cigarette, image/png, false
+5/29, Cigarette, image/png, false
+5/30, Pout, image/png, false
+5/31, Grin, image/png, false
+5/32, Grin, image/png, false
+5/33, Grin, image/png, false
+5/34, Grin, image/png, false
+5/35, Grin, image/png, false
+5/36, Grin, image/png, false
+5/37, Grin, image/png, false
+5/38, Grin, image/png, false
+5/39, Grin, image/png, false
+5/40, Grin, image/png, false
+5/41, Laugh, image/png, false
+5/42, Drool, image/png, false
+5/43, Moody, image/png, false
+5/44, Moody, image/png, false
+5/45, Moody, image/png, false
+5/46, Moody, image/png, false
+5/47, Moody, image/png, false
+5/48, Moody, image/png, false
+5/49, Moody, image/png, false
+5/50, W, image/png, false
+5/51, W, image/png, false
+5/52, W, image/png, false
+5/53, W, image/png, false
+5/54, W, image/png, false
+5/55, W, image/png, false
+5/56, W, image/png, false
+5/57, Moody, image/png, false
+5/58, Moody, image/png, false
+5/59, Moody, image/png, false
+5/60, W, image/png, false
+5/61, Drool, image/png, false
+5/62, Drool, image/png, false
+5/63, Cigarette, image/png, false
+5/64, Laugh, image/png, false
+5/65, Laugh, image/png, false
+5/66, Laugh, image/png, false
+5/67, Laugh, image/png, false
+5/68, Laugh, image/png, false
+5/69, Laugh, image/png, false
+5/70, Laugh, image/png, false
+5/71, Laugh, image/png, false
+5/72, Bunny, image/png, false
+5/73, Bunny, image/png, false
+5/74, Bunny, image/png, false
+5/75, Bunny, image/png, false
+5/76, Bunny, image/png, false
+5/77, Chew, image/png, false
+5/78, Chew, image/png, false
+5/79, Chew, image/png, false
+5/80, Chew, image/png, false
+5/81, Chew, image/png, false
+5/82, Chew, image/png, false
+5/83, Chew, image/png, false
+5/84, Chew, image/png, false
+5/85, Cigarette, image/png, false
+5/86, Cigarette, image/png, false
+5/87, Cigarette, image/png, false
+5/88, Cigarette, image/png, false
+5/89, Pout, image/png, false
+5/90, Pout, image/png, false
+5/91, Pout, image/png, false
+5/92, Pout, image/png, false
+5/93, Pout, image/png, false
+5/94, Pout, image/png, false
+5/95, Pout, image/png, false
+5/96, Grin, image/png, false
+5/97, Grin, image/png, false
+5/98, Pout, image/png, false
+5/99, Moody, image/png, false
+5/100, Annoyed, image/png, false
+5/101, Annoyed, image/png, false
+5/102, Annoyed, image/png, false
+5/103, Annoyed, image/png, false
+5/104, Annoyed, image/png, false
+5/105, Annoyed, image/png, false
+5/106, Annoyed, image/png, false
+5/107, Annoyed, image/png, false
+5/108, Grin, image/png, false
+5/109, Moody, image/png, false
+5/110, Moody, image/png, false
+5/111, Moody, image/png, false
+5/112, Drool, image/png, false
+5/113, Drool, image/png, false
+5/114, Drool, image/png, false
+5/115, Drool, image/png, false
+5/116, Drool, image/png, false
+5/117, Drool, image/png, false
+5/118, Drool, image/png, false
+5/119, Drool, image/png, false
+5/120, Moody, image/png, false
+5/121, Robotic, image/png, false
+5/122, Annoyed, image/png, false
+5/123, Bunny, image/png, false
+5/124, Chew, image/png, false
+5/125, Chew, image/png, false
+5/126, Cigarette, image/png, false
+5/127, Drool, image/png, false
+5/128, Grin, image/png, false
+5/129, Laugh, image/png, false
+5/130, Laugh, image/png, false
+5/131, Pout, image/png, false
+5/132, W, image/png, false
+5/133, W, image/png, false
+5/134, W, image/png, false
+5/135, W, image/png, false
+5/136, W, image/png, false
+5/137, Laugh, image/png, false
+5/138, Laugh, image/png, false
+5/139, Laugh, image/png, false
+5/140, Bunny, image/png, false
+5/141, Bunny, image/png, false
+5/142, Bunny, image/png, false
+5/143, Chew, image/png, false
+5/144, Chew, image/png, false
+5/145, Chew, image/png, false
+5/146, Pout, image/png, false
+5/147, Cigarette, image/png, false
+5/148, Cigarette, image/png, false
+5/149, Cigarette, image/png, false
+5/150, Pout, image/png, false
+5/151, Pout, image/png, false
+5/152, Pout, image/png, false
+5/153, Annoyed, image/png, false
+5/154, Annoyed, image/png, false
+5/155, Annoyed, image/png, false
+5/156, Annoyed, image/png, false
+5/157, Chew, image/png, false
+5/158, Grin, image/png, false
+5/159, W, image/png, false
+5/160, Drool, image/png, false
+5/161, Drool, image/png, false
+5/162, Drool, image/png, false
+5/163, Drool, image/png, false
+5/164, None (Glitch), image/png, true
+5/165, Bubblegum, image/png, false
+5/166, Old Fashioned, image/png, false
+5/167, Rainbow, image/png, false
+5/168, Rainbow, image/png, false
+5/169, Bunny Suit, image/png, false
+5/170, None (Gas Mask), image/png, true
+5/171, Moody (Ninja), image/png, true
+6/0, None, image/png, false
+6/1, Carrot Cap, image/png, false
+6/2, Carrot Headband, image/png, false
+6/3, Demon Horns Long, image/png, false
+6/4, Backwards Cap, image/png, false
+6/5, Orange Headband, image/png, false
+6/6, Top Hat, image/png, false
+6/7, Gray Bandana, image/png, false
+6/8, Green Bandana, image/png, false
+6/9, Blue Bandana, image/png, false
+6/10, Pirate Hat, image/png, false
+6/11, Cowboy Hat, image/png, false
+6/12, Red Bandana, image/png, false
+6/13, Halo, image/png, false
+6/14, Orange Beanie, image/png, false
+6/15, Anemone Flower, image/png, false
+6/16, Bow, image/png, false
+6/17, Carrot Leaf, image/png, false
+6/18, Rubber Duck, image/png, false
+6/19, Detached Robo, image/png, false
+6/20, Demon Horns Short, image/png, false
+6/21, Cowboy Hat, image/png, false
+6/22, Cowboy Hat, image/png, false
+6/23, Diamond, image/png, false
+6/24, Visor Blue, image/png, false
+6/25, Visor Green, image/png, false
+6/26, Visor Pink, image/png, false
+6/27, Visor Red, image/png, false
+6/28, Golden Nugget, image/png, false
+6/29, None  (Glitch), image/png, true
+6/30, None (Gray Onesie), image/png, false
+6/31, None (Gas Mask), image/png, true
+6/32, None (Bunny Suit), image/png, true
+6/33, None (Gas Mask), image/png, true
+6/34, None (Rainbow Gold), image/png, true
+6/35, Ninja Headband, image/png, false
+7/0, Half Closed, image/png, false
+7/1, T T, image/png, false
+7/2, Anime, image/png, false
+7/3, Awe, image/png, false
+7/4, Lashes, image/png, false
+7/5, Sleepy, image/png, false
+7/6, Squint, image/png, false
+7/7, Eye Patch, image/png, false
+7/8, Normal, image/png, false
+7/9, Normal, image/png, false
+7/10, Normal, image/png, false
+7/11, Normal, image/png, false
+7/12, Normal, image/png, false
+7/13, Normal, image/png, false
+7/14, Normal, image/png, false
+7/15, X, image/png, false
+7/16, Closed, image/png, false
+7/17, X, image/png, false
+7/18, Closed, image/png, false
+7/19, Closed, image/png, false
+7/20, Closed, image/png, false
+7/21, Closed, image/png, false
+7/22, Closed, image/png, false
+7/23, Closed, image/png, false
+7/24, X, image/png, false
+7/25, X, image/png, false
+7/26, X, image/png, false
+7/27, X, image/png, false
+7/28, Normal White, image/png, false
+7/29, Robot Angry, image/png, false
+7/30, Robot Blue V 1, image/png, false
+7/31, Robot Blue V 2, image/png, false
+7/32, Robot Blue V 3, image/png, false
+7/33, Robot Half Closed, image/png, false
+7/34, Robot Half Moon, image/png, false
+7/35, Robot Sorry, image/png, false
+7/36, Robot Blue V 1, image/png, false
+7/37, Robot Blue V 1, image/png, false
+7/38, Robot Blue V 1, image/png, false
+7/39, Robot Blue V 2, image/png, false
+7/40, Robot Blue V 2, image/png, false
+7/41, Robot Blue V 2, image/png, false
+7/42, Robot Blue V 3, image/png, false
+7/43, Robot Blue V 3, image/png, false
+7/44, Robot Blue V 3, image/png, false
+7/45, Robot Sorry, image/png, false
+7/46, Robot Sorry, image/png, false
+7/47, Robot Sorry, image/png, false
+7/48, Robot Half Closed, image/png, false
+7/49, Robot Half Closed, image/png, false
+7/50, Robot Half Closed, image/png, false
+7/51, Robot Half Moon, image/png, false
+7/52, Robot Half Moon, image/png, false
+7/53, Robot Half Moon, image/png, false
+7/54, Terminator, image/png, false
+7/55, Terminator, image/png, false
+7/56, Terminator, image/png, false
+7/57, Terminator, image/png, false
+7/58, Half Closed, image/png, false
+7/59, Anime, image/png, false
+7/60, Awe, image/png, false
+7/61, Closed, image/png, false
+7/62, Half Closed, image/png, false
+7/63, Lashes, image/png, false
+7/64, Sleepy, image/png, false
+7/65, Squint, image/png, false
+7/66, T T, image/png, false
+7/67, X, image/png, false
+7/68, T T, image/png, false
+7/69, X, image/png, false
+7/70, Eye Patch White, image/png, false
+7/71, Sage White, image/png, false
+7/72, None (Glitch), image/png, true
+7/73, None, image/png, false
+7/74, None (Gas Mask), image/png, true
+7/75, Normal (Rainbow Gold), image/png, true
+7/76, Sage, image/png, false
+8/0, Naked, image/png, true
+8/1, Moon T Shirt, image/png, false
+8/2, Diamond T Shirt, image/png, false
+8/3, Carrot Tanktop, image/png, false
+8/4, Black Overalls, image/png, false
+8/5, Lumberjack, image/png, false
+8/6, Tom Boy, image/png, false
+8/7, Apple Tanktop, image/png, false
+8/8, Leather Jacket, image/png, false
+8/9, Classic Shirt, image/png, false
+8/10, Blue Robe, image/png, false
+8/11, Cardigan, image/png, false
+8/12, Office, image/png, false
+8/13, Blue Shirt, image/png, false
+8/14, Pink Shirt, image/png, false
+8/15, Gold Chains, image/png, false
+8/16, Classic Suit, image/png, false
+8/17, Fry, image/png, false
+8/18, Silver Jacket, image/png, false
+8/19, Safety Vest, image/png, false
+8/20, Dandy, image/png, false
+8/21, Camo Military, image/png, false
+8/22, Gray Hoodie, image/png, false
+8/23, Red Robe, image/png, false
+8/24, Blue Kimono, image/png, false
+8/25, Green Hoodie, image/png, false
+8/26, Red Hoodie, image/png, false
+8/27, Blue Hoodie, image/png, false
+8/28, Orange Hoodie, image/png, false
+8/29, Yellow Hoodie, image/png, false
+8/30, Doctor, image/png, false
+8/31, Silver Suit, image/png, false
+8/32, Pimp Suit, image/png, false
+8/33, Energy Suit, image/png, false
+8/34, Pink Kimono, image/png, false
+8/35, Purple Vest, image/png, false
+8/36, Qi Pao, image/png, false
+8/37, Robocop, image/png, false
+8/38, Police, image/png, false
+8/39, Adventurer, image/png, false
+8/40, Carrot Suit, image/png, false
+8/41, Bikers Jacket, image/png, false
+8/42, White Robe, image/png, false
+8/43, Dune, image/png, false
+8/44, Pink Jacket, image/png, false
+8/45, Red Jersey, image/png, false
+8/46, Blue Jersey, image/png, false
+8/47, Cave, image/png, false
+8/48, Hazmat Suit, image/png, false
+8/49, Clear Bowtie Black, image/png, false
+8/50, Clear Bowtie Red, image/png, false
+8/51, Kindergartener, image/png, false
+8/52, Prince, image/png, false
+8/53, None (Pixelated), image/png, true
+8/54, Bikini Blue, image/png, false
+8/55, Bikini Green, image/png, false
+8/56, Bikini Pink, image/png, false
+8/57, Bikini Red, image/png, false
+8/58, Caped Crusader, image/png, false
+8/59, Orange Tracksuit, image/png, false
+8/60, Super Bon, image/png, false
+8/61, Bomberman, image/png, false
+8/62, Guardian, image/png, false
+8/63, Black Bowtie, image/png, false
+8/64, Red Bowtie, image/png, false
+8/65, Gold Chains (pixelated), image/png, false
+8/66, Cave, image/png, false
+8/67, None (Gray Onesie), image/png, true
+8/68, None (Glitch), image/png, true
+8/69, None (Bunny Suit), image/png, true
+8/70, None (Rainbow Gold), image/png, true
+8/71, Orange Tracksuit, image/png, false
+9/0, Black Belt, image/png, false
+9/1, Brown Belt, image/png, false
+9/2, Green Belt, image/png, false
+9/3, Purple Belt, image/png, false
+9/4, None, image/png, true
+9/5, None (Glitch), image/png, true
+9/6, None (Onesie), image/png, true
+9/7, None (Pixelated), image/png, true
+9/8, None (Bunny Suit), image/png, true
+9/9, None (Rainbow Gold), image/png, true
+9/10, None (naked), image/png, true
+9/11, None (Ninja), image/png, true
+10/0, None, image/png, false
+10/1, Black Pants, image/png, false
+10/2, Brown Pants, image/png, false
+10/3, Blue Pants, image/png, false
+10/4, Blue Stylish, image/png, false
+10/5, Green Stylish, image/png, false
+10/6, Purple Skirt, image/png, false
+10/7, Green Skirt, image/png, false
+10/8, Blue Skirt, image/png, false
+10/9, Pink Skirt, image/png, false
+10/10, Pixelated, image/png, false
+10/11, None (Onesie), image/png, true
+10/12, None (Glitch), image/png, true
+10/13, None (Bunny Suit), image/png, true
+10/14, None  (Rainbow Gold), image/png, true
+10/15, None (naked), image/png, true
+10/16, None (Ninja), image/png, true
+11/0, Zombie, image/png, false
+11/1, White, image/png, false
+11/2, Gray, image/png, false
+11/3, Brown, image/png, false
+11/4, Tan, image/png, false
+11/5, White, image/png, false
+11/6, Gray, image/png, false
+11/7, Tan, image/png, false
+11/8, Brown, image/png, false
+11/9, Pink, image/png, false
+11/10, Demon, image/png, false
+11/11, Robo, image/png, false
+11/12, Robo, image/png, false
+11/13, Robo, image/png, false
+11/14, Golden, image/png, false
+11/15, Holo, image/png, false
+11/16, Robo, image/png, false
+11/17, Demon, image/png, false
+11/18, Glitch, image/png, false
+11/19, Golden, image/png, false
+11/20, Blink, image/png, false
+11/21, Anomaly, image/png, false
+11/22, Imposter, image/png, false
+11/23, Ninja, image/png, false
+11/24, Super BON, image/png, false
+12/0, Sky, image/png, false
+12/1, Pink, image/png, false
+12/2, Purple, image/png, false
+12/3, Orange, image/png, false
+12/4, Mint, image/png, false
+12/5, Rose, image/png, false
+12/6, Clouds, image/png, false
+12/7, Blueberry, image/png, false
+12/8, Peach, image/png, false
+12/9, Grape, image/png, false
+12/10, Strawberry, image/png, false
+12/11, Maroon, image/png, false
+12/12, Red Checkers, image/png, false
+12/13, Space, image/png, false
+12/14, Glitch Red, image/png, false
+12/15, Maroon, image/png, false
