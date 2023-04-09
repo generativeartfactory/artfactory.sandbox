@@ -5,9 +5,7 @@
 
 
 
-![](i/chopper-strip.png "Chopper (in 24×24px)") -
-![](i/dankpunks-strip.png "Dank Punks (in 24×24px)") -
-![](i/fuks-strip.png "Fuks (in 24×24px)")
+
 ![](i/nfl-strip.png "NFL (in 23×23px)")
 ![](i/madcamels-strip.png "Mad Camels (in 32×32px)")
 ![](i/marcs-strip.png "Marcs (in 24×24px)")
@@ -40,23 +38,7 @@
 
 ### Chopper (in 24×24px)
 
-Samples:
-
-- SOLID BLUE,  AQUA, HAT 22, SMOKER, 3D, BANANA
-- SOLID GOLD, AP3, HAT CHOPPER, NON-SMOKER, BIG SHADES, GOLDEN
-- SOLID BLACK, MIDNIGHT, HAT 10, SMOKER, CLASSIC SHADES, DIAMOND CROSS
-
-![](i/chopper0.png)
-![](i/chopper1.png)
-![](i/chopper2.png)
-
-4x:
-
-![](i/chopper0@4x.png)
-![](i/chopper1@4x.png)
-![](i/chopper2@4x.png)
-
-
+![](i/chopper-strip.png "Chopper (in 24×24px)")
 
 [62 Attributes in 6 Categories](chopper/spritesheet-24x24.csv):
 
@@ -67,23 +49,7 @@ Samples:
 
 ### Dank Punks (in 24×24px)
 
-Samples:
-
-- Night Vibe, Pale, Clown Nose, Red Punk, Green Clown
-- Contrast, Tan, Black Hair, 3D Glasses
-- Golden Phunk
-
-
-![](i/dankpunks0.png)
-![](i/dankpunks1.png)
-![](i/dankpunks2.png)
-
-4x:
-
-![](i/dankpunks0@4x.png)
-![](i/dankpunks1@4x.png)
-![](i/dankpunks2@4x.png)
-
+![](i/dankpunks-strip.png "Dank Punks (in 24×24px)")
 
 [77 Attributes (incl. Nones) in 7 Categories (plus 1/1s)](dankpunks/spritesheet-24x24.csv):
 
@@ -108,25 +74,9 @@ to convert to a "static" attribute in the .png format.
 
 
 
-
 ### Fuks (in 24×24px)
 
-
-Samples:
-
-- Robot Fuk, Shaved, Purple Hair, Nose, Vape, VR, No Earrings, Diamond Chain
-- Undead Fuk, Shaved, Messy Hair, Nose, Smile, Laser, Diamond Stud, Silver Chain
-- Human Fuk, Chin Strap, Fast Food Cap, Nose, Grin, Nerd Glasses, No Earrings, No Chains
-
-![](i/fuks0.png)
-![](i/fuks1.png)
-![](i/fuks2.png)
-
-4x:
-
-![](i/fuks0@4x.png)
-![](i/fuks1@4x.png)
-![](i/fuks2@4x.png)
+![](i/fuks-strip.png "Fuks (in 24×24px)")
 
 
 [69 Attributes in 8 Categories](fuks/spritesheet-24x24.csv):
